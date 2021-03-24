@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const app = express();
-//const routes = require("./routes");
+const routes = require("./routes");
 const PORT = process.env.PORT || 4200;
 const mongoose = require("mongoose");
 
@@ -18,20 +18,20 @@ app.get('/*', (req, res) => {
 });
 
 //Using Updated MongoDB Options
-/* const options = {
+const options = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true
-} */
+}
 
 //MongoDB database connection
-/* mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/dodgers", options)
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/dodgers", options)
   .then(() => {
     console.log("Mongo Connected")
   })
   .catch(err => {
     console.log("Mongo Error", err)
-  }); */
+  });
 
 //Server Connection
 app.listen(PORT, () => {

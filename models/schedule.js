@@ -3,7 +3,7 @@ const Schema = mongoose.Schema;
 
 const scheduleSchema = new Schema ({
   id: {
-    type: Integer,
+    type: Number,
     required: true,
     unique: true
   },

@@ -28,6 +28,7 @@ interface schedule {
 export class DataLoadService {
   private rosterData = "assets/data/roster.json";
   private scheduleData = "assets/data/schedule.json";
+  private scheduleDB = "/api/schedule";
 
   constructor(private http: HttpClient) {}
 
@@ -35,7 +36,13 @@ export class DataLoadService {
     return this.http.get<roster>(this.rosterData);
   }
 
+  //Schedule via Attached JSON
   getSchedule(){
     return this.http.get<schedule>(this.scheduleData);
+  }
+
+  //Schedule via MongoDB
+  getScheduleDB(){
+    return this.http.get<schedule>(this.scheduleDB);
   }
 }
