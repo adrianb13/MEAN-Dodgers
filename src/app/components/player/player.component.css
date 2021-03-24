@@ -1,0 +1,94 @@
+.pBack{
+  height: 100%;
+  min-height: 100vh;
+  background: url("../../../assets/img/infield.png") no-repeat;
+  background-size: 100% 100%;
+  overflow-y: hidden;
+}
+.pNameBox{
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 1);
+  margin: 60px auto 20px;
+  color: rgb(8, 56, 132);
+  font-size: 30px;
+}
+.pPlayerName{
+  text-align: center;
+}
+.pPosition{
+  font-size: 20px;
+}
+.pPlayerNum{
+  margin-top: -5px;
+  color: rgb(235, 60, 75);
+}
+.pPlayerError{
+  text-align: center;
+  color: rgb(235, 60, 75);
+}
+.pTable{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  font-size: 20px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.pTable table{
+  width: 600px;
+  border-collapse: collapse;
+  background: darkgray;
+  text-align: center;
+  margin: 0 auto;
+}
+.pTable thead, .pTable tbody{
+  border: 2px solid white;
+}
+.pTable th, .pTable td{
+  padding: 0 5px;
+  color: rgb(8, 56, 132);
+}
+.pTable td {
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+}
+.pBorderRight {
+  border-right: 1px solid white;
+}
+.pRowHeader{
+  width: 120px;
+}
+.pSlide {
+  text-align: center;
+  opacity: 0;
+}
+
+@media(max-width: 600px){
+  .pNameBox{
+    margin: 40px auto 10px;
+  }
+  .pTable{
+    font-size: 15px;
+  }
+  .pTable table{
+    width: 400px;
+  }
+  .pRowHeader{
+    width: 90px;
+  }
+}
+
+@media(max-width: 400px){
+  .pSlide{
+    opacity: 1;
+  }
+}

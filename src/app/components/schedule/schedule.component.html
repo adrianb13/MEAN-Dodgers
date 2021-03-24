@@ -1,0 +1,76 @@
+<div>
+  <app-top-nav></app-top-nav>
+  <div class="sBanner">
+    <div class="sWin">W - <span class="red">{{win}}</span></div>
+    <app-banner class="sLogo"></app-banner>
+    <div class="sLose">L - <span class="red">{{loss}}</span></div>
+  </div>
+  <div class="sNextBox">
+    <div class="sHeader">Next Game</div>
+    <div *ngIf="showNext && home">
+      <div>{{nextGame.date}}</div>
+      <div>{{nextGame.time}}</div>
+      <div>Dodgers vs. {{nextGame.opponent}} </div>
+    </div>
+    <div *ngIf="showNext && !home">
+      <div>{{nextGame.date}}</div>
+      <div>{{nextGame.time}}</div>
+      <div>Dodgers @ {{nextGame.opponent}}</div>
+    </div>
+    <div *ngIf="!showNext" class="sNA">
+      <div class="sWS">2020 World Series Champions!!!</div>
+    </div>
+  </div>
+
+  <div class="sButtonBox">
+    <div class="rBtn" (click)="whatToShow('upcoming')">Schedule</div>
+    <div class="rBtn" (click)="whatToShow('scores')">Scores</div>
+  </div>
+  
+  <div *ngIf="showUpcoming">
+    <div class="sHeader">Upcoming</div>
+    <!-- <div class="sNextSeason">See you in the 2021-2022 Season</div> -->
+    <div class="sUpcoming">
+      <div *ngFor="let game of upcoming">
+        <div class="sBall">
+          <div class="sGame">
+            <div>{{game.date}}</div>
+            <div>{{game.time}}</div>
+            <div *ngIf="game && game.home">
+              <div>Dodgers vs. {{game.opponent}}</div>
+            </div>
+            <div *ngIf="game && !game.home">
+              <div>Dodgers @ {{game.opponent}}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div *ngIf="showScores">
+    <div class="sHeader">Scores</div>
+    <div class="sPlayed">
+      <div *ngFor="let game of played">
+        <div class="sBall">
+          <div class="sGame">
+            <div>{{game.date}}</div>
+            <div *ngIf="game && game.home">
+              <div>Dodgers vs. {{game.opponent}}</div>
+            </div>
+            <div *ngIf="game && !game.home">
+              <div>Dodgers @ {{game.opponent}}</div>
+            </div>
+            <div *ngIf="game && game.win">
+              <div>Dodgers Win - {{game.score}}</div>
+            </div>
+            <div *ngIf="game && !game.win">
+              <div>Dodgers Lose - {{game.score}}</div>
+            </div>
+          </div>
+        </div>  
+      </div>
+    </div>
+  </div>
+  
+</div>

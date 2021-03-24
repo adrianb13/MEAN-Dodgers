@@ -1,0 +1,41 @@
+.nBack{
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  background: white;
+  padding-bottom: 5px;
+  z-index: 10;
+}
+.nLinkBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+.nLinkBox a:link, .nLinkBox a:visited, .nLinkBox a:active{
+  color: rgba(8, 56, 132, 1);
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0 20px;
+  transition: 0.5s;
+}
+.nLinkBox a:hover{
+  color: rgb(292, 0, 0)
+}
+
+@media(max-width: 750px){
+  .nLinkBox{
+    justify-content: space-around;
+    font-size: 15px;
+  }
+  .nLinkBox a:link, .nLinkBox a:visited, .nLinkBox a:hover, .nLinkBox a:active{
+    padding: 0 10px;
+  }
+}
+
+@media(max-width: 450px){
+  .nLinkBox a:link, .nLinkBox a:visited, .nLinkBox a:hover, .nLinkBox a:active{
+    padding: 0 5px;
+  }
+}

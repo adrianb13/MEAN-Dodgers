@@ -1,0 +1,46 @@
+.bBallbox{
+  width: 250px;
+  height: 250px;
+}
+.bBallImg{
+  width: 250px;
+  height: 250px;
+  background: url("../../../assets/img/baseball.png") no-repeat;
+  background-size: 100% 100%;
+  border-radius: 50%;
+  box-shadow: 1px 1px 3px rgb(228, 228, 228) inset,
+  -1px 1px 3px rgb(228, 228, 228) inset,
+  1px -1px 3px rgb(228, 228, 228) inset,
+  -1px -1px 3px silver inset;
+}
+
+@media(max-width: 1050px){
+  .bBallbox{
+    width: 160px;
+    height: 160px;
+  }
+  .bBallImg{
+    width: 160px;
+    height: 160px;
+  }
+}
+@media(max-width: 850px){
+  .bBallbox{
+    width: 120px;
+    height: 120px;
+  }
+  .bBallImg{
+    width: 120px;
+    height: 120px;
+  }
+}
+@media(max-width: 650px){
+  .bBallbox{
+    width: 95px;
+    height: 95px;
+  }
+  .bBallImg{
+    width: 95px;
+    height: 95px;
+  }
+}

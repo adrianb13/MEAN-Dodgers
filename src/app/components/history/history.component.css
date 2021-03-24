@@ -1,0 +1,171 @@
+.hsBack{
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  background: url("../../../assets/img/city.png") repeat-y;
+  background-size: 100% auto;
+  overflow-x: hidden;
+}
+.hsCont{
+  height: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 60px 0 30px;
+}
+.hsLogoBox{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-content: space-around;
+}
+.hsNumsBox{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: space-around;
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(224, 0, 0);
+  text-align: center;
+}
+.hsNum{
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background: url("../../../assets/img/baseball2.png") no-repeat;
+  background-size: 100% 100%;
+}
+.hsLeftTop, .hsLeftBottom{
+  animation: rollLeft 2s 1 forwards linear;
+}
+.hsRightTop, .hsRightBottom{
+  animation: rollRight 2s 1 forwards linear;
+}
+.hsLA{
+  width: 300px;
+  height: 300px;
+  background: url("../../../assets/img/LAWhite.png") no-repeat;
+  background-size: 100% 100%;  
+  opacity: 0.9;
+}
+.hsTextBox {
+  width: 50%;
+  font-size: 25px;
+  background-color: rgba(8, 56, 132, 0.9); 
+  border-radius: 10px;
+  color: white;
+  text-align: justify;
+  padding: 10px;
+}
+.hsHeader{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+.hsTrophy{
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  height: 420px;
+  background: url("../../../assets/img/trophy.png") no-repeat;
+  background-size: 200px 420px;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  z-index: 10;
+  transition: 1s;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+  color: rgb(8, 56, 132);
+}
+.red:hover .hsTrophy{
+  opacity: 1;
+}
+
+@keyframes rollLeft{
+  0%{
+    transform: translateX(2000%) rotate(7200deg);
+  }
+  100%{
+    transform: translateX(0%) rotate(0deg);
+  }
+}
+@keyframes rollRight{
+  0%{
+    transform: translateX(-2000%) rotate(-7200deg);
+  }
+  100%{
+    transform: translateX(0%) rotate(0deg);
+  }
+}
+@keyframes rollLeft2{
+  0%{
+    transform: translateX(1500%) rotate(5400deg);
+  }
+  100%{
+    transform: translateX(0%) rotate(0deg);
+  }
+}
+@keyframes rollRight2{
+  0%{
+    transform: translateX(-1500%) rotate(-5400deg);
+  }
+  100%{
+    transform: translateX(0%) rotate(0deg);
+  }
+}
+
+@media(max-width: 1100px){
+  .hsCont{
+    flex-direction: column;
+    padding: 30px 0 10px;
+  }
+  .hsLogoBox{
+    width: 100%;
+    min-height: auto;
+    flex-direction: row;
+    margin: 20px 0;
+  }
+  .hsNumsBox{
+    flex-direction: column;
+  }
+  .hsLeftBottom, .hsRightBottom{
+    animation: rollRight2 1.5s 1 forwards linear;
+  }
+  .hsLeftTop, .hsRightTop{
+    animation: rollLeft2 1.5s 1 forwards linear;
+  }
+  .hsTextBox{
+    width: 90%;
+  }
+}
+
+@media(max-width: 450px){
+  .hsLA{
+    width: 200px;
+    height: 200px;
+  }
+  .hsNum{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+  }
+  .hsTextBox{
+    font-size: 19px;
+  }
+  .hsHeader{
+    font-size: 25px;
+  }
+}

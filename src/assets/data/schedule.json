@@ -1,0 +1,1460 @@
+[
+  {
+    "id": 1,
+    "date": "4/1/21",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 2,
+    "date": "4/2/21",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 3,
+    "date": "4/3/21",
+    "time": "5:10 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 4,
+    "date": "4/4/21",
+    "time": "12:10 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 5,
+    "date": "4/5/21",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Oakland Athletics",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 6,
+    "date": "4/6/21",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Oakland Athletics",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 7,
+    "date": "4/7/21",
+    "time": "12:37 PM PT",
+    "home": false,
+    "opponent": "Oakland Athletics",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 8,
+    "date": "4/9/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 9,
+    "date": "4/10/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 10,
+    "date": "4/11/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 11,
+    "date": "4/13/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 12,
+    "date": "4/14/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 13,
+    "date": "4/15/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 14,
+    "date": "4/16/21",
+    "time": "7:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 15,
+    "date": "4/17/21",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 16,
+    "date": "4/18/21",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 17,
+    "date": "4/19/21",
+    "time": "7:10 PM PT",
+    "home": false,
+    "opponent": "Seattle Mariners",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 18,
+    "date": "4/20/21",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "Seattle Mariners",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 19,
+    "date": "4/22/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 20,
+    "date": "4/23/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 21,
+    "date": "4/24/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 22,
+    "date": "4/25/21",
+    "time": "4:08 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 23,
+    "date": "4/26/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 24,
+    "date": "4/27/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 25,
+    "date": "4/28/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 26,
+    "date": "4/29/21",
+    "time": "4:40 PM PT",
+    "home": false,
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 27,
+    "date": "4/30/21",
+    "time": "5:10 PM PT",
+    "home": false,
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 28,
+    "date": "5/1/21",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 29,
+    "date": "5/2/21",
+    "time": "11:10 AM PT",
+    "home": false,
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 30,
+    "date": "5/3/21",
+    "time": "4:40 PM PT",
+    "home": false,
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 31,
+    "date": "5/4/21",
+    "time": "4:40 PM PT",
+    "home": false,
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 32,
+    "date": "5/5/21",
+    "time": "4:40 PM PT",
+    "home": false,
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 33,
+    "date": "5/7/21",
+    "time": "6:38 PM PT",
+    "home": false,
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 34,
+    "date": "5/8/21",
+    "time": "6:07 PM PT",
+    "home": false,
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 35,
+    "date": "5/9/21",
+    "time": "1:07 PM PT",
+    "home": false,
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 36,
+    "date": "5/11/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Seattle Mariners",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 37,
+    "date": "5/12/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Seattle Mariners",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 38,
+    "date": "5/14/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Florida Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 39,
+    "date": "5/15/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Florida Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 40,
+    "date": "5/16/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Florida Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 41,
+    "date": "5/17/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 42,
+    "date": "5/18/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 43,
+    "date": "5/19/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 44,
+    "date": "5/20/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 45,
+    "date": "5/21/21",
+    "time": "6:45 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 46,
+    "date": "5/22/21",
+    "time": "4:15 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 47,
+    "date": "5/23/21",
+    "time": "1:05 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 48,
+    "date": "5/25/21",
+    "time": "5:10 PM PT",
+    "home": false,
+    "opponent": "Houston Astros",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 49,
+    "date": "5/26/21",
+    "time": "4:40 PM PT",
+    "home": false,
+    "opponent": "Houston Astros",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 50,
+    "date": "5/27/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 51,
+    "date": "5/28/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 52,
+    "date": "5/29/21",
+    "time": "4:15 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 53,
+    "date": "5/30/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 54,
+    "date": "5/31/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 55,
+    "date": "6/1/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 56,
+    "date": "6/2/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 57,
+    "date": "6/4/21",
+    "time": "4:20 PM PT",
+    "home": false,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 58,
+    "date": "6/5/21",
+    "time": "4:15 PM PT",
+    "home": false,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 59,
+    "date": "6/6/21",
+    "time": "10:20 PM PT",
+    "home": false,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 60,
+    "date": "6/8/21",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 61,
+    "date": "6/9/21",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 62,
+    "date": "6/10/21",
+    "time": "9:35 AM PT",
+    "home": false,
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 63,
+    "date": "6/11/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Texas Rangers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 64,
+    "date": "6/12/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Texas Rangers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 65,
+    "date": "6/13/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Texas Rangers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 66,
+    "date": "6/14/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Philadelphia Phillies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 67,
+    "date": "6/15/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Philadelphia Phillies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 68,
+    "date": "6/16/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Philadelphia Phillies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 69,
+    "date": "6/18/21",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 70,
+    "date": "6/19/21",
+    "time": "7:10 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 71,
+    "date": "6/20/21",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 72,
+    "date": "6/21/21",
+    "time": "7:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 73,
+    "date": "6/22/21",
+    "time": "7:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 74,
+    "date": "6/23/21",
+    "time": "7:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 75,
+    "date": "6/24/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 76,
+    "date": "6/25/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 77,
+    "date": "6/26/21",
+    "time": "4:15 PM PT",
+    "home": true,
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 78,
+    "date": "6/27/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 79,
+    "date": "6/28/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 80,
+    "date": "6/29/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 81,
+    "date": "7/1/21",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 82,
+    "date": "7/2/21",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 83,
+    "date": "7/3/21",
+    "time": "4:15 PM PT",
+    "home": false,
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 84,
+    "date": "7/4/21",
+    "time": "8:05 AM PT",
+    "home": false,
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 85,
+    "date": "7/5/21",
+    "time": "3:40 PM PT",
+    "home": false,
+    "opponent": "Florida Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 86,
+    "date": "7/6/21",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "Florida Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 87,
+    "date": "7/7/21",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "Florida Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 88,
+    "date": "7/8/21",
+    "time": "9:10 AM PT",
+    "home": false,
+    "opponent": "Florida Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 89,
+    "date": "7/9/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 90,
+    "date": "7/10/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 91,
+    "date": "7/11/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 92,
+    "date": "7/16/21",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 93,
+    "date": "7/17/21",
+    "time": "5:10 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 94,
+    "date": "7/18/21",
+    "time": "12:10 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 95,
+    "date": "7/19/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 96,
+    "date": "7/20/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 97,
+    "date": "7/21/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 98,
+    "date": "7/22/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 99,
+    "date": "7/23/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 100,
+    "date": "7/24/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 101,
+    "date": "7/25/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 102,
+    "date": "7/27/21",
+    "time": "6:45 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 103,
+    "date": "7/28/21",
+    "time": "6:45 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 104,
+    "date": "7/29/21",
+    "time": "12:45 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 105,
+    "date": "7/30/21",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 106,
+    "date": "7/31/21",
+    "time": "5:10 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 107,
+    "date": "8/1/21",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 108,
+    "date": "8/3/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Houston Astros",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 109,
+    "date": "8/4/21",
+    "time": "6:40 PM PT",
+    "home": true,
+    "opponent": "Houston Astros",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 110,
+    "date": "8/6/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 111,
+    "date": "8/7/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 112,
+    "date": "8/8/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 113,
+    "date": "8/10/21",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Philadelphia Phillies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 114,
+    "date": "8/11/21",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Philadelphia Phillies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 115,
+    "date": "8/12/21",
+    "time": "10:10 AM PT",
+    "home": false,
+    "opponent": "Philadelphia Phillies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 116,
+    "date": "8/13/21",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 117,
+    "date": "8/14/21",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 118,
+    "date": "8/15/21",
+    "time": "10:10 AM PT",
+    "home": false,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 119,
+    "date": "8/16/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 120,
+    "date": "8/17/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 121,
+    "date": "8/18/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 122,
+    "date": "8/19/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 123,
+    "date": "8/20/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 124,
+    "date": "8/21/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 125,
+    "date": "8/22/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 126,
+    "date": "8/24/21",
+    "time": "7:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 127,
+    "date": "8/25/21",
+    "time": "7:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 128,
+    "date": "8/26/21",
+    "time": "6:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 129,
+    "date": "8/27/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 130,
+    "date": "8/28/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 131,
+    "date": "8/29/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 132,
+    "date": "8/30/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 133,
+    "date": "8/31/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 134,
+    "date": "9/1/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 135,
+    "date": "9/3/21",
+    "time": "6:45 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 136,
+    "date": "9/4/21",
+    "time": "6:05 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 137,
+    "date": "9/5/21",
+    "time": "1:05 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 138,
+    "date": "9/6/21",
+    "time": "11:15 AM PT",
+    "home": false,
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 139,
+    "date": "9/7/21",
+    "time": "4:45 PM PT",
+    "home": false,
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 140,
+    "date": "9/8/21",
+    "time": "4:45 PM PT",
+    "home": false,
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 141,
+    "date": "9/9/21",
+    "time": "10:15 AM PT",
+    "home": false,
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 142,
+    "date": "9/10/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 143,
+    "date": "9/11/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 144,
+    "date": "9/12/21",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 145,
+    "date": "9/13/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 146,
+    "date": "9/14/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 147,
+    "date": "9/15/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 148,
+    "date": "9/17/21",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 149,
+    "date": "9/18/21",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 150,
+    "date": "9/19/21",
+    "time": "10:10 AM PT",
+    "home": false,
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 151,
+    "date": "9/21/21",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 152,
+    "date": "9/22/21",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 153,
+    "date": "9/23/21",
+    "time": "12:10 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 154,
+    "date": "9/24/21",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 155,
+    "date": "9/25/21",
+    "time": "5:10 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 156,
+    "date": "9/26/21",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 157,
+    "date": "9/28/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 158,
+    "date": "9/29/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 159,
+    "date": "9/30/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 160,
+    "date": "10/1/21",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 161,
+    "date": "10/2/21",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 162,
+    "date": "10/3/21",
+    "time": "12:10 PM PT",
+    "home": true,
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
+  }
+]

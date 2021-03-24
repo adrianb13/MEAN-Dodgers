@@ -1,0 +1,147 @@
+.hBack {
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+}
+.hGrass{
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("../../../assets/img/grass.png");
+  background-size: 100% 100%;  
+}
+.hGlove {
+  width: 800px;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("../../../assets/img/outfield-glove.png") no-repeat;
+  background-size: 100% 100%;
+  margin: 0 auto;
+  animation: glove 5s 1 forwards linear;
+}
+.hBallBox {
+  cursor: pointer;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: lightgray;
+  box-shadow: 0.5px 0.5px 1px rgba(255, 255, 255, 0.2),
+  0.5px -0.5px 1px rgba(255, 255, 255, 0.2),
+  -0.5px 0.5px 1px rgba(255, 255, 255, 0.2),
+  -0.5px -0.5px 1px rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  margin: 0 auto;
+  overflow: hidden;
+  animation-name: ballMove, ballShake; 
+  animation-duration: 5s, 10s;
+  animation-iteration-count: 1, infinite;
+  animation-fill-mode: forwards, none;
+  animation-timing-function: linear, linear;
+  animation-delay: 0s, 5.5s;
+}
+.hGlove:hover .hBallBox{
+  transform: scale(2k);
+}
+.hModalShow{
+  display: block;
+}
+.hModalHide {
+  display: none;
+}
+
+@keyframes ballShake {
+  0%{
+    transform: translate(0%, 0%) rotate(0deg) scale(1);
+  }
+  10%{
+    transform: translate(2%, 0.5%) rotate(3deg) scale(1.05);
+  }
+  20%{
+    transform: translate(1.5%, -2%) rotate(-2deg) scale(1.15);
+  }
+  30%{
+    transform: translate(-0.5%, 0) rotate(1deg) scale(1.2);
+  }
+  40%{
+    transform: translate(2%, 1.5%) rotate(-1deg) scale(1.15);
+  }
+  50%{
+    transform: translate(-1.5%, -2%) rotate(2deg) scale(1.1);
+  }
+  60%{
+    transform: translate(0.5%, 0%) rotate(3deg) scale(1.2);
+  }
+  70%{
+    transform: translate(-2%, 2%) rotate(-2deg) scale(1.15);
+  }
+  80%{
+    transform: translate(-1%, -1%) rotate(2deg) scale(1.2);
+  }
+  90%{
+    transform: translate(0.5%, 1.5%) rotate(-1deg) scale(1.05);
+  }
+  100%{
+    transform: translate(0%, 0%) rotate(0deg) scale(1);
+  }
+}
+@keyframes ballMove{
+  0%{
+    transform: translate(300%, 300%) rotateZ(2880deg) scale(3);
+  }
+  50%{
+    transform: translate(275%, 275%) rotateZ(1440deg) scale(12);
+  }
+  100%{
+    transform: translate(0) rotateZ(0deg) scale(1);
+  }
+}
+
+@keyframes glove{
+  0%{
+    transform: translateY(300%);
+  }
+  80%{
+    transform: translateY(0);
+  }
+}
+
+@media(max-width: 1050px){
+  .hGlove{
+    width: 500px;
+    height: 500px;
+  }
+  .hBallBox{
+    width: 160px;
+    height: 160px;
+  }
+}
+
+@media(max-width: 850px){
+  .hGlove{
+    width: 375px;
+    height: 375px;
+  }
+  .hBallBox{
+    width: 120px;
+    height: 120px;
+  }
+}
+
+@media(max-width: 650px){
+  .hGlove{
+    width: 300px;
+    height: 300px;
+  }
+  .hBallBox{
+    width: 95px;
+    height: 95px;
+  }
+}

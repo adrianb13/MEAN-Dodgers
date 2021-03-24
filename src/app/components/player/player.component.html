@@ -1,0 +1,198 @@
+<div class="pBack">
+  <app-top-nav></app-top-nav>
+  <div *ngIf="playerData && isPitcher">
+    <div class="pNameBox">
+      <div class="pPosition">{{player.position}}</div>
+      <div class="pPlayerName">{{player.fName}} {{player.lName}}</div>
+      <div class="pPlayerNum">#{{player.number}}</div>
+    </div>
+    <div class="pTable">
+      <table>
+        <thead>
+          <tr>
+            <th> </th>
+            <th>W</th>
+            <th>L</th>
+            <th>ERA</th>
+            <th>G</th>
+            <th>GS</th>
+            <th>CG</th>
+            <th>SO</th>
+            <th>SV</th>
+            <th>SVO</th>  
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="pBorderRight pRowHeader">Season</td>
+            <td>{{pitchingSeason.win}}</td>
+            <td>{{pitchingSeason.loss}}</td>
+            <td class="pBorderRight">{{pitchingSeason.era}}</td>
+            <td>{{pitchingSeason.game}}</td>
+            <td>{{pitchingSeason.started}}</td>
+            <td>{{pitchingSeason.complete}}</td>
+            <td>{{pitchingSeason.shutouts}}</td>
+            <td>{{pitchingSeason.saves}}</td>
+            <td>{{pitchingSeason.saveOpp}}</td>
+            
+          </tr>
+          <tr>
+            <td class="pBorderRight pRowHeader">Postseason</td>
+            <td>{{pitchingPost.win}}</td>
+            <td>{{pitchingPost.loss}}</td>
+            <td class="pBorderRight">{{pitchingPost.era}}</td>
+            <td>{{pitchingPost.game}}</td>
+            <td>{{pitchingPost.started}}</td>
+            <td>{{pitchingPost.complete}}</td>
+            <td>{{pitchingPost.shutouts}}</td>
+            <td>{{pitchingPost.saves}}</td>
+            <td>{{pitchingPost.saveOpp}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="pTable">
+      <table>
+        <thead>
+          <tr>
+            <th> </th>
+            <th>IP</th>
+            <th>H</th>
+            <th>R</th>
+            <th>ER</th>
+            <th>HR</th>
+            <th>HB</th>
+            <th>BB</th>
+            <th>SO</th>
+            <th>WHIP</th>
+            <th>AVG</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="pBorderRight pRowHeader">Season</td>
+            <td>{{pitchingSeason.ip}}</td>
+            <td>{{pitchingSeason.hits}}</td>
+            <td>{{pitchingSeason.runs}}</td>
+            <td>{{pitchingSeason.er}}</td>
+            <td>{{pitchingSeason.hr}}</td>
+            <td>{{pitchingSeason.hb}}</td>
+            <td>{{pitchingSeason.walks}}</td>
+            <td class="pBorderRight">{{pitchingSeason.strikeouts}}</td>
+            <td>{{pitchingSeason.whip}}</td>
+            <td>{{pitchingSeason.avg}}</td>
+          </tr>
+          <tr>
+            <td class="pBorderRight pRowHeader">Postseason</td>
+            <td>{{pitchingPost.ip}}</td>
+            <td>{{pitchingPost.hits}}</td>
+            <td>{{pitchingPost.runs}}</td>
+            <td>{{pitchingPost.er}}</td>
+            <td>{{pitchingPost.hr}}</td>
+            <td>{{pitchingPost.hb}}</td>
+            <td>{{pitchingPost.walks}}</td>
+            <td class="pBorderRight">{{pitchingPost.strikeouts}}</td>
+            <td>{{pitchingPost.whip}}</td>
+            <td>{{pitchingPost.avg}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="pSlide">Slide Tables To View More</div>
+  </div>
+  <div *ngIf="playerData && !isPitcher">
+    <div class="pNameBox">
+      <div class="pPosition">{{player.position}}</div>
+      <div class="pPlayerName">{{player.fName}} {{player.lName}}</div>
+      <div class="pPlayerNum">#{{player.number}}</div>
+    </div>
+    <div class="pTable">
+      <table>
+        <thead>
+          <tr>
+            <th> </th>
+            <th>G</th>
+            <th>AB</th>
+            <th>R</th>
+            <th>H</th>
+            <th>2B</th>
+            <th>3B</th>
+            <th>HR</th>
+            <th>RBI</th>  
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="pBorderRight pRowHeader">Season</td>
+            <td>{{fielderSeason.games}}</td>
+            <td class="pBorderRight">{{fielderSeason.atbats}}</td>
+            <td>{{fielderSeason.runs}}</td>
+            <td>{{fielderSeason.hits}}</td>
+            <td>{{fielderSeason.second}}</td>
+            <td>{{fielderSeason.third}}</td>
+            <td>{{fielderSeason.hr}}</td>
+            <td>{{fielderSeason.rbi}}</td>            
+          </tr>
+          <tr>
+            <td class="pBorderRight pRowHeader">Postseason</td>
+            <td>{{fielderPost.games}}</td>
+            <td class="pBorderRight">{{fielderPost.atbats}}</td>
+            <td>{{fielderPost.runs}}</td>
+            <td>{{fielderPost.hits}}</td>
+            <td>{{fielderPost.second}}</td>
+            <td>{{fielderPost.third}}</td>
+            <td>{{fielderPost.hr}}</td>
+            <td>{{fielderPost.rbi}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="pTable">
+      <table>
+        <thead>
+          <tr>
+            <th> </th>
+            <th>BB</th>
+            <th>SO</th>
+            <th>SB</th>
+            <th>CS</th>
+            <th>AVG</th>
+            <th>OBP</th>
+            <th>SLG</th>
+            <th>OPS</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="pBorderRight pRowHeader">Season</td>
+            <td>{{fielderSeason.walk}}</td>
+            <td class="pBorderRight">{{fielderSeason.strikeouts}}</td>
+            <td>{{fielderSeason.stolen}}</td>
+            <td class="pBorderRight">{{fielderSeason.caught}}</td>
+            <td>{{fielderSeason.avg}}</td>
+            <td>{{fielderSeason.onBase}}</td>
+            <td>{{fielderSeason.slugging}}</td>
+            <td>{{fielderSeason.ops}}</td>
+          </tr>
+          <tr>
+            <td class="pBorderRight pRowHeader">Postseason</td>
+            <td>{{fielderPost.walk}}</td>
+            <td class="pBorderRight">{{fielderPost.strikeouts}}</td>
+            <td>{{fielderPost.stolen}}</td>
+            <td class="pBorderRight">{{fielderPost.caught}}</td>
+            <td>{{fielderPost.avg}}</td>
+            <td>{{fielderPost.onBase}}</td>
+            <td>{{fielderPost.slugging}}</td>
+            <td>{{fielderPost.ops}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="pSlide">Slide Tables To View More</div>
+  </div>
+  <div *ngIf="!playerData">
+    <div class="pNameBox">
+      <div class="pPlayerError">Player Data Not Available</div>
+    </div>
+  </div>
+</div>

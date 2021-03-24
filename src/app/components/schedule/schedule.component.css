@@ -1,0 +1,157 @@
+.sBanner{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background: white;
+  border-bottom: 5px solid rgb(235, 60, 75);
+  color: rgb(8, 56, 132);
+  font-size: 80px;
+  padding: 50px 0 20px;
+}
+.sLogo{
+  animation: logoZoom 0.5s 1 forwards linear;
+}
+.sNextBox{
+  border-bottom: 2px solid gray;
+  text-align: center;
+  font-size: 25px;
+  margin: 20px auto 10px;
+  padding-bottom: 20px;
+}
+.sHeader{
+  width: 100%;
+  margin-bottom: 10px;
+  text-align: center;
+  color: darkgray;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.sButtonBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
+.sPlayed, .sUpcoming{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.sBall{
+  width: 300px;
+  height: 300px;
+  background: url("../../../assets/img/baseball2.png") no-repeat;
+  background-size: 300px 300px;
+  margin: 0 20px;
+  transform: rotate(-90deg);
+}
+.sGame{
+  width: 290px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  color: rgb(8, 56, 132);
+  font-size: 20px;
+  font-weight: bold;
+  transform: rotate(90deg);
+}
+.sNextSeason{
+  text-align: center;
+  font-size: 30px;
+}
+.sNA{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.sWS{
+  max-width: 900px;
+  font-size: 60px;
+  border-radius: 50px;
+  margin: 0 auto;
+  padding: 0 15px;
+  color: rgb(212, 175, 55);
+  text-align: center;
+  text-shadow: 2px 2px white;
+  animation: wsFlashy 2s infinite linear;
+}
+
+@keyframes wsFlashy {
+  0%{
+    box-shadow: none;
+    background: none;
+  }
+  25%{
+    box-shadow: 3px 3px 15px rgb(212, 175, 55),
+    3px -3px 15px rgb(212, 175, 55),
+    -3px 3px 15px rgb(212, 175, 55),
+    -3px -3px 15px rgb(212, 175, 55),
+    3px 3px 15px rgb(212, 175, 55) inset,
+    3px -3px 15px rgb(212, 175, 55) inset,
+    -3px 3px 15px rgb(212, 175, 55) inset,
+    -3px -3px 15px rgb(212, 175, 55) inset;
+    background: silver;
+    color: rgb(8, 56, 132);
+  }
+  75%{
+    box-shadow: 3px 3px 15px rgb(212, 175, 55),
+    3px -3px 15px rgb(212, 175, 55),
+    -3px 3px 15px rgb(212, 175, 55),
+    -3px -3px 15px rgb(212, 175, 55),
+    3px 3px 15px rgb(212, 175, 55) inset,
+    3px -3px 15px rgb(212, 175, 55) inset,
+    -3px 3px 15px rgb(212, 175, 55) inset,
+    -3px -3px 15px rgb(212, 175, 55) inset;
+    background: silver;
+    color: rgb(8, 56, 132);
+  }
+  100%{
+    box-shadow: none;
+  }
+}
+
+@keyframes logoZoom {
+  0%{
+    transform: scale(0.001);
+  }
+  100%{
+    transform: scale(1)
+  }
+}
+
+@media(max-width: 860px){
+  .sWS{
+    max-width: 500px;
+  }
+}
+@media(max-width: 750px){
+  .sBanner{
+    flex-direction: column;
+  }
+  .sLogo{
+    order: 1;
+  }
+  .sWin{
+    order: 2;
+  }
+  .sLose{
+    order: 3;
+  }
+}
+@media(max-width: 450px){
+  .sWS{
+    font-size: 40px;
+  }
+  .sBall{
+    margin: 0;
+  }
+}

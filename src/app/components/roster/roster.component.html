@@ -1,0 +1,49 @@
+<div class="rBack">
+  <app-top-nav></app-top-nav>
+  <div class="rCont">
+    <div *ngIf="baseball; else elseBlock1">
+      <div class="rBall"></div>
+      <div class="rBat"></div>
+    </div>
+    <ng-template #elseBlock1>
+      <div class="rBox1" *ngIf="rosterData; else elseBlock2">
+        <div class="rHeader">40-Man Roster</div>
+        <div class="rButtons">
+          <div class="rBtn" (click)="selectedTable('pitchers')">PITCHERS</div>
+          <div class="rBtn" (click)="selectedTable('catchers')">CATCHERS</div>
+          <div class="rBtn" (click)="selectedTable('infielders')">INFIELDERS</div>
+          <div class="rBtn" (click)="selectedTable('outfielders')">OUTFIELDERS</div>
+        </div>
+        <app-roster-table
+          *ngIf="showPitcher"
+          class="rTable"
+          [roster] = "roster"
+          [position] = "pitcher"
+        ></app-roster-table>
+        <app-roster-table
+          *ngIf="showCatcher"
+          class="rTable"
+          [roster] = "roster"
+          [position] = "catcher"
+        ></app-roster-table>
+        <app-roster-table
+          *ngIf="showInfielder"
+          class="rTable"
+          [roster] = "roster"
+          [position] = "infielder"
+        ></app-roster-table>
+        <app-roster-table
+          *ngIf="showOutfielder"
+          class="rTable"
+          [roster] = "roster"
+          [position] = "outfielder"
+        ></app-roster-table>
+      </div>
+      <ng-template #elseBlock2>
+        <div class="rBox1">
+          <div class="rNA">Roster Data Not Available</div>
+        </div>
+      </ng-template>
+    </ng-template>
+  </div>
+</div>

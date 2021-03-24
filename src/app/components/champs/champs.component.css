@@ -1,0 +1,104 @@
+.cBack{
+  width: 100%;
+  height: 100vh;
+  min-height: 100%;
+  background: url("../../../assets/img/ChampWall.png") no-repeat;
+  background-size: 100% 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.cNav{
+  opacity: 0.05;
+  transition: 1s;
+}
+.cNav:hover{
+  opacity: 1;
+}
+.cTrophyBox{
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  animation: trophy 4s infinite linear;
+}
+.cTrophy{
+/*   position: fixed;
+  top: 50%;
+  left: 50%; */
+  width: 290px;
+  height: 550px;
+  background: url("../../../assets/img/trophy2.png") no-repeat;
+  background-size: 290px 550px;
+  /* animation: trophy 4s infinite linear; */
+  transform: translateY(5%);
+}
+.c20{
+  font-size: 100px;
+  color: rgb(235, 60, 75);
+}
+.cleft{
+  margin: 50px 50px 0 0;
+}
+.cright{
+  margin: 50px 0 0 50px;
+}
+
+@keyframes trophy {
+  0%{
+    transform: scale(0);
+  }
+  15%{
+    transform: scale(0);
+  }
+  50%{
+    transform: scale(2);
+  }
+  85%{
+    transform: scale(0);
+  }
+  100%{
+    transform: scale(0);
+  }
+}
+@keyframes trophy2 {
+  0%{
+    transform: scale(0);
+  }
+  15%{
+    transform: scale(0);
+  }
+  50%{
+    transform: scale(1.5);
+  }
+  85%{
+    transform: scale(0);
+  }
+  100%{
+    transform: scale(0);
+  }
+}
+
+@media(max-width: 1000px){
+  .cTrophy{
+    animation: trophy2 4s infinite linear;
+  }
+
+}
+@media(max-width: 550px) {
+  .cTrophy{
+    width: 217.5px;
+    height: 412.5px;
+    background: url("../../../assets/img/trophy2.png") no-repeat;
+    background-size: 217.5px 412.5px;
+  }
+  .c20{
+    font-size: 60px;
+  }
+  .cleft{
+    margin: 50px 0 0 0;
+  }
+  .cright{
+    margin: 50px 0 0 0;
+  }
+}

@@ -1,0 +1,6 @@
+.back{
+  height: 100%;
+  min-height: 100vh;
+  background-color: rgb(8, 56, 132);
+  color: white;
+}
