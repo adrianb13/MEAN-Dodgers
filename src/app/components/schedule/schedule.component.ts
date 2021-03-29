@@ -47,7 +47,7 @@ export class ScheduleComponent implements OnInit {
     })
   }
 
-  //Sort By Date
+  //Sort By Date (Mongo does not provide data in chronological order)
   sortData = (a,b) => {
     //Converts date MM/DD/YYYY to Unix timestamp
     let dateA = parseInt((new Date(a.date).getTime() / 1000).toFixed(0));
