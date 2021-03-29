@@ -25,8 +25,7 @@ const options = {
 }
 
 //MongoDB database connection
-//mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/dodgers", options)
-mongoose.connect("mongodb+srv://adrianb13:Mongo4me@freegeneral-aws-east.vmh3y.mongodb.net/dodgers?retryWrites=true&w=majority", options)
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/dodgers", options)
   .then(() => {
     console.log("Mongo Connected")
   })
