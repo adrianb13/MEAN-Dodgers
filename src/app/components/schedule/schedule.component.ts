@@ -29,7 +29,7 @@ export class ScheduleComponent implements OnInit {
 
   //Get Schedule
   getScheduleData(){
-/*     this.DataList.getSchedule().subscribe(res => {
+  /*   this.DataList.getSchedule().subscribe(res => {
       if(res){
         this.schedule.push(res);
         this.schedule = this.schedule[0];
@@ -42,14 +42,29 @@ export class ScheduleComponent implements OnInit {
       if(res){
         this.schedule.push(res);
         this.schedule =this.schedule[0];
-
         this.sortSchedule();
       }
     })
   }
 
+  //Sort By Date
+  sortData = (a,b) => {
+    //Converts date MM/DD/YYYY to Unix timestamp
+    let dateA = parseInt((new Date(a.date).getTime() / 1000).toFixed(0));
+    let dateB = parseInt((new Date(b.date).getTime() / 1000).toFixed(0));
+
+    let comparison = 0;
+    if( dateA > dateB){
+      comparison = 1;
+    } else if (dateA < dateB){
+      comparison = -1
+    }
+    return comparison;
+  }
+
   sortSchedule(){
-    for(let game of this.schedule){
+    let schedule = this.schedule.sort(this.sortData)
+    for(let game of schedule){
       if(game.score !== "N/A"){
         this.played.push(game);
         if(game.win === true){
