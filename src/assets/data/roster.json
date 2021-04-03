@@ -39,13 +39,13 @@
           "win": 0,
           "loss": 0,
           "era": 0,
-          "game": 0,
+          "game": 1,
           "started": 0,
           "complete": 0,
           "shutouts": 0,
           "saves": 0,
           "saveOpp": 0,
-          "ip": 0,
+          "ip": 1.1,
           "hits": 0,
           "runs": 0,
           "er": 0,
@@ -54,6 +54,28 @@
           "walks": 0,
           "strikeouts": 0,
           "whip": 0,
+          "avg": "0"
+        },
+        "career":
+        {
+          "win": 12,
+          "loss": 7,
+          "era": 3.16,
+          "game": 194,
+          "started": 1,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 7,
+          "saveOpp": 15,
+          "ip": 191.0,
+          "hits": 174,
+          "runs": 74,
+          "er": 67,
+          "hr": 12,
+          "hb": 4,
+          "walks": 81,
+          "strikeouts": 152,
+          "whip": 1.34,
           "avg": "0"
         }
       }
@@ -95,25 +117,47 @@
         },
         "regular":
         {
-          "win": 0,
+          "win": 1,
           "loss": 0,
-          "era": 0,
-          "game": 0,
-          "started": 0,
+          "era": 5.68,
+          "game": 1,
+          "started": 1,
           "complete": 0,
           "shutouts": 0,
           "saves": 0,
           "saveOpp": 0,
-          "ip": 0,
-          "hits": 0,
-          "runs": 0,
-          "er": 0,
-          "hr": 0,
+          "ip": 6.1,
+          "hits": 3,
+          "runs": 4,
+          "er": 4,
+          "hr": 2,
           "hb": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "whip": 0,
+          "walks": 2,
+          "strikeouts": 10,
+          "whip": 0.79,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 76,
+          "loss": 64,
+          "era": 3.91,
+          "game": 206,
+          "started": 196,
+          "complete": 5,
+          "shutouts": 3,
+          "saves": 1,
+          "saveOpp": 1,
+          "ip": 1196.1,
+          "hits": 1054,
+          "runs": 560,
+          "er": 520,
+          "hr": 143,
+          "hb": 63,
+          "walks": 456,
+          "strikeouts": 1289,
+          "whip": 1.26,
+          "avg": ".089"
         }
       }
   },
@@ -173,6 +217,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 24,
+          "loss": 9,
+          "era": 3.15,
+          "game": 70,
+          "started": 61,
+          "complete": 2,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 1,
+          "ip": 365.2,
+          "hits": 283,
+          "runs": 146,
+          "er": 128,
+          "hr": 41,
+          "hb": 14,
+          "walks": 93,
+          "strikeouts": 420,
+          "whip": 1.03,
+          "avg": ".118"
         }
       }
   },
@@ -232,6 +298,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 6,
+          "loss": 4,
+          "era": 2.60,
+          "game": 20,
+          "started": 14,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 1,
+          "saveOpp": 2,
+          "ip": 86.2,
+          "hits": 58,
+          "runs": 28,
+          "er": 25,
+          "hr": 6,
+          "hb": 2,
+          "walks": 22,
+          "strikeouts": 83,
+          "whip": 0.92,
+          "avg": ".308"
         }
       }
   },
@@ -275,13 +363,13 @@
           "win": 0,
           "loss": 0,
           "era": 0,
-          "game": 0,
+          "game": 1,
           "started": 0,
           "complete": 0,
           "shutouts": 0,
           "saves": 0,
           "saveOpp": 0,
-          "ip": 0,
+          "ip": 1.0,
           "hits": 0,
           "runs": 0,
           "er": 0,
@@ -291,6 +379,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 3,
+          "loss": 0,
+          "era": 1.27,
+          "game": 16,
+          "started": 1,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 21.1,
+          "hits": 13,
+          "runs": 3,
+          "er": 3,
+          "hr": 0,
+          "hb": 3,
+          "walks": 2,
+          "strikeouts": 24,
+          "whip": 0.70,
+          "avg": ".169"
         }
       }
   },
@@ -350,6 +460,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 2,
+          "loss": 3,
+          "era": 3.55,
+          "game": 33,
+          "started": 2,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 1,
+          "ip": 33.0,
+          "hits": 28,
+          "runs": 14,
+          "er": 13,
+          "hr": 2,
+          "hb": 4,
+          "walks": 5,
+          "strikeouts": 23,
+          "whip": 1.00,
+          "avg": ".241"
         }
       }
   },
@@ -409,6 +541,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 33,
+          "loss": 22,
+          "era": 2.39,
+          "game": 632,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 312,
+          "saveOpp": 352,
+          "ip": 636.0,
+          "hits": 414,
+          "runs": 179,
+          "er": 169,
+          "hr": 59,
+          "hb": 24,
+          "walks": 168,
+          "strikeouts": 936,
+          "whip": 0.92,
+          "avg": ".181"
         }
       }
   },
@@ -468,6 +622,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 9,
+          "loss": 9,
+          "era": 3.82,
+          "game": 285,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 4,
+          "saveOpp": 19,
+          "ip": 277.2,
+          "hits": 225,
+          "runs": 138,
+          "er": 118,
+          "hr": 28,
+          "hb": 5,
+          "walks": 132,
+          "strikeouts": 344,
+          "whip": 1.29,
+          "avg": ".220"
         }
       }
   },
@@ -527,6 +703,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 48,
+          "loss": 29,
+          "era": 3.89,
+          "game": 317,
+          "started": 80,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 3,
+          "saveOpp": 19,
+          "ip": 686.2,
+          "hits": 669,
+          "runs": 326,
+          "er": 297,
+          "hr": 61,
+          "hb": 32,
+          "walks": 283,
+          "strikeouts": 569,
+          "whip": 1.39,
+          "avg": ".255"
         }
       }
   },
@@ -568,24 +766,46 @@
         "regular":
         {
           "win": 0,
-          "loss": 0,
-          "era": 0,
-          "game": 0,
-          "started": 0,
+          "loss": 1,
+          "era": 7.94,
+          "game": 1,
+          "started": 1,
           "complete": 0,
           "shutouts": 0,
           "saves": 0,
           "saveOpp": 0,
           "ip": 0,
-          "hits": 0,
-          "runs": 0,
-          "er": 0,
+          "hits": 10,
+          "runs": 6,
+          "er": 5,
           "hr": 0,
           "hb": 0,
-          "walks": 0,
-          "strikeouts": 0,
-          "whip": 0,
-          "avg": "0"
+          "walks": 1,
+          "strikeouts": 2,
+          "whip": 1.94,
+          "avg": ".385"
+        },
+        "career":
+        {
+          "win": 175,
+          "loss": 77,
+          "era": 2.45,
+          "game": 358,
+          "started": 355,
+          "complete": 25,
+          "shutouts": 15,
+          "saves": 1,
+          "saveOpp": 0,
+          "ip": 2338.2,
+          "hits": 1766,
+          "runs": 696,
+          "er": 636,
+          "hr": 181,
+          "hb": 34,
+          "walks": 586,
+          "strikeouts": 2528,
+          "whip": 1.01,
+          "avg": ".209"
         }
       }
   },
@@ -629,22 +849,44 @@
           "win": 0,
           "loss": 0,
           "era": 0,
-          "game": 0,
+          "game": 1,
           "started": 0,
           "complete": 0,
           "shutouts": 0,
           "saves": 0,
           "saveOpp": 0,
-          "ip": 0,
+          "ip": 0.1,
           "hits": 0,
           "runs": 0,
           "er": 0,
           "hr": 0,
           "hb": 0,
           "walks": 0,
-          "strikeouts": 0,
+          "strikeouts": 1,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 6,
+          "loss": 11,
+          "era": 3.31,
+          "game": 240,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 57,
+          "saveOpp": 71,
+          "ip": 236.2,
+          "hits": 188,
+          "runs": 92,
+          "er": 87,
+          "hr": 28,
+          "hb": 9,
+          "walks": 106,
+          "strikeouts": 337,
+          "whip": 1.24,
+          "avg": ".216"
         }
       }
   },
@@ -704,6 +946,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 5,
+          "loss": 4,
+          "era": 2.98,
+          "game": 26,
+          "started": 14,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 1,
+          "ip": 90.2,
+          "hits": 78,
+          "runs": 35,
+          "er": 30,
+          "hr": 11,
+          "hb": 5,
+          "walks": 21,
+          "strikeouts": 76,
+          "whip": 1.09,
+          "avg": ".231"
         }
       }
   },
@@ -746,23 +1010,45 @@
         {
           "win": 0,
           "loss": 0,
-          "era": 0,
-          "game": 0,
+          "era": 10.80,
+          "game": 1,
           "started": 0,
           "complete": 0,
           "shutouts": 0,
           "saves": 0,
           "saveOpp": 0,
-          "ip": 0,
-          "hits": 0,
-          "runs": 0,
-          "er": 0,
-          "hr": 0,
+          "ip": 1.2,
+          "hits": 5,
+          "runs": 2,
+          "er": 2,
+          "hr": 2,
           "hb": 0,
           "walks": 0,
-          "strikeouts": 0,
-          "whip": 0,
-          "avg": "0"
+          "strikeouts": 2,
+          "whip": 3.00,
+          "avg": ".556"
+        },
+        "career":
+        {
+          "win": 150,
+          "loss": 80,
+          "era": 3.31,
+          "game": 322,
+          "started": 311,
+          "complete": 17,
+          "shutouts": 3,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 2031.1,
+          "hits": 1818,
+          "runs": 821,
+          "er": 748,
+          "hr": 209,
+          "hb": 59,
+          "walks": 527,
+          "strikeouts": 1983,
+          "whip": 1.15,
+          "avg": ".237"
         }
       }
   },
@@ -822,6 +1108,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 2,
+          "loss": 2,
+          "era": 6.66,
+          "game": 16,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 1,
+          "ip": 25.2,
+          "hits": 27,
+          "runs": 20,
+          "er": 19,
+          "hr": 5,
+          "hb": 5,
+          "walks": 12,
+          "strikeouts": 28,
+          "whip": 1.52,
+          "avg": ".270"
         }
       }
   },
@@ -881,6 +1189,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 29,
+          "loss": 25,
+          "era": 3.02,
+          "game": 372,
+          "started": 7,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 72,
+          "saveOpp": 93,
+          "ip": 425.2,
+          "hits": 377,
+          "runs": 162,
+          "er": 143,
+          "hr": 28,
+          "hb": 13,
+          "walks": 167,
+          "strikeouts": 413,
+          "whip": 1.28,
+          "avg": ".239"
         }
       }
   },
@@ -940,6 +1270,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 12,
+          "loss": 7,
+          "era": 3.20,
+          "game": 74,
+          "started": 38,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 4,
+          "saveOpp": 5,
+          "ip": 239.0,
+          "hits": 209,
+          "runs": 95,
+          "er": 85,
+          "hr": 18,
+          "hb": 10,
+          "walks": 90,
+          "strikeouts": 232,
+          "whip": 1.25,
+          "avg": ".234"
         }
       }
   },
@@ -999,6 +1351,28 @@
           "strikeouts": 0,
           "whip": 0,
           "avg": "0"
+        },
+        "career":
+        {
+          "win": 1,
+          "loss": 0,
+          "era": 0,
+          "game": 2,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 0,
+          "hits": 1,
+          "runs": 0,
+          "er": 0,
+          "hr": 0,
+          "hb": 0,
+          "walks": 1,
+          "strikeouts": 2,
+          "whip": 0.67,
+          "avg": ".100"
         }
       }
   },
@@ -1036,22 +1410,41 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
+          "games": 1,
+          "atbats": 2,
           "runs": 0,
           "hits": 0,
           "second": 0,
           "third": 0,
           "hr": 0,
           "rbi": 0,
-          "walk": 0,
+          "walk": 2,
           "strikeouts": 0,
           "stolen": 0,
           "caught": 0,
           "avg": "0",
-          "onBase": "0",
+          "onBase": ".500",
           "slugging": "0",
-          "ops": "0"
+          "ops": ".500"
+        },
+        "career":
+        {
+          "games": 348,
+          "atbats": 779,
+          "runs": 116,
+          "hits": 179,
+          "second": 38,
+          "third": 3,
+          "hr": 18,
+          "rbi": 89,
+          "walk": 119,
+          "strikeouts": 205,
+          "stolen": 15,
+          "caught": 4,
+          "avg": ".230",
+          "onBase": ".345",
+          "slugging": ".56",
+          "ops": ".700"
         }
       }
   },
@@ -1089,22 +1482,41 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
-          "runs": 0,
-          "hits": 0,
-          "second": 0,
+          "games": 2,
+          "atbats": 4,
+          "runs": 2,
+          "hits": 3,
+          "second": 2,
           "third": 0,
           "hr": 0,
-          "rbi": 0,
+          "rbi": 2,
           "walk": 0,
           "strikeouts": 0,
           "stolen": 0,
           "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "avg": ".750",
+          "onBase": ".667",
+          "slugging": "1.250",
+          "ops": "1.917"
+        },
+        "career":
+        {
+          "games": 93,
+          "atbats": 288,
+          "runs": 55,
+          "hits": 79,
+          "second": 20,
+          "third": 0,
+          "hr": 23,
+          "rbi": 69,
+          "walk": 38,
+          "strikeouts": 74,
+          "stolen": 2,
+          "caught": 0,
+          "avg": ".274",
+          "onBase": ".369",
+          "slugging": ".583",
+          "ops": ".952"
         }
       }
   },
@@ -1142,8 +1554,8 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
+          "games": 2,
+          "atbats": 2,
           "runs": 0,
           "hits": 0,
           "second": 0,
@@ -1151,13 +1563,32 @@
           "hr": 0,
           "rbi": 0,
           "walk": 0,
-          "strikeouts": 0,
+          "strikeouts": 1,
           "stolen": 0,
           "caught": 0,
           "avg": "0",
           "onBase": "0",
           "slugging": "0",
           "ops": "0"
+        },
+        "career":
+        {
+          "games": 122,
+          "atbats": 301,
+          "runs": 44,
+          "hits": 77,
+          "second": 20,
+          "third": 1,
+          "hr": 11,
+          "rbi": 51,
+          "walk": 19,
+          "strikeouts": 48,
+          "stolen": 5,
+          "caught": 0,
+          "avg": ".256",
+          "onBase": ".309",
+          "slugging": ".439",
+          "ops": ".747"
         }
       }
   },
@@ -1195,22 +1626,41 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
-          "runs": 0,
-          "hits": 0,
-          "second": 0,
-          "third": 0,
-          "hr": 0,
-          "rbi": 0,
-          "walk": 0,
-          "strikeouts": 0,
-          "stolen": 0,
+          "games": 44,
+          "atbats": 147,
+          "runs": 21,
+          "hits": 33,
+          "second": 6,
+          "third": 2,
+          "hr": 5,
+          "rbi": 19,
+          "walk": 13,
+          "strikeouts": 45,
+          "stolen": 3,
           "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "avg": ".224",
+          "onBase": ".288",
+          "slugging": ".395",
+          "ops": ".682"
+        },
+        "career":
+        {
+          "games": 44,
+          "atbats": 147,
+          "runs": 21,
+          "hits": 33,
+          "second": 6,
+          "third": 2,
+          "hr": 5,
+          "rbi": 19,
+          "walk": 13,
+          "strikeouts": 45,
+          "stolen": 3,
+          "caught": 0,
+          "avg": ".224",
+          "onBase": ".288",
+          "slugging": ".395",
+          "ops": ".682"
         }
       }
   },
@@ -1248,11 +1698,11 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
-          "runs": 0,
-          "hits": 0,
-          "second": 0,
+          "games": 1,
+          "atbats": 1,
+          "runs": 1,
+          "hits": 1,
+          "second": 1,
           "third": 0,
           "hr": 0,
           "rbi": 0,
@@ -1260,10 +1710,29 @@
           "strikeouts": 0,
           "stolen": 0,
           "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "avg": "1.000",
+          "onBase": "1.000",
+          "slugging": "2.000",
+          "ops": "3.000"
+        },
+        "career":
+        {
+          "games": 5,
+          "atbats": 8,
+          "runs": 2,
+          "hits": 3,
+          "second": 2,
+          "third": 0,
+          "hr": 0,
+          "rbi": 0,
+          "walk": 0,
+          "strikeouts": 3,
+          "stolen": 0,
+          "caught": 0,
+          "avg": ".375",
+          "onBase": ".375",
+          "slugging": ".625",
+          "ops": "1.000"
         }
       }
   },
@@ -1301,22 +1770,41 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
+          "games": 2,
+          "atbats": 8,
           "runs": 0,
-          "hits": 0,
+          "hits": 3,
           "second": 0,
-          "third": 0,
+          "third": 1,
           "hr": 0,
-          "rbi": 0,
-          "walk": 0,
-          "strikeouts": 0,
+          "rbi": 2,
+          "walk": 2,
+          "strikeouts": 1,
           "stolen": 0,
           "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "avg": ".375",
+          "onBase": ".500",
+          "slugging": ".625",
+          "ops": "1.125"
+        },
+        "career":
+        {
+          "games": 434,
+          "atbats": 1308,
+          "runs": 239,
+          "hits": 310,
+          "second": 53,
+          "third": 5,
+          "hr": 87,
+          "rbi": 223,
+          "walk": 239,
+          "strikeouts": 396,
+          "stolen": 8,
+          "caught": 1,
+          "avg": ".237",
+          "onBase": ".360",
+          "slugging": ".485",
+          "ops": ".845"
         }
       }
   },
@@ -1370,6 +1858,25 @@
           "onBase": "0",
           "slugging": "0",
           "ops": "0"
+        },
+        "career":
+        {
+          "games": 25,
+          "atbats": 56,
+          "runs": 3,
+          "hits": 14,
+          "second": 3,
+          "third": 0,
+          "hr": 0,
+          "rbi": 7,
+          "walk": 4,
+          "strikeouts": 19,
+          "stolen": 0,
+          "caught": 0,
+          "avg": ".250",
+          "onBase": ".295",
+          "slugging": ".304",
+          "ops": ".599"
         }
       }
   },
@@ -1407,8 +1914,8 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
+          "games": 1,
+          "atbats": 1,
           "runs": 0,
           "hits": 0,
           "second": 0,
@@ -1416,13 +1923,32 @@
           "hr": 0,
           "rbi": 0,
           "walk": 0,
-          "strikeouts": 0,
+          "strikeouts": 1,
           "stolen": 0,
           "caught": 0,
           "avg": "0",
           "onBase": "0",
           "slugging": "0",
           "ops": "0"
+        },
+        "career":
+        {
+          "games": 61,
+          "atbats": 124,
+          "runs": 23,
+          "hits": 32,
+          "second": 8,
+          "third": 1,
+          "hr": 12,
+          "rbi": 25,
+          "walk": 13,
+          "strikeouts": 40,
+          "stolen": 0,
+          "caught": 0,
+          "avg": ".258",
+          "onBase": ".336",
+          "slugging": ".629",
+          "ops": ".965"
         }
       }
   },
@@ -1460,22 +1986,41 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
-          "runs": 0,
-          "hits": 0,
-          "second": 0,
+          "games": 2,
+          "atbats": 8,
+          "runs": 3,
+          "hits": 5,
+          "second": 1,
           "third": 0,
           "hr": 0,
-          "rbi": 0,
-          "walk": 0,
+          "rbi": 2,
+          "walk": 3,
           "strikeouts": 0,
           "stolen": 0,
           "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "avg": ".625",
+          "onBase": ".727",
+          "slugging": ".750",
+          "ops": "1.477"
+        },
+        "career":
+        {
+          "games": 543,
+          "atbats": 2074,
+          "runs": 343,
+          "hits": 615,
+          "second": 143,
+          "third": 9,
+          "hr": 88,
+          "rbi": 309,
+          "walk": 210,
+          "strikeouts": 435,
+          "stolen": 11,
+          "caught": 5,
+          "avg": ".297",
+          "onBase": ".364",
+          "slugging": ".501",
+          "ops": ".865"
         }
       }
   },
@@ -1513,22 +2058,41 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
-          "runs": 0,
-          "hits": 0,
-          "second": 0,
+          "games": 2,
+          "atbats": 9,
+          "runs": 2,
+          "hits": 4,
+          "second": 1,
           "third": 0,
           "hr": 0,
-          "rbi": 0,
+          "rbi": 4,
           "walk": 0,
-          "strikeouts": 0,
+          "strikeouts": 1,
           "stolen": 0,
           "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "avg": ".444",
+          "onBase": ".400",
+          "slugging": ".556",
+          "ops": ".956"
+        },
+        "career":
+        {
+          "games": 1116,
+          "atbats": 3530,
+          "runs": 506,
+          "hits": 1033,
+          "second": 235,
+          "third": 9,
+          "hr": 124,
+          "rbi": 499,
+          "walk": 351,
+          "strikeouts": 584,
+          "stolen": 35,
+          "caught": 10,
+          "avg": ".293",
+          "onBase": ".369",
+          "slugging": ".470",
+          "ops": ".838"
         }
       }
   },
@@ -1566,22 +2130,41 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
-          "runs": 0,
-          "hits": 0,
-          "second": 0,
-          "third": 0,
+          "games": 2,
+          "atbats": 9,
+          "runs": 2,
+          "hits": 3,
+          "second": 1,
+          "third": 1,
           "hr": 0,
-          "rbi": 0,
-          "walk": 0,
-          "strikeouts": 0,
+          "rbi": 2,
+          "walk": 1,
+          "strikeouts": 1,
           "stolen": 0,
           "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "avg": ".333",
+          "onBase": ".400",
+          "slugging": ".667",
+          "ops": "1.067"
+        },
+        "career":
+        {
+          "games": 508,
+          "atbats": 1817,
+          "runs": 327,
+          "hits": 497,
+          "second": 99,
+          "third": 15,
+          "hr": 123,
+          "rbi": 320,
+          "walk": 259,
+          "strikeouts": 448,
+          "stolen": 45,
+          "caught": 10,
+          "avg": ".274",
+          "onBase": ".365",
+          "slugging": ".548",
+          "ops": ".912"
         }
       }
   },
@@ -1619,22 +2202,41 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
-          "runs": 0,
-          "hits": 0,
-          "second": 0,
+          "games": 2,
+          "atbats": 11,
+          "runs": 3,
+          "hits": 4,
+          "second": 2,
           "third": 0,
           "hr": 0,
           "rbi": 0,
           "walk": 0,
           "strikeouts": 0,
-          "stolen": 0,
+          "stolen": 1,
           "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "avg": ".364",
+          "onBase": ".417",
+          "slugging": ".545",
+          "ops": ".962"
+        },
+        "career":
+        {
+          "games": 851,
+          "atbats": 3433,
+          "runs": 663,
+          "hits": 1033,
+          "second": 240,
+          "third": 27,
+          "hr": 155,
+          "rbi": 509,
+          "walk": 395,
+          "strikeouts": 503,
+          "stolen": 136,
+          "caught": 27,
+          "avg": ".301",
+          "onBase": ".373",
+          "slugging": ".522",
+          "ops": ".895"
         }
       }
   },
@@ -1671,6 +2273,25 @@
           "ops": "0"
         },
         "regular":
+        {
+          "games": 0,
+          "atbats": 0,
+          "runs": 0,
+          "hits": 0,
+          "second": 0,
+          "third": 0,
+          "hr": 0,
+          "rbi": 0,
+          "walk": 0,
+          "strikeouts": 0,
+          "stolen": 0,
+          "caught": 0,
+          "avg": "0",
+          "onBase": "0",
+          "slugging": "0",
+          "ops": "0"
+        },
+        "career":
         {
           "games": 0,
           "atbats": 0,
@@ -1725,22 +2346,41 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
-          "runs": 0,
-          "hits": 0,
+          "games": 1,
+          "atbats": 5,
+          "runs": 1,
+          "hits": 1,
           "second": 0,
           "third": 0,
           "hr": 0,
           "rbi": 0,
           "walk": 0,
-          "strikeouts": 0,
+          "strikeouts": 2,
           "stolen": 0,
           "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "avg": ".200",
+          "onBase": ".200",
+          "slugging": ".200",
+          "ops": ".400"
+        },
+        "career":
+        {
+          "games": 779,
+          "atbats": 2786,
+          "runs": 447,
+          "hits": 777,
+          "second": 168,
+          "third": 30,
+          "hr": 105,
+          "rbi": 345,
+          "walk": 220,
+          "strikeouts": 528,
+          "stolen": 110,
+          "caught": 26,
+          "avg": ".279",
+          "onBase": ".335",
+          "slugging": ".474",
+          "ops": ".809"
         }
       }
   },
@@ -1778,22 +2418,41 @@
         },
         "regular":
         {
-          "games": 0,
-          "atbats": 0,
+          "games": 1,
+          "atbats": 3,
           "runs": 0,
-          "hits": 0,
+          "hits": 1,
           "second": 0,
           "third": 0,
           "hr": 0,
           "rbi": 0,
-          "walk": 0,
-          "strikeouts": 0,
+          "walk": 2,
+          "strikeouts": 1,
           "stolen": 0,
           "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "avg": ".333",
+          "onBase": ".600",
+          "slugging": ".333",
+          "ops": ".933"
+        },
+        "career":
+        {
+          "games": 596,
+          "atbats": 1895,
+          "runs": 285,
+          "hits": 499,
+          "second": 121,
+          "third": 22,
+          "hr": 59,
+          "rbi": 236,
+          "walk": 191,
+          "strikeouts": 576,
+          "stolen": 45,
+          "caught": 16,
+          "avg": ".263",
+          "onBase": ".335",
+          "slugging": ".444",
+          "ops": ".779"
         }
       }
   }
