@@ -33,8 +33,7 @@
             <td>{{pitchingSeason.complete}}</td>
             <td>{{pitchingSeason.shutouts}}</td>
             <td>{{pitchingSeason.saves}}</td>
-            <td>{{pitchingSeason.saveOpp}}</td>
-            
+            <td>{{pitchingSeason.saveOpp}}</td>   
           </tr>
           <tr>
             <td class="pBorderRight pRowHeader">Postseason</td>
@@ -47,6 +46,18 @@
             <td>{{pitchingPost.shutouts}}</td>
             <td>{{pitchingPost.saves}}</td>
             <td>{{pitchingPost.saveOpp}}</td>
+          </tr>
+          <tr>
+            <td class="pBorderRight pRowHeader">Career</td>
+            <td>{{pitchingCareer.win}}</td>
+            <td>{{pitchingCareer.loss}}</td>
+            <td class="pBorderRight">{{pitchingCareer.era}}</td>
+            <td>{{pitchingCareer.game}}</td>
+            <td>{{pitchingCareer.started}}</td>
+            <td>{{pitchingCareer.complete}}</td>
+            <td>{{pitchingCareer.shutouts}}</td>
+            <td>{{pitchingCareer.saves}}</td>
+            <td>{{pitchingCareer.saveOpp}}</td> 
           </tr>
         </tbody>
       </table>
@@ -94,6 +105,19 @@
             <td class="pBorderRight">{{pitchingPost.strikeouts}}</td>
             <td>{{pitchingPost.whip}}</td>
             <td>{{pitchingPost.avg}}</td>
+          </tr>
+          <tr>
+            <td class="pBorderRight pRowHeader">Career</td>
+            <td>{{pitchingCareer.ip}}</td>
+            <td>{{pitchingCareer.hits}}</td>
+            <td>{{pitchingCareer.runs}}</td>
+            <td>{{pitchingCareer.er}}</td>
+            <td>{{pitchingCareer.hr}}</td>
+            <td>{{pitchingCareer.hb}}</td>
+            <td>{{pitchingCareer.walks}}</td>
+            <td class="pBorderRight">{{pitchingCareer.strikeouts}}</td>
+            <td>{{pitchingCareer.whip}}</td>
+            <td>{{pitchingCareer.avg}}</td>
           </tr>
         </tbody>
       </table>
@@ -144,6 +168,17 @@
             <td>{{fielderPost.hr}}</td>
             <td>{{fielderPost.rbi}}</td>
           </tr>
+          <tr>
+            <td class="pBorderRight pRowHeader">Career</td>
+            <td>{{fielderCareer.games}}</td>
+            <td class="pBorderRight">{{fielderCareer.atbats}}</td>
+            <td>{{fielderCareer.runs}}</td>
+            <td>{{fielderCareer.hits}}</td>
+            <td>{{fielderCareer.second}}</td>
+            <td>{{fielderCareer.third}}</td>
+            <td>{{fielderCareer.hr}}</td>
+            <td>{{fielderCareer.rbi}}</td>            
+          </tr>
         </tbody>
       </table>
     </div>
@@ -184,6 +219,17 @@
             <td>{{fielderPost.onBase}}</td>
             <td>{{fielderPost.slugging}}</td>
             <td>{{fielderPost.ops}}</td>
+          </tr>
+          <tr>
+            <td class="pBorderRight pRowHeader">Career</td>
+            <td>{{fielderCareer.walk}}</td>
+            <td class="pBorderRight">{{fielderCareer.strikeouts}}</td>
+            <td>{{fielderCareer.stolen}}</td>
+            <td class="pBorderRight">{{fielderCareer.caught}}</td>
+            <td>{{fielderCareer.avg}}</td>
+            <td>{{fielderCareer.onBase}}</td>
+            <td>{{fielderCareer.slugging}}</td>
+            <td>{{fielderCareer.ops}}</td>
           </tr>
         </tbody>
       </table>

@@ -44,7 +44,7 @@
   overflow-y: hidden;
 }
 .pTable table{
-  width: 600px;
+  width: 700px;
   border-collapse: collapse;
   background: darkgray;
   text-align: center;
@@ -70,6 +70,12 @@
 .pSlide {
   text-align: center;
   opacity: 0;
+}
+
+@media(max-width: 800px){
+  .pTable table{
+    width: 600px;
+  }
 }
 
 @media(max-width: 600px){

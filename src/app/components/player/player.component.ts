@@ -12,8 +12,10 @@ export class PlayerComponent implements OnInit {
   roster = [];
   player = null;
   pitchingSeason = null;
+  pitchingCareer = null;
   pitchingPost = null;
   fielderSeason = null;
+  fielderCareer = null;
   fielderPost = null;
 
   playerData = false;
@@ -43,10 +45,12 @@ export class PlayerComponent implements OnInit {
         if(this.player){
           if(this.player.position === "Pitcher"){
             this.pitchingSeason = this.player.pitching.regular;
+            this.pitchingCareer = this.player.pitching.career;
             this.pitchingPost = this.player.pitching.postseason;
             this.isPitcher = true;
           } else {
             this.fielderSeason = this.player.hitting.regular;
+            this.fielderCareer = this.player.hitting.career;
             this.fielderPost = this.player.hitting.postseason;
             this.isPitcher = false;
           }
