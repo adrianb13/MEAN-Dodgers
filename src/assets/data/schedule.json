@@ -23,8 +23,8 @@
     "time": "5:10 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "6-5",
+    "win": true
   },
   {
     "id": 4,
@@ -32,8 +32,8 @@
     "time": "12:10 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "4-2",
+    "win": true
   },
   {
     "id": 5,
