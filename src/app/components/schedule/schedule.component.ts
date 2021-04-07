@@ -41,7 +41,7 @@ export class ScheduleComponent implements OnInit {
     this.DataList.getScheduleDB().subscribe(res => {
       if(res){
         this.schedule.push(res);
-        this.schedule =this.schedule[0];
+        this.schedule = this.schedule[0];
         this.sortSchedule();
       }
     })
