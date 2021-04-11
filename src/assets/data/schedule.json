@@ -77,8 +77,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Washington Nationals",
-    "score": "N/A",
-    "win": null
+    "score": "9-5",
+    "win": true
   },
   {
     "id": 10,
@@ -86,8 +86,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Washington Nationals",
-    "score": "N/A",
-    "win": null
+    "score": "3-0",
+    "win": true
   },
   {
     "id": 11,
