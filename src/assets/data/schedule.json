@@ -158,8 +158,8 @@
     "time": "1:10 PM PT",
     "home": false,
     "opponent": "Seattle Mariners",
-    "score": "N/A",
-    "win": null
+    "score": "1-0",
+    "win": true
   },
   {
     "id": 19,
@@ -167,8 +167,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "2-3",
+    "win": false
   },
   {
     "id": 20,
