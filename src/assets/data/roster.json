@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "player_id": "518397",
     "fName": "Scott",
     "lName": "Alexander",
     "number": 75,
@@ -82,6 +83,7 @@
   },
   {
     "id": 2,
+    "player_id": "545333",
     "fName": "Trevor",
     "lName": "Bauer",
     "number": 27,
@@ -163,6 +165,7 @@
   },
   {
     "id": 3,
+    "player_id": "621111",
     "fName": "Walker",
     "lName": "Buehler",
     "number": 21,
@@ -244,6 +247,7 @@
   },
   {
     "id": 4,
+    "player_id": "664062",
     "fName": "Tony",
     "lName": "Gonsolin",
     "number": 46,
@@ -325,6 +329,7 @@
   },
   {
     "id": 5,
+    "player_id": "624647",
     "fName": "Victor",
     "lName": "Gonzalez",
     "number": 81,
@@ -406,6 +411,7 @@
   },
   {
     "id": 6,
+    "player_id": "660813",
     "fName": "Brusdar",
     "lName": "Graterol",
     "number": 48,
@@ -487,6 +493,7 @@
   },
   {
     "id": 7,
+    "player_id": "445276",
     "fName": "Kenley",
     "lName": "Jansen",
     "number": 74,
@@ -568,6 +575,7 @@
   },
   {
     "id": 8,
+    "player_id": "592454",
     "fName": "Tommy",
     "lName": "Kahnle",
     "number": 44,
@@ -649,6 +657,7 @@
   },
   {
     "id": 9,
+    "player_id": "523260",
     "fName": "Joe",
     "lName": "Kelly",
     "number": 17,
@@ -730,6 +739,7 @@
   },
   {
     "id": 10,
+    "player_id": "477132",
     "fName": "Clayton",
     "lName": "Kershaw",
     "number": 22,
@@ -811,6 +821,7 @@
   },
   {
     "id": 11,
+    "player_id": "608349",
     "fName": "Corey",
     "lName": "Knebel",
     "number": 46,
@@ -892,6 +903,7 @@
   },
   {
     "id": 12,
+    "player_id": "669160",
     "fName": "Dustin",
     "lName": "May",
     "number": 85,
@@ -973,6 +985,7 @@
   },
   {
     "id": 13,
+    "player_id": "519076",
     "fName": "Jimmy",
     "lName": "Nelson",
     "number": 40,
@@ -1054,6 +1067,7 @@
   },
   {
     "id": 14,
+    "player_id": "456034",
     "fName": "David",
     "lName": "Price",
     "number": 33,
@@ -1135,6 +1149,7 @@
   },
   {
     "id": 15,
+    "player_id": "642701",
     "fName": "Dennis",
     "lName": "Santana",
     "number": 77,
@@ -1216,6 +1231,7 @@
   },
   {
     "id": 16,
+    "player_id": "595014",
     "fName": "Blake",
     "lName": "Treinen",
     "number": 49,
@@ -1297,6 +1313,7 @@
   },
   {
     "id": 17,
+    "player_id": "628711",
     "fName": "Julio",
     "lName": "Urias",
     "number": 7,
@@ -1378,6 +1395,7 @@
   },
   {
     "id": 18,
+    "player_id": "669952",
     "fName": "Mitch",
     "lName": "White",
     "number": 66,
@@ -1459,6 +1477,7 @@
   },
   {
     "id": 19,
+    "player_id": "605131",
     "fName": "Austin",
     "lName": "Barnes",
     "number": 15,
@@ -1531,6 +1550,7 @@
   },
   {
     "id": 20,
+    "player_id": "669257",
     "fName": "Will",
     "lName": "Smith",
     "number": 16,
@@ -1603,6 +1623,7 @@
   },
   {
     "id": 21,
+    "player_id": "607461",
     "fName": "Matt",
     "lName": "Beaty",
     "number": 45,
@@ -1675,6 +1696,7 @@
   },
   {
     "id": 22,
+    "player_id": "666158",
     "fName": "Gavin",
     "lName": "Lux",
     "number": 9,
@@ -1747,6 +1769,7 @@
   },
   {
     "id": 23,
+    "player_id": "656716",
     "fName": "Zach",
     "lName": "McKinstry",
     "number": 8,
@@ -1819,6 +1842,7 @@
   },
   {
     "id": 24,
+    "player_id": "571970",
     "fName": "Max",
     "lName": "Muncy",
     "number": 13,
@@ -1891,6 +1915,7 @@
   },
   {
     "id": 25,
+    "player_id": "641914",
     "fName": "Sheldon",
     "lName": "Neuse",
     "number": 56,
@@ -1963,6 +1988,7 @@
   },
   {
     "id": 26,
+    "player_id": "621458",
     "fName": "Edwin",
     "lName": "Rios",
     "number": 43,
@@ -2035,6 +2061,7 @@
   },
   {
     "id": 27,
+    "player_id": "608369",
     "fName": "Corey",
     "lName": "Seager",
     "number": 5,
@@ -2107,6 +2134,7 @@
   },
   {
     "id": 28,
+    "player_id": "457759",
     "fName": "Justin",
     "lName": "Turner",
     "number": 10,
@@ -2179,6 +2207,7 @@
   },
   {
     "id": 29,
+    "player_id": "641355",
     "fName": "Cody",
     "lName": "Bellinger",
     "number": 35,
@@ -2251,6 +2280,7 @@
   },
   {
     "id": 30,
+    "player_id": "605141",
     "fName": "Mookie",
     "lName": "Betts",
     "number": 50,
@@ -2323,6 +2353,7 @@
   },
   {
     "id": 31,
+    "player_id": "656847",
     "fName": "DJ",
     "lName": "Peters",
     "number": 70,
@@ -2395,6 +2426,7 @@
   },
   {
     "id": 32,
+    "player_id": "572041",
     "fName": "AJ",
     "lName": "Pollock",
     "number": 11,
@@ -2467,6 +2499,7 @@
   },
   {
     "id": 33,
+    "player_id": "670042",
     "fName": "Luke",
     "lName": "Raley",
     "number": 62,
@@ -2539,6 +2572,7 @@
   },
   {
     "id": 34,
+    "player_id": "621035",
     "fName": "Chris",
     "lName": "Taylor",
     "number": 3,
