@@ -91,7 +91,5 @@ export class ScheduleComponent implements OnInit {
       this.showUpcoming = false;
       this.showScores = true;
     }
-    console.log(this.showScores)
-    console.log(this.played)
   }
 }

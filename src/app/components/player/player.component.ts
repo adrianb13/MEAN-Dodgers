@@ -39,8 +39,7 @@ export class PlayerComponent implements OnInit {
 
   getPlayerData(){
     this.route.params.subscribe(params => {
-      this.id = parseInt(params.id);
-      /* console.log(this.id); */
+      this.id = params.id;
     })
     this.DataList.getRoster().subscribe(res => {
       if(this.player){
