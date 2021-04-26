@@ -13,8 +13,8 @@
       </tr>
     </thead>
     <tbody *ngFor="let player of roster">
-      <tr *ngIf="player.position === position"  id="{{player.id}}">
-        <td routerLink="/player/{{player.id}}" class="rtPlayerName">{{player.fName}} {{player.lName}}</td>
+      <tr *ngIf="player.position === position"  id="{{player.player_id}}">
+        <td routerLink="/player/{{player.player_id}}" class="rtPlayerName">{{player.fName}} {{player.lName}}</td>
         <td class="rtNum">{{player.number}}</td>
         <td>{{player.position}}</td>
         <td>{{player.bt}}</td>
