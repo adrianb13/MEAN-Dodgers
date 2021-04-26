@@ -34,13 +34,13 @@ export class DataLoadService {
   season = '2021';
   postGameType = 'D'; /* Change game_type param to 'D' Division, 'F' Wild Card, 'L' League, or 'W' WorldSeries for each level of playoffs */
 
-  private playerPitchingSeason = "http://lookup-service-prod.mlb.com/json/named.sport_pitching_tm.bam?league_list_id='mlb'&game_type='R'"
-  private playerPitchingCareer = "http://lookup-service-prod.mlb.com/json/named.sport_career_pitching.bam?league_list_id='mlb'&game_type='R'&player_id="
-  private playerPitchingPostseason = "http://lookup-service-prod.mlb.com/json/named.sport_pitching_tm.bam?league_list_id='mlb'"
+  private playerPitchingSeason = "https://lookup-service-prod.mlb.com/json/named.sport_pitching_tm.bam?league_list_id='mlb'&game_type='R'"
+  private playerPitchingCareer = "https://lookup-service-prod.mlb.com/json/named.sport_career_pitching.bam?league_list_id='mlb'&game_type='R'&player_id="
+  private playerPitchingPostseason = "https://lookup-service-prod.mlb.com/json/named.sport_pitching_tm.bam?league_list_id='mlb'"
 
-  private playerHittingSeason = "http://lookup-service-prod.mlb.com/json/named.sport_hitting_tm.bam?league_list_id='mlb'&game_type='R'"
-  private playerHittingCareer = "http://lookup-service-prod.mlb.com/json/named.sport_career_hitting.bam?league_list_id='mlb'&game_type='R'&player_id="
-  private playerHittingPostseason = "http://lookup-service-prod.mlb.com/json/named.sport_hitting_tm.bam?league_list_id='mlb'"
+  private playerHittingSeason = "https://lookup-service-prod.mlb.com/json/named.sport_hitting_tm.bam?league_list_id='mlb'&game_type='R'"
+  private playerHittingCareer = "https://lookup-service-prod.mlb.com/json/named.sport_career_hitting.bam?league_list_id='mlb'&game_type='R'&player_id="
+  private playerHittingPostseason = "https://lookup-service-prod.mlb.com/json/named.sport_hitting_tm.bam?league_list_id='mlb'"
 
   constructor(private http: HttpClient) {}
 
