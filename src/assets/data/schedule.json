@@ -221,8 +221,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Cincinnati Reds",
-    "score": "N/A",
-    "win": null
+    "score": "8-0",
+    "win": true
   },
   {
     "id": 26,
@@ -230,8 +230,8 @@
     "time": "4:40 PM PT",
     "home": false,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "1-2",
+    "win": false
   },
   {
     "id": 27,
@@ -239,8 +239,8 @@
     "time": "5:10 PM PT",
     "home": false,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "1-3",
+    "win": false
   },
   {
     "id": 28,
@@ -248,8 +248,8 @@
     "time": "4:10 PM PT",
     "home": false,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "5-6",
+    "win": false
   },
   {
     "id": 29,
@@ -257,8 +257,8 @@
     "time": "11:10 AM PT",
     "home": false,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "16-4",
+    "win": true
   },
   {
     "id": 30,
