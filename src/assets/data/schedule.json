@@ -266,8 +266,8 @@
     "time": "4:40 PM PT",
     "home": false,
     "opponent": "Chicago Cubs",
-    "score": "N/A",
-    "win": null
+    "score": "1-7",
+    "win": false
   },
   {
     "id": 31,
@@ -275,8 +275,8 @@
     "time": "4:40 PM PT",
     "home": false,
     "opponent": "Chicago Cubs",
-    "score": "N/A",
-    "win": null
+    "score": "3-4",
+    "win": false
   },
   {
     "id": 32,
@@ -284,8 +284,8 @@
     "time": "4:40 PM PT",
     "home": false,
     "opponent": "Chicago Cubs",
-    "score": "N/A",
-    "win": null
+    "score": "5-6",
+    "win": false
   },
   {
     "id": 33,
@@ -293,8 +293,8 @@
     "time": "6:38 PM PT",
     "home": false,
     "opponent": "Los Angeles Angels",
-    "score": "N/A",
-    "win": null
+    "score": "2-9",
+    "win": false
   },
   {
     "id": 34,
@@ -302,8 +302,8 @@
     "time": "6:07 PM PT",
     "home": false,
     "opponent": "Los Angeles Angels",
-    "score": "N/A",
-    "win": null
+    "score": "14-11",
+    "win": true
   },
   {
     "id": 35,
@@ -311,8 +311,8 @@
     "time": "1:07 PM PT",
     "home": false,
     "opponent": "Los Angeles Angels",
-    "score": "N/A",
-    "win": null
+    "score": "1-2",
+    "win": false
   },
   {
     "id": 36,
@@ -320,8 +320,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Seattle Mariners",
-    "score": "N/A",
-    "win": null
+    "score": "6-4",
+    "win": true
   },
   {
     "id": 37,
