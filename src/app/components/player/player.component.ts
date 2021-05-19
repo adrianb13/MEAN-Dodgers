@@ -74,9 +74,14 @@ export class PlayerComponent implements OnInit {
             this.isPitcher = true;
           } else {
             this.DataList.getPlayerHittingSeason(this.id).subscribe(res => {
+              console.log(res)
               if(res){
                 this.playerHittingSeason.push(res);
-                this.fielderSeason = this.playerHittingSeason[0].sport_hitting_tm.queryResults.row
+                if(!(this.playerHittingSeason[0].sport_hitting_tm.queryResults.row).length){
+                  this.fielderSeason = this.playerHittingSeason[0].sport_hitting_tm.queryResults.row
+                } else {
+                  this.fielderSeason = this.playerHittingSeason[0].sport_hitting_tm.queryResults.row[1]
+                }
               }
             })
             this.DataList.getPlayerHittingCareer(this.id).subscribe(res => {

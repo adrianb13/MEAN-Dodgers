@@ -1312,6 +1312,88 @@
       }
   },
   {
+    "id": 35,
+    "player_id": "670955",
+    "fName": "Edwin",
+    "lName": "Uceta",
+    "number": 92,
+    "position": "Pitcher",
+    "bt": "R/R",
+    "height": "6'0\"",
+    "weight": 155,
+    "dob": "01/09/1998", 
+    "addl": "",
+    "pitching":
+      {
+        "postseason": 
+        {
+          "win": 0,
+          "loss": 0,
+          "era": 0,
+          "game": 0,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 0,
+          "hits": 0,
+          "runs": 0,
+          "er": 0,
+          "hr": 0,
+          "hb": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "whip": 0,
+          "avg": "0"
+        },
+        "regular":
+        {
+          "win": 0,
+          "loss": 2,
+          "era": 2.45,
+          "game": 3,
+          "started": 1,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 7.1,
+          "hits": 8,
+          "runs": 5,
+          "er": 2,
+          "hr": 2,
+          "hb": 0,
+          "walks": 2,
+          "strikeouts": 7,
+          "whip": 1.36,
+          "avg": ".276"
+        },
+        "career":
+        {
+          "win": 0,
+          "loss": 2,
+          "era": 2.45,
+          "game": 3,
+          "started": 1,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 7.1,
+          "hits": 8,
+          "runs": 5,
+          "er": 2,
+          "hr": 2,
+          "hb": 0,
+          "walks": 2,
+          "strikeouts": 7,
+          "whip": 1.36,
+          "avg": ".276"
+        }
+      }
+  },
+  {
     "id": 17,
     "player_id": "628711",
     "fName": "Julio",
@@ -1390,6 +1472,88 @@
           "strikeouts": 247,
           "whip": 1.25,
           "avg": ".236"
+        }
+      }
+  },
+  {
+    "id": 36,
+    "player_id": "681911",
+    "fName": "Alex",
+    "lName": "Vesia",
+    "number": 51,
+    "position": "Pitcher",
+    "bt": "L/L",
+    "height": "6'1\"",
+    "weight": 209,
+    "dob": "04/11/1996", 
+    "addl": "",
+    "pitching":
+      {
+        "postseason": 
+        {
+          "win": 0,
+          "loss": 0,
+          "era": 0,
+          "game": 0,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 0,
+          "hits": 0,
+          "runs": 0,
+          "er": 0,
+          "hr": 0,
+          "hb": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "whip": 0,
+          "avg": "0"
+        },
+        "regular":
+        {
+          "win": 0,
+          "loss": 1,
+          "era": 5.40,
+          "game": 4,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 1,
+          "ip": 5.0,
+          "hits": 1,
+          "runs": 5,
+          "er": 3,
+          "hr": 1,
+          "hb": 0,
+          "walks": 5,
+          "strikeouts": 8,
+          "whip": 1.20,
+          "avg": ".067"
+        },
+        "career":
+        {
+          "win": 0,
+          "loss": 2,
+          "era": 11.57,
+          "game": 9,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 1,
+          "ip": 9.1,
+          "hits": 8,
+          "runs": 15,
+          "er": 12,
+          "hr": 4,
+          "hb": 0,
+          "walks": 12,
+          "strikeouts": 13,
+          "whip": 2.14,
+          "avg": ".229"
         }
       }
   },
@@ -1987,6 +2151,79 @@
       }
   },
   {
+    "id": 37,
+    "player_id": "405395",
+    "fName": "Albert",
+    "lName": "Pujols",
+    "number": 55,
+    "position": "Infielder",
+    "bt": "R/R",
+    "height": "6'3\"",
+    "weight": 235,
+    "dob": "1/16/1980",
+    "addl": "",
+    "hitting":
+      {
+        "postseason": 
+        {
+          "games": 0,
+          "atbats": 0,
+          "runs": 0,
+          "hits": 0,
+          "second": 0,
+          "third": 0,
+          "hr": 0,
+          "rbi": 0,
+          "walk": 0,
+          "strikeouts": 0,
+          "stolen": 0,
+          "caught": 0,
+          "avg": "0",
+          "onBase": "0",
+          "slugging": "0",
+          "ops": "0"
+        },
+        "regular":
+        {
+          "games": 26,
+          "atbats": 93,
+          "runs": 9,
+          "hits": 18,
+          "second": 0,
+          "third": 0,
+          "hr": 5,
+          "rbi": 14,
+          "walk": 3,
+          "strikeouts": 14,
+          "stolen": 1,
+          "caught": 0,
+          "avg": ".194",
+          "onBase": ".250",
+          "slugging": ".355",
+          "ops": ".605"
+        },
+        "career":
+        {
+          "games": 2888,
+          "atbats": 10932,
+          "runs": 1852,
+          "hits": 3254,
+          "second": 669,
+          "third": 16,
+          "hr": 667,
+          "rbi": 2114,
+          "walk": 1334,
+          "strikeouts": 1318,
+          "stolen": 115,
+          "caught": 41,
+          "avg": ".298",
+          "onBase": ".376",
+          "slugging": ".545",
+          "ops": ".921"
+        }
+      }
+  },
+  {
     "id": 26,
     "player_id": "621458",
     "fName": "Edwin",
@@ -2362,7 +2599,7 @@
     "height": "6'6\"",
     "weight": 225,
     "dob": "12/12/1995",
-    "addl": "MINORS",
+    "addl": "",
     "hitting":
       {
         "postseason": 

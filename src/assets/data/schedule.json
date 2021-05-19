@@ -338,8 +338,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Florida Marlins",
-    "score": "N/A",
-    "win": null
+    "score": "9-6",
+    "win": true
   },
   {
     "id": 39,
@@ -347,8 +347,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Florida Marlins",
-    "score": "N/A",
-    "win": null
+    "score": "7-0",
+    "win": true
   },
   {
     "id": 40,
@@ -356,8 +356,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Florida Marlins",
-    "score": "N/A",
-    "win": null
+    "score": "2-3",
+    "win": false
   },
   {
     "id": 41,
@@ -365,8 +365,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "3-1",
+    "win": true
   },
   {
     "id": 42,
@@ -374,8 +374,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "9-1",
+    "win": true
   },
   {
     "id": 43,
