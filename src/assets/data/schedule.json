@@ -383,8 +383,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "4-2",
+    "win": true
   },
   {
     "id": 44,
@@ -392,8 +392,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "3-2",
+    "win": true
   },
   {
     "id": 45,
@@ -401,8 +401,8 @@
     "time": "6:45 PM PT",
     "home": false,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "2-1",
+    "win": true
   },
   {
     "id": 46,
@@ -410,8 +410,8 @@
     "time": "4:15 PM PT",
     "home": false,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "6-3",
+    "win": true
   },
   {
     "id": 47,
@@ -419,8 +419,8 @@
     "time": "1:05 PM PT",
     "home": false,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "11-5",
+    "win": true
   },
   {
     "id": 48,
@@ -428,8 +428,8 @@
     "time": "5:10 PM PT",
     "home": false,
     "opponent": "Houston Astros",
-    "score": "N/A",
-    "win": null
+    "score": "9-2",
+    "win": true
   },
   {
     "id": 49,
@@ -437,8 +437,8 @@
     "time": "4:40 PM PT",
     "home": false,
     "opponent": "Houston Astros",
-    "score": "N/A",
-    "win": null
+    "score": "2-5",
+    "win": false
   },
   {
     "id": 50,
@@ -446,8 +446,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "4-3",
+    "win": true
   },
   {
     "id": 51,
@@ -455,8 +455,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "5-8",
+    "win": false
   },
   {
     "id": 52,
@@ -464,8 +464,8 @@
     "time": "4:15 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "6-11",
+    "win": false
   },
   {
     "id": 53,
@@ -473,8 +473,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "4-5",
+    "win": false
   },
   {
     "id": 54,

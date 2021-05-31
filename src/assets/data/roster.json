@@ -164,6 +164,88 @@
       }
   },
   {
+    "id": 38,
+    "player_id": "641360",
+    "fName": "Phil",
+    "lName": "Bickford",
+    "number": 52,
+    "position": "Pitcher",
+    "bt": "R/R",
+    "height": "6'4\"",
+    "weight": 200,
+    "dob": "7/10/1995",
+    "addl": "",
+    "pitching":
+      {
+        "postseason": 
+        {
+          "win": 0,
+          "loss": 0,
+          "era": 0,
+          "game": 0,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 0,
+          "hits": 0,
+          "runs": 0,
+          "er": 0,
+          "hr": 0,
+          "hb": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "whip": 0,
+          "avg": "0"
+        },
+        "regular":
+        {
+          "win": 0,
+          "loss": 0,
+          "era": 4.5,
+          "game": 5,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 4.0,
+          "hits": 5,
+          "runs": 3,
+          "er": 2,
+          "hr": 1,
+          "hb": 2,
+          "walks": 2,
+          "strikeouts": 5,
+          "whip": 1.75,
+          "avg": ".313"
+        },
+        "career":
+        {
+          "win": 0,
+          "loss": 0,
+          "era": 10.80,
+          "game": 6,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 5.0,
+          "hits": 9,
+          "runs": 7,
+          "er": 6,
+          "hr": 1,
+          "hb": 4,
+          "walks": 2,
+          "strikeouts": 7,
+          "whip": 2.20,
+          "avg": ".391"
+        }
+      }
+  },
+  {
     "id": 3,
     "player_id": "621111",
     "fName": "Walker",
@@ -2877,6 +2959,79 @@
           "onBase": ".336",
           "slugging": ".444",
           "ops": ".780"
+        }
+      }
+  },
+  {
+    "id": 39,
+    "player_id": "660294",
+    "fName": "Yoshi",
+    "lName": "Tsutsugo",
+    "number": 28,
+    "position": "Outfielder",
+    "bt": "L/R",
+    "height": "6'1\"",
+    "weight": 225,
+    "dob": "11/26/1991",
+    "addl": "",
+    "hitting":
+      {
+        "postseason": 
+        {
+          "games": 0,
+          "atbats": 0,
+          "runs": 0,
+          "hits": 0,
+          "second": 0,
+          "third": 0,
+          "hr": 0,
+          "rbi": 0,
+          "walk": 0,
+          "strikeouts": 0,
+          "stolen": 0,
+          "caught": 0,
+          "avg": "0",
+          "onBase": "0",
+          "slugging": "0",
+          "ops": "0"
+        },
+        "regular":
+        {
+          "games": 34,
+          "atbats": 101,
+          "runs": 7,
+          "hits": 16,
+          "second": 4,
+          "third": 0,
+          "hr": 0,
+          "rbi": 7,
+          "walk": 11,
+          "strikeouts": 19,
+          "stolen": 0,
+          "caught": 0,
+          "avg": ".158",
+          "onBase": ".241",
+          "slugging": ".198",
+          "ops": ".439"
+        },
+        "career":
+        {
+          "games": 85,
+          "atbats": 258,
+          "runs": 34,
+          "hits": 47,
+          "second": 9,
+          "third": 1,
+          "hr": 8,
+          "rbi": 31,
+          "walk": 37,
+          "strikeouts": 89,
+          "stolen": 0,
+          "caught": 0,
+          "avg": ".182",
+          "onBase": ".286",
+          "slugging": ".318",
+          "ops": ".604"
         }
       }
   }
