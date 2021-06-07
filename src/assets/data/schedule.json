@@ -482,8 +482,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "St. Louis Cardinals",
-    "score": "N/A",
-    "win": null
+    "score": "9-4",
+    "win": true
   },
   {
     "id": 55,
@@ -491,8 +491,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "St. Louis Cardinals",
-    "score": "N/A",
-    "win": null
+    "score": "2-3",
+    "win": false
   },
   {
     "id": 56,
@@ -500,8 +500,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "St. Louis Cardinals",
-    "score": "N/A",
-    "win": null
+    "score": "14-3",
+    "win": true
   },
   {
     "id": 57,
@@ -509,8 +509,8 @@
     "time": "4:20 PM PT",
     "home": false,
     "opponent": "Atlanta Braves",
-    "score": "N/A",
-    "win": null
+    "score": "9-5",
+    "win": true
   },
   {
     "id": 58,
@@ -518,8 +518,8 @@
     "time": "4:15 PM PT",
     "home": false,
     "opponent": "Atlanta Braves",
-    "score": "N/A",
-    "win": null
+    "score": "4-6",
+    "win": false
   },
   {
     "id": 59,
@@ -527,8 +527,8 @@
     "time": "10:20 PM PT",
     "home": false,
     "opponent": "Atlanta Braves",
-    "score": "N/A",
-    "win": null
+    "score": "2-4",
+    "win": false
   },
   {
     "id": 60,
