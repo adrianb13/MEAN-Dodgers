@@ -536,8 +536,8 @@
     "time": "4:05 PM PT",
     "home": false,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "5-3",
+    "win": true
   },
   {
     "id": 61,
@@ -545,8 +545,8 @@
     "time": "4:05 PM PT",
     "home": false,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "2-1",
+    "win": true
   },
   {
     "id": 62,
@@ -554,8 +554,8 @@
     "time": "9:35 AM PT",
     "home": false,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "6-3",
+    "win": true
   },
   {
     "id": 63,
@@ -563,8 +563,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Texas Rangers",
-    "score": "N/A",
-    "win": null
+    "score": "12-1",
+    "win": true
   },
   {
     "id": 64,
@@ -572,8 +572,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Texas Rangers",
-    "score": "N/A",
-    "win": null
+    "score": "1-12",
+    "win": false
   },
   {
     "id": 65,
@@ -581,8 +581,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Texas Rangers",
-    "score": "N/A",
-    "win": null
+    "score": "5-3",
+    "win": true
   },
   {
     "id": 66,
@@ -590,8 +590,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Philadelphia Phillies",
-    "score": "N/A",
-    "win": null
+    "score": "3-1",
+    "win": true
   },
   {
     "id": 67,
@@ -599,8 +599,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Philadelphia Phillies",
-    "score": "N/A",
-    "win": null
+    "score": "5-3",
+    "win": true
   },
   {
     "id": 68,
@@ -608,8 +608,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Philadelphia Phillies",
-    "score": "N/A",
-    "win": null
+    "score": "0-2",
+    "win": false
   },
   {
     "id": 69,
@@ -617,8 +617,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "3-0",
+    "win": true
   },
   {
     "id": 70,
@@ -626,8 +626,8 @@
     "time": "7:10 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "9-3",
+    "win": true
   },
   {
     "id": 71,
@@ -635,8 +635,8 @@
     "time": "1:10 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "9-8",
+    "win": true
   },
   {
     "id": 72,
