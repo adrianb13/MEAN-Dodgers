@@ -28,6 +28,8 @@ export class PlayerComponent implements OnInit {
   playerData = false;
   isPitcher = true;
 
+  dataLength = null;
+
   constructor(
     private route: ActivatedRoute,
     private DataList: DataLoadService
@@ -52,7 +54,12 @@ export class PlayerComponent implements OnInit {
             this.DataList.getPlayerPitchingSeason(this.id).subscribe(res => {
               if(res){
                 this.playerPitchingSeason.push(res);
-                this.pitchingSeason = this.playerPitchingSeason[0].sport_pitching_tm.queryResults.row
+                this.dataLength = this.playerPitchingSeason[0].sport_pitching_tm.queryResults.row.length;
+                if(!this.dataLength){
+                  this.pitchingSeason = this.playerPitchingSeason[0].sport_pitching_tm.queryResults.row;
+                } else {
+                  this.pitchingSeason = this.playerPitchingSeason[0].sport_pitching_tm.queryResults.row[this.dataLength-1];
+                }
               }
             })
             this.DataList.getPlayerPitchingCareer(this.id).subscribe(res => {
@@ -74,13 +81,15 @@ export class PlayerComponent implements OnInit {
             this.isPitcher = true;
           } else {
             this.DataList.getPlayerHittingSeason(this.id).subscribe(res => {
-              console.log(res)
               if(res){
+                console.log("Season")
                 this.playerHittingSeason.push(res);
-                if(!(this.playerHittingSeason[0].sport_hitting_tm.queryResults.row).length){
+                this.dataLength = (this.playerHittingSeason[0].sport_hitting_tm.queryResults.row).length;
+                console.log("length" + this.dataLength)
+                if(!this.dataLength){
                   this.fielderSeason = this.playerHittingSeason[0].sport_hitting_tm.queryResults.row
                 } else {
-                  this.fielderSeason = this.playerHittingSeason[0].sport_hitting_tm.queryResults.row[1]
+                  this.fielderSeason = this.playerHittingSeason[0].sport_hitting_tm.queryResults.row[this.dataLength - 1]
                 }
               }
             })
@@ -91,6 +100,8 @@ export class PlayerComponent implements OnInit {
                 this.playerData = true;
               }
             })
+            
+            
             /* this.DataList.getPlayerHittingPostseason(this.id).subscribe(res => {
               if(res){
                 this.playerHittingPostseason.push(res);
