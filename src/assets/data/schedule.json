@@ -1076,8 +1076,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "4-3",
+    "win": true
   },
   {
     "id": 121,
@@ -1085,8 +1085,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "9-0",
+    "win": true
   },
   {
     "id": 122,
@@ -1094,8 +1094,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "4-1",
+    "win": true
   },
   {
     "id": 123,
@@ -1103,8 +1103,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "3-2",
+    "win": true
   },
   {
     "id": 124,
@@ -1112,8 +1112,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "4-3",
+    "win": true
   },
   {
     "id": 125,
@@ -1121,8 +1121,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "2-7",
+    "win": false
   },
   {
     "id": 126,
@@ -1130,8 +1130,8 @@
     "time": "7:10 PM PT",
     "home": false,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "5-2",
+    "win": true
   },
   {
     "id": 127,
@@ -1139,8 +1139,8 @@
     "time": "7:10 PM PT",
     "home": false,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "5-3",
+    "win": true
   },
   {
     "id": 128,
@@ -1148,8 +1148,8 @@
     "time": "6:10 PM PT",
     "home": false,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "4-0",
+    "win": true
   },
   {
     "id": 129,
