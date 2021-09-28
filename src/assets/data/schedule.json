@@ -1310,8 +1310,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "8-4",
+    "win": true
   },
   {
     "id": 147,
@@ -1319,8 +1319,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "5-3",
+    "win": true
   },
   {
     "id": 148,
@@ -1328,8 +1328,8 @@
     "time": "4:10 PM PT",
     "home": false,
     "opponent": "Cincinnati Reds",
-    "score": "N/A",
-    "win": null
+    "score": "1-3",
+    "win": false
   },
   {
     "id": 149,
@@ -1337,8 +1337,8 @@
     "time": "4:10 PM PT",
     "home": false,
     "opponent": "Cincinnati Reds",
-    "score": "N/A",
-    "win": null
+    "score": "5-1",
+    "win": true
   },
   {
     "id": 150,
@@ -1346,8 +1346,8 @@
     "time": "10:10 AM PT",
     "home": false,
     "opponent": "Cincinnati Reds",
-    "score": "N/A",
-    "win": null
+    "score": "8-5",
+    "win": true
   },
   {
     "id": 151,
@@ -1355,8 +1355,8 @@
     "time": "5:40 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "5-4",
+    "win": true
   },
   {
     "id": 152,
@@ -1364,8 +1364,8 @@
     "time": "5:40 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "5-10",
+    "win": false
   },
   {
     "id": 153,
@@ -1373,8 +1373,8 @@
     "time": "12:10 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "7-5",
+    "win": true
   },
   {
     "id": 154,
@@ -1382,8 +1382,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "4-2",
+    "win": true
   },
   {
     "id": 155,
@@ -1391,8 +1391,8 @@
     "time": "5:10 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "2-7",
+    "win": false
   },
   {
     "id": 156,
@@ -1400,8 +1400,8 @@
     "time": "1:10 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "3-0",
+    "win": true
   },
   {
     "id": 157,
