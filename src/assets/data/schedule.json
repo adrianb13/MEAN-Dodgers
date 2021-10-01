@@ -1409,8 +1409,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "2-1",
+    "win": true
   },
   {
     "id": 158,
@@ -1418,8 +1418,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "11-9",
+    "win": true
   },
   {
     "id": 159,
@@ -1427,8 +1427,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "8-3",
+    "win": true
   },
   {
     "id": 160,
