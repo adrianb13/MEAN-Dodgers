@@ -65,7 +65,7 @@ export class ScheduleComponent implements OnInit {
   sortSchedule(){
     let schedule = this.schedule.sort(this.sortData)
     for(let game of schedule){
-      if(game.score !== "N/A"){
+      if(game.score !== "N/A" && !game.score.includes("Playoffs")){
         this.played.push(game);
         if(game.win === true){
           this.win = this.win + 1;

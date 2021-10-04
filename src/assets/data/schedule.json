@@ -1436,8 +1436,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "8-6",
+    "win": true
   },
   {
     "id": 161,
@@ -1445,8 +1445,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "8-3",
+    "win": true
   },
   {
     "id": 162,
@@ -1454,6 +1454,15 @@
     "time": "12:10 PM PT",
     "home": true,
     "opponent": "Milwaukee Brewers",
+    "score": "10-3",
+    "win": true
+  },
+  {
+    "id": 163,
+    "date": "10/6/21",
+    "time": "5:10 PM PT - Wild Card Elimination",
+    "home": true,
+    "opponent": "St. Louis Cardinals",
     "score": "N/A",
     "win": null
   }
