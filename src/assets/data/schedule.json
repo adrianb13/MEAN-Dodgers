@@ -1463,6 +1463,96 @@
     "time": "5:10 PM PT - Wild Card Elimination",
     "home": true,
     "opponent": "St. Louis Cardinals",
+    "score": "3-1 (Playoffs)",
+    "win": true
+  },
+  {
+    "id": 164,
+    "date": "10/8/21",
+    "time": "6:30 PM PT - NLDS",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "0-4 (Playoffs)",
+    "win": false
+  },
+  {
+    "id": 165,
+    "date": "10/8/21",
+    "time": "6:00 PM PT - NLDS",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "9-2 (Playoffs)",
+    "win": true
+  },
+  {
+    "id": 166,
+    "date": "10/11/21",
+    "time": "6:30 PM PT - NLDS",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "0-1  (Playoffs)",
+    "win": false
+  },
+  {
+    "id": 167,
+    "date": "10/12/21",
+    "time": "6:00 PM PT - NLDS",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "7-2  (Playoffs)",
+    "win": true
+  },
+  {
+    "id": 168,
+    "date": "10/14/21",
+    "time": "6:00 PM PT - NLDS",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "2-1  (Playoffs)",
+    "win": true
+  },
+  {
+    "id": 169,
+    "date": "10/16/21",
+    "time": "6:00 PM PT - NLCS",
+    "home": false,
+    "opponent": "Atlanta Braves",
+    "score": "2-3  (Playoffs)",
+    "win": false
+  },
+  {
+    "id": 170,
+    "date": "10/17/21",
+    "time": "6:00 PM PT - NLCS",
+    "home": false,
+    "opponent": "Atlanta Braves",
+    "score": "4-5  (Playoffs)",
+    "win": false
+  },
+  {
+    "id": 171,
+    "date": "10/19/21",
+    "time": "2:00 PM PT - NLCS",
+    "home": true,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 172,
+    "date": "10/20/21",
+    "time": "6:00 PM PT - NLCS",
+    "home": true,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 173,
+    "date": "10/21/21",
+    "time": "2:00 PM PT - NLCS",
+    "home": true,
+    "opponent": "Atlanta Braves",
     "score": "N/A",
     "win": null
   }
