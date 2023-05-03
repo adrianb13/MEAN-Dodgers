@@ -31,7 +31,7 @@ export class DataLoadService {
   private scheduleData = "assets/data/schedule.json";
   private scheduleDB = "/api/schedule";
 
-  season = '2021';
+  season = '2023';
   postGameType = 'D'; /* Change game_type param to 'D' Division, 'F' Wild Card, 'L' League, or 'W' WorldSeries for each level of playoffs */
 
   private playerPitchingSeason = "https://lookup-service-prod.mlb.com/json/named.sport_pitching_tm.bam?league_list_id='mlb'&game_type='R'"
