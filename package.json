@@ -2,6 +2,9 @@
   "name": "dodgers",
   "version": "0.0.0",
   "main": "server.js",
+  "engines": {
+    "node": "16.14"
+  },
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
