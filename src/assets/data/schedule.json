@@ -799,5 +799,662 @@
     "opponent": "Los Angeles Angels",
     "score": "N/A",
     "win": null
+  },
+  {
+    "id": 90,
+    "date": "07/14/23",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 91,
+    "date": "07/15/23",
+    "time": "4:15 PM PT",
+    "home": false,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 92,
+    "date": "07/16/23",
+    "time": "10:40 AM PT",
+    "home": false,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 93,
+    "date": "07/17/23",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Baltimore Orioles",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 94,
+    "date": "07/18/23",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Baltimore Orioles",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 95,
+    "date": "07/19/23",
+    "time": "7:10 PM PT",
+    "home": false,
+    "opponent": "Baltimore Orioles",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 96,
+    "date": "07/21/23",
+    "time": "5:05 PM PT",
+    "home": false,
+    "opponent": "Texas Rangers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 97,
+    "date": "07/22/23",
+    "time": "1:05 PM PT",
+    "home": false,
+    "opponent": "Texas Rangers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 98,
+    "date": "07/23/23",
+    "time": "11:35 AM PT",
+    "home": false,
+    "opponent": "Texas Rangers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 99,
+    "date": "07/24/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Toronto Blue Jays",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 100,
+    "date": "07/25/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Toronto Blue Jays",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 101,
+    "date": "07/26/23",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Toronto Blue Jays",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 102,
+    "date": "07/28/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 103,
+    "date": "07/29/23",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 104,
+    "date": "07/30/23",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 105,
+    "date": "08/01/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Oakland A's",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 106,
+    "date": "08/02/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Oakland A's",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 107,
+    "date": "08/03/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Oakland A's",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 108,
+    "date": "08/04/23",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 109,
+    "date": "08/05/23",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 110,
+    "date": "08/06/23",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 111,
+    "date": "08/07/23",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 112,
+    "date": "08/08/23",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 113,
+    "date": "08/09/23",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 114,
+    "date": "08/10/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 115,
+    "date": "08/11/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 116,
+    "date": "08/12/23",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 117,
+    "date": "08/13/23",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 118,
+    "date": "08/15/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 119,
+    "date": "08/16/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 120,
+    "date": "08/17/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 121,
+    "date": "08/18/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 122,
+    "date": "08/19/23",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 123,
+    "date": "08/20/23",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 124,
+    "date": "08/22/23",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "Cleveland Guardians",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 125,
+    "date": "08/23/23",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "Cleveland Guardians",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 126,
+    "date": "08/24/23",
+    "time": "10:10 AM PT",
+    "home": false,
+    "opponent": "Cleveland Guardians",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 127,
+    "date": "08/25/23",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "Boston Red Sox",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 128,
+    "date": "08/26/23",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "Boston Red Sox",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 129,
+    "date": "8/27/23",
+    "time": "TBD",
+    "home": false,
+    "opponent": "Boston Red Sox",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 130,
+    "date": "08/28/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 131,
+    "date": "08/29/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 132,
+    "date": "8/30/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 133,
+    "date": "08/31/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 134,
+    "date": "09/01/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 135,
+    "date": "09/02/23",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 136,
+    "date": "09/03/23",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 137,
+    "date": "09/05/23",
+    "time": "3:40 PM PT",
+    "home": false,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 138,
+    "date": "09/06/23",
+    "time": "3:40 PM PT",
+    "home": false,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 139,
+    "date": "09/07/23",
+    "time": "3:40 PM PT",
+    "home": false,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 140,
+    "date": "09/08/23",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 141,
+    "date": "09/09/23",
+    "time": "1:05 PM PT",
+    "home": false,
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 142,
+    "date": "09/10/23",
+    "time": "10:35 AM PT",
+    "home": false,
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 143,
+    "date": "09/11/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 144,
+    "date": "09/12/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 145,
+    "date": "09/13/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 146,
+    "date": "09/15/23",
+    "time": "7:10 PM PT",
+    "home": false,
+    "opponent": "Seattle Mariners",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 147,
+    "date": "09/16/23",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Seattle Mariners",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 148,
+    "date": "09/17/23",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "Seattle Mariners",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 149,
+    "date": "09/18/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Detroit Tigers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 150,
+    "date": "09/19/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Detroit Tigers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 151,
+    "date": "09/20/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Detroit Tigers",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 152,
+    "date": "09/21/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 153,
+    "date": "09/22/23",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 154,
+    "date": "09/23/23",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 155,
+    "date": "09/24/23",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 156,
+    "date": "09/26/23",
+    "time": "12:10 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 157,
+    "date": "09/26/23",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 158,
+    "date": "09/27/23",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 159,
+    "date": "09/28/23",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 160,
+    "date": "09/29/23",
+    "time": "7:15 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 161,
+    "date": "09/30/23",
+    "time": "6:05 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 162,
+    "date": "10/01/23",
+    "time": "12:05 PM PT",
+    "home": false,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   }
 ]
