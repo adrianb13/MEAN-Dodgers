@@ -29,22 +29,22 @@ export class ScheduleComponent implements OnInit {
 
   //Get Schedule
   getScheduleData(){
-  /*   this.DataList.getSchedule().subscribe(res => {
+    this.DataList.getSchedule().subscribe(res => {
       if(res){
         this.schedule.push(res);
         this.schedule = this.schedule[0];
 
-        this.sortSchedule();
-      }
-    }) */
-
-    this.DataList.getScheduleDB().subscribe(res => {
-      if(res){
-        this.schedule.push(res);
-        this.schedule = this.schedule[0];
         this.sortSchedule();
       }
     })
+
+    /* this.DataList.getScheduleDB().subscribe(res => {
+      if(res){
+        this.schedule.push(res);
+        this.schedule = this.schedule[0];
+        this.sortSchedule();
+      }
+    }) */
   }
 
   //Sort By Date (Mongo does not provide data in chronological order)
@@ -65,13 +65,15 @@ export class ScheduleComponent implements OnInit {
   sortSchedule(){
     let schedule = this.schedule.sort(this.sortData)
     for(let game of schedule){
-      if(game.score !== "N/A" && !game.score.includes("Playoffs")){
+      if(game.score !== "N/A" && !game.score.includes("Playoffs") && !game.score.includes("NLDS") && !game.score.includes("NLCS") && !game.score.includes("WS")){
         this.played.push(game);
         if(game.win === true){
           this.win = this.win + 1;
         } else {
           this.loss = this.loss + 1;
         }
+      } else if (game.score !== "N/A" && (game.score.includes("Playoffs") || game.score.includes("NLDS") || game.score.includes("NLCS") || game.score.includes("WS"))) {
+        this.played.push(game);
       } else {
         this.upcoming.push(game);
       }

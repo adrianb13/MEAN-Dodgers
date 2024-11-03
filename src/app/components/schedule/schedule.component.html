@@ -15,11 +15,11 @@
     <div *ngIf="showNext && !home">
       <div>{{nextGame.date}}</div>
       <div>{{nextGame.time}}</div>
-      <div>Dodgers @ {{nextGame.opponent}}</div>
+      <div>Dodgers &#64; {{nextGame.opponent}}</div>
     </div>
-    <!-- <div *ngIf="!showNext" class="sNA">
-      <div class="sWS">2020 World Series Champions!!!</div>
-    </div> -->
+    <div *ngIf="!showNext" class="sNA">
+      <div class="sWS">2024 World Series Champions!!!</div>
+    </div>
   </div>
 
   <div class="sButtonBox">
@@ -29,7 +29,7 @@
   
   <div *ngIf="showUpcoming">
     <div class="sHeader">Upcoming</div>
-    <!-- <div class="sNextSeason">See you in the 2021-2022 Season</div> -->
+    <div class="sNextSeason">See you in the 2025 Season</div>
     <div class="sUpcoming">
       <div *ngFor="let game of upcoming">
         <div class="sBall">
@@ -40,7 +40,7 @@
               <div>Dodgers vs. {{game.opponent}}</div>
             </div>
             <div *ngIf="game && !game.home">
-              <div>Dodgers @ {{game.opponent}}</div>
+              <div>Dodgers &#64; {{game.opponent}}</div>
             </div>
           </div>
         </div>
@@ -59,7 +59,7 @@
               <div>Dodgers vs. {{game.opponent}}</div>
             </div>
             <div *ngIf="game && !game.home">
-              <div>Dodgers @ {{game.opponent}}</div>
+              <div>Dodgers &#64; {{game.opponent}}</div>
             </div>
             <div *ngIf="game && game.win">
               <div>Dodgers Win - {{game.score}}</div>
