@@ -2658,22 +2658,22 @@
       {
         "postseason": 
         {
-          "games": 0,
-          "atbats": 0,
-          "runs": 0,
-          "hits": 0,
-          "second": 0,
+          "games": 16,
+          "atbats": 61,
+          "runs": 14,
+          "hits": 14,
+          "second": 1,
           "third": 0,
-          "hr": 0,
-          "rbi": 0,
-          "walk": 0,
-          "strikeouts": 0,
+          "hr": 3,
+          "rbi": 10,
+          "walk": 13,
+          "strikeouts": 22,
           "stolen": 0,
-          "caught": 0,
-          "avg": "0",
-          "onBase": "0",
-          "slugging": "0",
-          "ops": "0"
+          "caught": 2,
+          "avg": ".230",
+          "onBase": ".373",
+          "slugging": ".393",
+          "ops": ".766"
         },
         "regular":
         {

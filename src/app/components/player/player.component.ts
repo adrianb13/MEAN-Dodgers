@@ -51,7 +51,7 @@ export class PlayerComponent implements OnInit {
         this.player = this.roster.find(player => player.player_id === this.id);
         if(this.player){
           if(this.player.position === "Pitcher"){
-            this.DataList.getPlayerPitchingSeason(this.id).subscribe(res => {
+            /* this.DataList.getPlayerPitchingSeason(this.id).subscribe(res => {
               if(res){
                 this.playerPitchingSeason.push(res);
                 this.dataLength = this.playerPitchingSeason[0].sport_pitching_tm.queryResults.row.length;
@@ -68,19 +68,19 @@ export class PlayerComponent implements OnInit {
                 this.pitchingCareer = this.playerPitchingCareer[0].sport_career_pitching.queryResults.row
                 this.playerData = true;
               }
-            })
+            }) */
             /* this.DataList.getPlayerPitchingPostseason(this.id).subscribe(res => {
               if(res){
                 this.playerPitchingPostseason.push(res);
                 this.pitchingPost = this.playerPitchingPostseason[0].sport_pitching_tm.queryResults.row
               }
             }) */
-            /* this.pitchingSeason = this.player.pitching.regular; */
-            /* this.pitchingCareer = this.player.pitching.career; */
+            this.pitchingSeason = this.player.pitching.regular;
+            this.pitchingCareer = this.player.pitching.career;
             this.pitchingPost = this.player.pitching.postseason;
             this.isPitcher = true;
           } else {
-            this.DataList.getPlayerHittingSeason(this.id).subscribe(res => {
+            /* this.DataList.getPlayerHittingSeason(this.id).subscribe(res => {
               if(res){
                 console.log("Season")
                 this.playerHittingSeason.push(res);
@@ -99,22 +99,20 @@ export class PlayerComponent implements OnInit {
                 this.fielderCareer = this.playerHittingCareer[0].sport_career_hitting.queryResults.row
                 this.playerData = true;
               }
-            })
-            
-            
+            }) */            
             /* this.DataList.getPlayerHittingPostseason(this.id).subscribe(res => {
               if(res){
                 this.playerHittingPostseason.push(res);
                 this.fielderPost = this.playerHittingSeason[0].sport_hitting_tm.queryResults.row
               }
             }) */ 
-            /* this.fielderSeason = this.player.hitting.regular; */
-            /* this.fielderCareer = this.player.hitting.career; */
+            this.fielderSeason = this.player.hitting.regular;
+            this.fielderCareer = this.player.hitting.career;
             this.fielderPost = this.player.hitting.postseason;
-            this.isPitcher = false;
-            
+            this.isPitcher = false; 
           }
         }
+        this.playerData = true;
       }
     })
   }
