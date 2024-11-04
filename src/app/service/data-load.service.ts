@@ -17,6 +17,7 @@ interface roster {
 interface schedule {
   id: number,
   date: string,
+  time: string,
   home: boolean,
   opponent: string,
   score: string,

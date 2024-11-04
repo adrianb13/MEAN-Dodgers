@@ -29,22 +29,23 @@ export class ScheduleComponent implements OnInit {
 
   //Get Schedule
   getScheduleData(){
-    this.DataList.getSchedule().subscribe(res => {
+    /* this.DataList.getSchedule().subscribe(res => {
       if(res){
         this.schedule.push(res);
         this.schedule = this.schedule[0];
 
-        this.sortSchedule();
-      }
-    })
-
-    /* this.DataList.getScheduleDB().subscribe(res => {
-      if(res){
-        this.schedule.push(res);
-        this.schedule = this.schedule[0];
         this.sortSchedule();
       }
     }) */
+
+    this.DataList.getScheduleDB().subscribe(res => {
+      if(res){
+        this.schedule.push(res);
+        this.schedule = this.schedule[0];
+        this.sortSchedule();
+        console.log(this.schedule)
+      }
+    })
   }
 
   //Sort By Date (Mongo does not provide data in chronological order)
