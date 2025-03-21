@@ -246,6 +246,88 @@
       }
   },
   {
+    "id": 105,
+    "player_id": "693308",
+    "fName": "Nick",
+    "lName": "Frasso",
+    "number": 79,
+    "position": "Pitcher",
+    "bt": "R/R",
+    "height": "6'5\"",
+    "weight": 200,
+    "dob": "10/18/1998",
+    "addl": "MINORS",
+    "pitching":
+      {
+        "postseason": 
+        {
+          "win": 0,
+          "loss": 0,
+          "era": 0,
+          "game": 0,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 0,
+          "hits": 0,
+          "runs": 0,
+          "er": 0,
+          "hr": 0,
+          "hb": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "whip": 0,
+          "avg": ".000"
+        },
+        "regular":
+        {
+          "win": 0,
+          "loss": 0,
+          "era": 0,
+          "game": 0,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 0,
+          "hits": 0,
+          "runs": 0,
+          "er": 0,
+          "hr": 0,
+          "hb": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "whip": 0,
+          "avg": ".000"
+        },
+        "career":
+        {
+          "win": 0,
+          "loss": 0,
+          "era": 0,
+          "game": 0,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 0,
+          "hits": 0,
+          "runs": 0,
+          "er": 0,
+          "hr": 0,
+          "hb": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "whip": 0,
+          "avg": ".000"
+        }
+      }
+  },
+  {
     "id": 95,
     "player_id": "472610",
     "fName": "Luis",
