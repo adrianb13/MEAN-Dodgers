@@ -51,7 +51,6 @@ export class PlayerComponent implements OnInit {
         
         this.player = this.roster.find(player => player.player_id === this.id);
         if(this.player){
-          console.log(this.player);
           if(this.player.position === "2-Way"){
             this.pitchingSeason = this.player.pitching.regular;
             this.pitchingCareer = this.player.pitching.career;
