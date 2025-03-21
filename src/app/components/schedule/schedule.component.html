@@ -23,32 +23,8 @@
         <div class="sWS">2024 World Series Champions!!!</div>
       </div> -->
     </div>
-
-    <div class="sButtonBox">
-      <div class="rBtn" (click)="whatToShow('upcoming')">Schedule</div>
-      <div class="rBtn" (click)="whatToShow('scores')">Scores</div>
-    </div>
-  
-    <div class="sHeader">Upcoming</div>
-    <!-- <div class="sNextSeason">See you in the 2025 Season</div> -->
-    <div class="sUpcoming">
-      <div *ngFor="let game of upcoming">
-        <div class="sBall">
-          <div class="sGame">
-            <div>{{game.date}}</div>
-            <div>{{game.time}}</div>
-            <div *ngIf="game && game.home">
-              <div>Dodgers vs. {{game.opponent}}</div>
-            </div>
-            <div *ngIf="game && !game.home">
-              <div>Dodgers &#64; {{game.opponent}}</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
-  
+
   <div *ngIf="showScores">
     <div class="sNextBox">
       <div class="sHeader">Last Game</div>
@@ -69,12 +45,35 @@
         <div class="sWS">2024 World Series Champions!!!</div>
       </div> -->
     </div>
+  </div>
 
-    <div class="sButtonBox">
-      <div class="rBtn" (click)="whatToShow('upcoming')">Schedule</div>
-      <div class="rBtn" (click)="whatToShow('scores')">Scores</div>
+  <div class="sButtonBox">
+    <div class="rBtn" (click)="whatToShow('upcoming')">Schedule</div>
+    <div class="rBtn" (click)="whatToShow('scores')">Scores</div>
+  </div>
+  
+  <div *ngIf="showUpcoming">
+    <div class="sHeader">Upcoming</div>
+    <!-- <div class="sNextSeason">See you in the 2025 Season</div> -->
+    <div class="sUpcoming">
+      <div *ngFor="let game of upcoming">
+        <div class="sBall">
+          <div class="sGame">
+            <div>{{game.date}}</div>
+            <div>{{game.time}}</div>
+            <div *ngIf="game && game.home">
+              <div>Dodgers vs. {{game.opponent}}</div>
+            </div>
+            <div *ngIf="game && !game.home">
+              <div>Dodgers &#64; {{game.opponent}}</div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
+  </div>
 
+  <div *ngIf="showScores">
     <div class="sHeader">Scores</div>
     <div class="sPlayed">
       <div *ngFor="let game of played">
