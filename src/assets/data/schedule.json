@@ -1,1604 +1,1460 @@
 [
   {
     "id": 1,
-    "date": "03/20/24",
-    "time": "1:10 PM PT",
-    "home": true,
-    "opponent": "San Diego Padres",
-    "score": "5-2",
+    "date": "03/18/25",
+    "time": "5:00 AM PT",
+    "home": false,
+    "opponent": "Chicago Cubs",
+    "score": "4-1",
     "win": true
   },
   {
     "id": 2,
-    "date": "03/21/24",
-    "time": "5:10 PM PT",
-    "home": true,
-    "opponent": "San Diego Padres",
-    "score": "11-15",
-    "win": false
+    "date": "03/19/25",
+    "time": "5:00 AM PT",
+    "home": false,
+    "opponent": "Chicago Cubs",
+    "score": "6-3",
+    "win": true
   },
   {
     "id": 3,
-    "date": "03/28/24",
-    "time": "12:10 PM PT",
+    "date": "03/27/25",
+    "time": "4:10 PM PT",
     "home": true,
-    "opponent": "St. Louis Cardinals",
-    "score": "7-1",
-    "win": true
+    "opponent": "Detroit Tigers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 4,
-    "date": "03/29/24",
-    "time": "4:40 PM PT",
+    "date": "03/28/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "St. Louis Cardinals",
-    "score": "6-3",
-    "win": true
+    "opponent": "Detroit Tigers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 5,
-    "date": "03/30/24",
-    "time": "10:10 AM PT",
+    "date": "03/29/25",
+    "time": "6:10 PM PT",
     "home": true,
-    "opponent": "St. Louis Cardinals",
-    "score": "5-6 F/10",
-    "win": false
+    "opponent": "Detroit Tigers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 6,
-    "date": "03/31/24",
+    "date": "03/31/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "St. Louis Cardinals",
-    "score": "5-4",
-    "win": true
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 7,
-    "date": "04/01/24",
+    "date": "04/01/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "San Francisco Giants",
-    "score": "8-3",
-    "win": true
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 8,
-    "date": "04/02/24",
-    "time": "7:10 PM PT",
+    "date": "04/02/25",
+    "time": "5:38 PM PT",
     "home": true,
-    "opponent": "San Francisco Giants",
-    "score": "5-4",
-    "win": true
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 9,
-    "date": "04/03/24",
-    "time": "1:10 PM PT",
-    "home": true,
-    "opponent": "San Francisco Giants",
-    "score": "5-4",
-    "win": true
+    "date": "04/04/25",
+    "time": "3:45 PM PT",
+    "home": false,
+    "opponent": "Philadephia Phillies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 10,
-    "date": "04/05/24",
-    "time": "7:10 PM PT",
+    "date": "04/05/25",
+    "time": "1:05 PM PT",
     "home": false,
-    "opponent": "Chicago Cubs",
-    "score": "7-9",
-    "win": false
+    "opponent": "Philadephia Phillies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 11,
-    "date": "04/06/24",
-    "time": "7:10 PM PT",
+    "date": "04/06/25",
+    "time": "10:35 AM PT",
     "home": false,
-    "opponent": "Chicago Cubs",
-    "score": "4-1",
-    "win": true
+    "opponent": "Philadephia Phillies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 12,
-    "date": "04/07/24",
-    "time": "12:10 PM PT",
+    "date": "04/07/25",
+    "time": "3:45 PM PT",
     "home": false,
-    "opponent": "Chicago Cubs",
-    "score": "1-8",
-    "win": false
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 13,
-    "date": "04/08/24",
-    "time": "6:40 PM PT",
+    "date": "04/08/25",
+    "time": "3:45 PM PT",
     "home": false,
-    "opponent": "Minnesota Twins",
-    "score": "4-2",
-    "win": true
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 14,
-    "date": "04/09/24",
-    "time": "5:40 PM PT",
+    "date": "04/09/25",
+    "time": "1:05 PM PT",
     "home": false,
-    "opponent": "Minnesota Twins",
-    "score": "6-3",
-    "win": true
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 15,
-    "date": "04/10/24",
-    "time": "1:10 PM PT",
-    "home": false,
-    "opponent": "Minnesota Twins",
-    "score": "2-3",
-    "win": false
+    "date": "04/11/25",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 16,
-    "date": "04/12/24",
-    "time": "6:40 PM PT",
+    "date": "04/12/25",
+    "time": "6:10 PM PT",
     "home": true,
-    "opponent": "San Diego Padres",
-    "score": "7-8 F/11",
-    "win": false
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 17,
-    "date": "04/13/24",
-    "time": "6:40 PM PT",
+    "date": "04/13/25",
+    "time": "4:10 PM PT",
     "home": true,
-    "opponent": "San Diego Padres",
-    "score": "5-2",
-    "win": true
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 18,
-    "date": "04/14/24",
-    "time": "12:40 PM PT",
+    "date": "04/14/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "San Diego Padres",
-    "score": "3-6",
-    "win": false
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 19,
-    "date": "04/15/24",
+    "date": "04/15/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Washington Nationals",
-    "score": "4-6",
-    "win": false
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 20,
-    "date": "04/16/24",
+    "date": "04/16/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Washington Nationals",
-    "score": "6-2",
-    "win": true
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 21,
-    "date": "04/17/24",
-    "time": "1:10 PM PT",
-    "home": true,
-    "opponent": "Washington Nationals",
-    "score": "0-2",
-    "win": false
+    "date": "04/18/25",
+    "time": "5:05 PM PT",
+    "home": false,
+    "opponent": "Texas Rangers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 22,
-    "date": "04/19/24",
-    "time": "7:10 PM PT",
-    "home": true,
-    "opponent": "New York Mets",
-    "score": "4-9",
-    "win": false
+    "date": "04/19/25",
+    "time": "1:05 PM PT",
+    "home": false,
+    "opponent": "Texas Rangers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 23,
-    "date": "04/20/24",
-    "time": "7:10 PM PT",
-    "home": true,
-    "opponent": "New York Mets",
-    "score": "4-6",
-    "win": false
+    "date": "04/20/25",
+    "time": "11:35 AM PT",
+    "home": false,
+    "opponent": "Texas Rangers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 24,
-    "date": "04/21/24",
-    "time": "11:20 AM PT",
-    "home": true,
-    "opponent": "New York Mets",
-    "score": "10-0",
-    "win": true
+    "date": "04/22/25",
+    "time": "4:40 PM PT",
+    "home": false,
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 25,
-    "date": "04/23/24",
-    "time": "11:20 AM PT",
+    "date": "04/23/25",
+    "time": "4:00 PM PT",
     "home": false,
-    "opponent": "Washington Nationals",
-    "score": "4-1",
-    "win": true
+    "opponent": "Chicago Cubs",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 26,
-    "date": "04/24/24",
-    "time": "4:08 PM PT",
-    "home": false,
-    "opponent": "Washington Nationals",
-    "score": "11-2",
-    "win": true
+    "date": "04/25/25",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 27,
-    "date": "04/25/24",
-    "time": "3:35 PM PT",
-    "home": false,
-    "opponent": "Washington Nationals",
-    "score": "2-1",
-    "win": true
+    "date": "04/26/25",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 28,
-    "date": "04/26/24",
-    "time": "3:35 PM PT",
-    "home": false,
-    "opponent": "Toronto Blue Jays",
-    "score": "12-2",
-    "win": true
+    "date": "04/27/25",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 29,
-    "date": "04/27/24",
-    "time": "9:35 AM PT",
-    "home": false,
-    "opponent": "Toronto Blue Jays",
-    "score": "4-2",
-    "win": true
+    "date": "04/28/25",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 30,
-    "date": "04/28/24",
+    "date": "04/29/25",
     "time": "7:10 PM PT",
-    "home": false,
-    "opponent": "Toronto Blue Jays",
-    "score": "1-3",
-    "win": false
+    "home": true,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 31,
-    "date": "04/29/24",
-    "time": "7:10 PM PT",
-    "home": false,
-    "opponent": "Arizona Diamondbacks",
-    "score": "8-4",
-    "win": true
+    "date": "04/30/25",
+    "time": "12:10 PM PT",
+    "home": true,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 32,
-    "date": "04/30/24",
-    "time": "1:10 PM PT",
+    "date": "05/02/25",
+    "time": "4:15 PM PT",
     "home": false,
-    "opponent": "Arizona Diamondbacks",
-    "score": "3-4 F/10",
-    "win": false
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 33,
-    "date": "05/01/24",
-    "time": "6:40 PM PT",
+    "date": "05/03/25",
+    "time": "4:15 PM PT",
     "home": false,
-    "opponent": "Arizona Diamondbacks",
-    "score": "8-0",
-    "win": true
+    "opponent": "Atlanta Braves",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 34,
-    "date": "05/03/24",
-    "time": "5:40 PM PT",
-    "home": true,
+    "date": "05/04/25",
+    "time": "4:10 PM PT",
+    "home": false,
     "opponent": "Atlanta Braves",
-    "score": "4-3 F/11",
-    "win": true
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 35,
-    "date": "05/04/24",
-    "time": "4:00 PM PT",
-    "home": true,
-    "opponent": "Atlanta Braves",
-    "score": "11-2",
-    "win": true
+    "date": "05/05/25",
+    "time": "3:40 PM PT",
+    "home": false,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 36,
-    "date": "05/05/24",
-    "time": "4:40 PM PT",
-    "home": true,
-    "opponent": "Atlanta Braves",
-    "score": "5-1",
-    "win": true
+    "date": "05/06/25",
+    "time": "1:40 PM PT",
+    "home": false,
+    "opponent": "Miami Marlins",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 37,
-    "date": "05/06/24",
-    "time": "4:40 PM PT",
-    "home": true,
+    "date": "05/07/25",
+    "time": "1:40 PM PT",
+    "home": false,
     "opponent": "Miami Marlins",
-    "score": "6-3",
-    "win": true
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 38,
-    "date": "05/07/24",
-    "time": "10:40 AM PT",
-    "home": true,
-    "opponent": "Miami Marlins",
-    "score": "8-2",
-    "win": true
+    "date": "05/08/25",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 39,
-    "date": "05/08/24",
-    "time": "7:10 PM PT",
-    "home": true,
-    "opponent": "Miami Marlins",
-    "score": "3-1",
-    "win": true
+    "date": "05/09/25",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 40,
-    "date": "05/10/24",
-    "time": "4:15 PM PT",
+    "date": "05/10/25",
+    "time": "5:10 PM PT",
     "home": false,
-    "opponent": "San Diego Padres",
-    "score": "1-2",
-    "win": false
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 41,
-    "date": "05/11/24",
+    "date": "05/11/25",
     "time": "1:10 PM PT",
     "home": false,
-    "opponent": "San Diego Padres",
-    "score": "5-0",
-    "win": true
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 42,
-    "date": "05/12/24",
+    "date": "05/13/25",
     "time": "7:10 PM PT",
-    "home": false,
-    "opponent": "San Diego Padres",
-    "score": "0-4",
-    "win": false
+    "home": true,
+    "opponent": "Oakland A's",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 43,
-    "date": "05/13/24",
+    "date": "05/14/25",
     "time": "7:10 PM PT",
-    "home": false,
-    "opponent": "San Francisco Giants",
-    "score": "6-4 F/10",
-    "win": true
+    "home": true,
+    "opponent": "Oakland A's",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 44,
-    "date": "05/14/24",
-    "time": "12:10 PM PT",
-    "home": false,
-    "opponent": "San Francisco Giants",
-    "score": "10-2",
-    "win": true
+    "date": "05/15/25",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Oakland A's",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 45,
-    "date": "05/15/24",
-    "time": "4:45 PM PT",
-    "home": false,
-    "opponent": "San Francisco Giants",
-    "score": "1-4",
-    "win": false
+    "date": "05/16/25",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 46,
-    "date": "05/16/24",
-    "time": "5:15 PM PT",
+    "date": "05/17/25",
+    "time": "6:10 PM PT",
     "home": true,
-    "opponent": "Cincinnati Reds",
-    "score": "2-7",
-    "win": false
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 47,
-    "date": "05/17/24",
-    "time": "4:15 PM PT",
+    "date": "05/18/25",
+    "time": "1:10 PM PT",
     "home": true,
-    "opponent": "Cincinnati Reds",
-    "score": "7-3",
-    "win": true
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 48,
-    "date": "05/18/24",
-    "time": "11:15 AM PT",
+    "date": "05/19/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Cincinnati Reds",
-    "score": "4-0",
-    "win": true
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 49,
-    "date": "05/19/24",
-    "time": "4:20 PM PT",
+    "date": "05/20/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Cincinnati Reds",
-    "score": "3-2 F/10",
-    "win": true
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 50,
-    "date": "05/20/24",
-    "time": "4:20 PM PT",
+    "date": "05/21/25",
+    "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "6-4",
-    "win": true
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 51,
-    "date": "05/21/24",
-    "time": "4:20 PM PT",
-    "home": true,
-    "opponent": "Arizona Diamondbacks",
-    "score": "3-7",
-    "win": false
+    "date": "05/23/25",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 52,
-    "date": "05/22/24",
-    "time": "3:40 PM PT",
-    "home": true,
-    "opponent": "Arizona Diamondbacks",
-    "score": "0-6",
-    "win": false
+    "date": "05/24/25",
+    "time": "4:15 PM PT",
+    "home": false,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 53,
-    "date": "05/24/24",
-    "time": "1:10 PM PT",
+    "date": "05/25/25",
+    "time": "4:10 PM PT",
     "home": false,
-    "opponent": "Cincinnati Reds",
-    "score": "6-9",
-    "win": false
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 54,
-    "date": "05/25/24",
-    "time": "8:35 AM PT",
+    "date": "05/26/25",
+    "time": "3:10 PM PT",
     "home": false,
-    "opponent": "Cincinnati Reds",
-    "score": "1-3",
-    "win": false
+    "opponent": "Cleveland Guardians",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 55,
-    "date": "05/26/24",
-    "time": "6:10 PM PT",
+    "date": "05/27/25",
+    "time": "3:10 PM PT",
     "home": false,
-    "opponent": "Cincinnati Reds",
-    "score": "1-4",
-    "win": false
+    "opponent": "Cleveland Guardians",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 56,
-    "date": "05/28/24",
-    "time": "7:10 PM PT",
+    "date": "05/28/25",
+    "time": "10:10 AM PT",
     "home": false,
-    "opponent": "New York Mets",
-    "score": "5-2 F/10",
-    "win": true
+    "opponent": "Cleveland Guardians",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 57,
-    "date": "05/28/24",
-    "time": "1:10 PM PT",
-    "home": false,
-    "opponent": "New York Mets",
-    "score": "3-0",
-    "win": true
+    "date": "05/30/25",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "New York Yankees",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 58,
-    "date": "05/29/24",
-    "time": "7:10 PM PT",
-    "home": false,
-    "opponent": "New York Mets",
-    "score": "10-3",
-    "win": true
+    "date": "05/31/25",
+    "time": "4:15 PM PT",
+    "home": true,
+    "opponent": "New York Yankees",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 59,
-    "date": "05/31/24",
-    "time": "4:15 PM PT",
+    "date": "06/01/25",
+    "time": "4:10 PM PT",
     "home": true,
-    "opponent": "Colorado Rockies",
-    "score": "1-4",
-    "win": false
+    "opponent": "New York Yankees",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 60,
-    "date": "06/01/24",
-    "time": "4:00 PM PT",
+    "date": "06/02/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Colorado Rockies",
-    "score": "4-1",
-    "win": true
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 61,
-    "date": "06/02/24",
-    "time": "4:10 PM PT",
+    "date": "06/03/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Colorado Rockies",
-    "score": "4-0",
-    "win": true
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 62,
-    "date": "06/04/24",
-    "time": "4:10 PM PT",
-    "home": false,
-    "opponent": "Pittsburgh Pirates",
-    "score": "0-1",
-    "win": false
+    "date": "06/04/25",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 63,
-    "date": "06/05/24",
-    "time": "9:35 AM PT",
-    "home": false,
-    "opponent": "Pittsburgh Pirates",
-    "score": "6-10",
-    "win": false
+    "date": "06/05/25",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "New York Mets",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 64,
-    "date": "06/06/24",
-    "time": "4:10 PM PT",
+    "date": "06/06/25",
+    "time": "5:15 PM PT",
     "home": false,
-    "opponent": "Pittsburgh Pirates",
-    "score": "11-7",
-    "win": true
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 65,
-    "date": "06/07/24",
-    "time": "1:05 PM PT",
+    "date": "06/07/25",
+    "time": "11:15 AM PT",
     "home": false,
-    "opponent": "New York Yankees",
-    "score": "2-1 F/11",
-    "win": true
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 66,
-    "date": "06/08/24",
-    "time": "10:35 AM PT",
+    "date": "06/08/25",
+    "time": "11:15 AM PT",
     "home": false,
-    "opponent": "New York Yankees",
-    "score": "11-3",
-    "win": true
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 67,
-    "date": "06/09/24",
-    "time": "7:10 PM PT",
+    "date": "06/09/25",
+    "time": "6:40 PM PT",
     "home": false,
-    "opponent": "New York Yankees",
-    "score": "4-6",
-    "win": false
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 68,
-    "date": "06/11/24",
-    "time": "7:00 PM PT",
-    "home": true,
-    "opponent": "Texas Rangers",
-    "score": "15-2",
-    "win": true
+    "date": "06/10/25",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 69,
-    "date": "06/12/24",
-    "time": "7:10 PM PT",
-    "home": true,
-    "opponent": "Texas Rangers",
-    "score": "2-3",
-    "win": false
+    "date": "06/11/25",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 70,
-    "date": "06/13/24",
+    "date": "06/13/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Texas Rangers",
-    "score": "1-3",
-    "win": false
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 71,
-    "date": "06/14/24",
-    "time": "6:10 PM PT",
+    "date": "06/14/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Kansas City Royals",
-    "score": "4-3",
-    "win": true
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 72,
-    "date": "06/15/24",
+    "date": "06/15/25",
     "time": "1:10 PM PT",
     "home": true,
-    "opponent": "Kansas City Royals",
-    "score": "2-7",
-    "win": false
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 73,
-    "date": "06/16/24",
-    "time": "7:05 PM PT",
+    "date": "06/16/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Kansas City Royals",
-    "score": "3-0",
-    "win": true
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 74,
-    "date": "06/17/24",
-    "time": "6:38 PM PT",
-    "home": false,
-    "opponent": "Colorado Rockies",
-    "score": "9-5",
-    "win": true
+    "date": "06/17/25",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 75,
-    "date": "06/18/24",
+    "date": "06/18/25",
     "time": "7:10 PM PT",
-    "home": false,
-    "opponent": "Colorado Rockies",
-    "score": "11-9",
-    "win": true
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 76,
-    "date": "06/19/24",
-    "time": "4:15 PM PT",
-    "home": false,
-    "opponent": "Colorado Rockies",
-    "score": "6-7",
-    "win": false
+    "date": "06/19/25",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 77,
-    "date": "06/20/24",
-    "time": "1:10 PM PT",
+    "date": "06/20/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Colorado Rockies",
-    "score": "5-3",
-    "win": true
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 78,
-    "date": "06/21/24",
-    "time": "5:40 PM PT",
+    "date": "06/21/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Los Angeles Angels",
-    "score": "2-3 F/10",
-    "win": false
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 79,
-    "date": "06/22/24",
-    "time": "5:40 PM PT",
+    "date": "06/22/25",
+    "time": "1:10 PM PT",
     "home": true,
-    "opponent": "Los Angeles Angels",
-    "score": "7-2",
-    "win": true
+    "opponent": "Washington Nationals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 80,
-    "date": "06/24/24",
+    "date": "06/24/25",
     "time": "5:40 PM PT",
     "home": false,
-    "opponent": "Chicago White Sox",
-    "score": "3-0",
-    "win": true
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 81,
-    "date": "06/25/24",
-    "time": "5:10 PM PT",
+    "date": "06/25/25",
+    "time": "5:40 PM PT",
     "home": false,
-    "opponent": "Chicago White Sox",
-    "score": "4-3",
-    "win": true
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 82,
-    "date": "06/26/24",
-    "time": "4:15 PM PT",
+    "date": "06/26/25",
+    "time": "12:10 PM PT",
     "home": false,
-    "opponent": "Chicago White Sox",
-    "score": "4-0",
-    "win": true
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 83,
-    "date": "06/28/24",
-    "time": "11:10 AM PT",
+    "date": "06/27/25",
+    "time": "5:10 PM PT",
     "home": false,
-    "opponent": "San Francisco Giants",
-    "score": "3-5",
-    "win": false
+    "opponent": "Kansas City Royals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 84,
-    "date": "06/29/24",
-    "time": "7:10 PM PT",
+    "date": "06/28/25",
+    "time": "1:10 PM PT",
     "home": false,
-    "opponent": "San Francisco Giants",
-    "score": "14-7 F/11",
-    "win": true
+    "opponent": "Kansas City Royals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 85,
-    "date": "06/30/24",
-    "time": "6:10 PM PT",
+    "date": "06/29/25",
+    "time": "11:10 AM PT",
     "home": false,
-    "opponent": "San Francisco Giants",
-    "score": "4-10",
-    "win": false
+    "opponent": "Kansas City Royals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 86,
-    "date": "07/02/24",
+    "date": "07/01/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Arizona Diamondbacks",
-    "score": "6-5",
-    "win": true
+    "opponent": "Chicago White Sox",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 87,
-    "date": "07/03/24",
+    "date": "07/02/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Arizona Diamondbacks",
-    "score": "4-12",
-    "win": false
+    "opponent": "Chicago White Sox",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 88,
-    "date": "07/04/24",
+    "date": "07/03/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Arizona Diamondbacks",
-    "score": "3-9",
-    "win": false
+    "opponent": "Chicago White Sox",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 89,
-    "date": "07/05/24",
+    "date": "07/04/25",
     "time": "6:10 PM PT",
     "home": true,
-    "opponent": "Milwaukee Brewers",
-    "score": "8-5",
-    "win": true
+    "opponent": "Houston Astros",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 90,
-    "date": "07/06/24",
-    "time": "4:10 PM PT",
+    "date": "07/05/25",
+    "time": "4:15 PM PT",
     "home": true,
-    "opponent": "Milwaukee Brewers",
-    "score": "5-3",
-    "win": true
+    "opponent": "Houston Astros",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 91,
-    "date": "07/07/24",
-    "time": "4:15 PM PT",
+    "date": "07/06/25",
+    "time": "1:10 PM PT",
     "home": true,
-    "opponent": "Milwaukee Brewers",
-    "score": "2-9",
-    "win": false
+    "opponent": "Houston Astros",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 92,
-    "date": "07/09/24",
-    "time": "10:40 AM PT",
+    "date": "07/07/25",
+    "time": "4:40 PM PT",
     "home": false,
-    "opponent": "Philadephia Phillies",
-    "score": "1-10",
-    "win": false
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 93,
-    "date": "07/10/24",
-    "time": "4:05 PM PT",
+    "date": "07/08/25",
+    "time": "4:40 PM PT",
     "home": false,
-    "opponent": "Philadephia Phillies",
-    "score": "3-4",
-    "win": false
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 94,
-    "date": "07/11/24",
-    "time": "7:10 PM PT",
+    "date": "07/09/25",
+    "time": "11:10 AM PT",
     "home": false,
-    "opponent": "Philadephia Phillies",
-    "score": "1-5",
-    "win": false
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 95,
-    "date": "07/12/24",
-    "time": "5:05 PM PT",
+    "date": "07/11/25",
+    "time": "7:15 PM PT",
     "home": false,
-    "opponent": "Detroit Tigers",
-    "score": "4-3",
-    "win": true
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 96,
-    "date": "07/13/24",
+    "date": "07/12/25",
     "time": "1:05 PM PT",
     "home": false,
-    "opponent": "Detroit Tigers",
-    "score": "9-11 F/10",
-    "win": false
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 97,
-    "date": "07/14/24",
-    "time": "11:35 AM PT",
+    "date": "07/13/25",
+    "time": "1:05 PM PT",
     "home": false,
-    "opponent": "Detroit Tigers",
-    "score": "3-4",
-    "win": false
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 98,
-    "date": "07/19/24",
+    "date": "07/18/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Boston Red Sox",
-    "score": "4-1",
-    "win": true
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 99,
-    "date": "07/20/24",
-    "time": "7:10 PM PT",
+    "date": "07/19/25",
+    "time": "6:10 PM PT",
     "home": true,
-    "opponent": "Boston Red Sox",
-    "score": "7-6 F/11",
-    "win": true
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 100,
-    "date": "07/21/24",
+    "date": "07/20/25",
     "time": "1:10 PM PT",
     "home": true,
-    "opponent": "Boston Red Sox",
-    "score": "9-6",
-    "win": true
+    "opponent": "Milwaukee Brewers",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 101,
-    "date": "07/22/24",
-    "time": "1:10 PM PT",
+    "date": "07/21/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "San Francisco Giants",
-    "score": "3-2",
-    "win": true
+    "opponent": "Minnesota Twins",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 102,
-    "date": "07/23/24",
+    "date": "07/22/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "San Francisco Giants",
-    "score": "5-2",
-    "win": true
+    "opponent": "Minnesota Twins",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 103,
-    "date": "07/24/24",
-    "time": "6:10 PM PT",
+    "date": "07/23/25",
+    "time": "1:10 PM PT",
     "home": true,
-    "opponent": "San Francisco Giants",
-    "score": "3-8",
-    "win": false
+    "opponent": "Minnesota Twins",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 104,
-    "date": "07/25/24",
-    "time": "1:10 PM PT",
-    "home": true,
-    "opponent": "San Francisco Giants",
-    "score": "6-4",
-    "win": true
+    "date": "07/25/25",
+    "time": "4:10 PM PT",
+    "home": false,
+    "opponent": "Boston Red Sox",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 105,
-    "date": "07/26/24",
-    "time": "7:10 PM PT",
+    "date": "07/26/25",
+    "time": "4:15 PM PT",
     "home": false,
-    "opponent": "Houston Astros",
-    "score": "0-5",
-    "win": false
+    "opponent": "Boston Red Sox",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 106,
-    "date": "07/27/24",
-    "time": "7:10 PM PT",
+    "date": "07/27/25",
+    "time": "10:35 AM PT",
     "home": false,
-    "opponent": "Houston Astros",
-    "score": "6-7",
-    "win": false
+    "opponent": "Boston Red Sox",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 107,
-    "date": "07/28/24",
-    "time": "7:10 PM PT",
+    "date": "07/28/25",
+    "time": "4:10 PM PT",
     "home": false,
-    "opponent": "Houston Astros",
-    "score": "6-2",
-    "win": true
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 108,
-    "date": "07/30/24",
-    "time": "6:40 PM PT",
+    "date": "07/29/25",
+    "time": "4:10 PM PT",
     "home": false,
-    "opponent": "San Diego Padres",
-    "score": "5-6 F/10",
-    "win": false
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 109,
-    "date": "07/31/24",
-    "time": "5:40 PM PT",
+    "date": "07/30/25",
+    "time": "4:10 PM PT",
     "home": false,
-    "opponent": "San Diego Padres",
-    "score": "1-8",
-    "win": false
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 110,
-    "date": "08/02/24",
-    "time": "1:10 PM PT",
+    "date": "08/01/25",
+    "time": "4:35 PM PT",
     "home": false,
-    "opponent": "Oakland A's",
-    "score": "5-6",
-    "win": false
+    "opponent": "Tampa Bay Rays",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 111,
-    "date": "08/03/24",
-    "time": "1:10 PM PT",
+    "date": "08/02/25",
+    "time": "10:10 AM PT",
     "home": false,
-    "opponent": "Oakland A's",
-    "score": "10-0",
-    "win": true
+    "opponent": "Tampa Bay Rays",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 112,
-    "date": "08/04/24",
-    "time": "6:40 PM PT",
+    "date": "08/03/25",
+    "time": "9:10 AM PT",
     "home": false,
-    "opponent": "Oakland A's",
-    "score": "3-2",
-    "win": true
+    "opponent": "Tampa Bay Rays",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 113,
-    "date": "08/05/24",
-    "time": "6:40 PM PT",
+    "date": "08/04/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Philadephia Phillies",
-    "score": "5-3",
-    "win": true
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 114,
-    "date": "08/06/24",
+    "date": "08/05/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Philadephia Phillies",
-    "score": "2-6",
-    "win": false
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 115,
-    "date": "08/07/24",
-    "time": "7:10 PM PT",
+    "date": "08/06/25",
+    "time": "1:10 PM PT",
     "home": true,
-    "opponent": "Philadephia Phillies",
-    "score": "4-9",
-    "win": false
+    "opponent": "St. Louis Cardinals",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 116,
-    "date": "08/09/24",
-    "time": "6:10 PM PT",
+    "date": "08/08/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Pittsburgh Pirates",
-    "score": "9-5",
-    "win": true
+    "opponent": "Toronto Blue Jays",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 117,
-    "date": "08/10/24",
-    "time": "1:10 PM PT",
+    "date": "08/09/25",
+    "time": "6:10 PM PT",
     "home": true,
-    "opponent": "Pittsburgh Pirates",
-    "score": "4-1",
-    "win": true
+    "opponent": "Toronto Blue Jays",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 118,
-    "date": "08/11/24",
-    "time": "7:10 PM PT",
+    "date": "08/10/25",
+    "time": "1:10 PM PT",
     "home": true,
-    "opponent": "Pittsburgh Pirates",
-    "score": "6-5 F/10",
-    "win": true
+    "opponent": "Toronto Blue Jays",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 119,
-    "date": "08/12/24",
-    "time": "7:10 PM PT",
+    "date": "08/11/25",
+    "time": "6:38 PM PT",
     "home": false,
-    "opponent": "Milwaukee Brewers",
-    "score": "5-2",
-    "win": true
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 120,
-    "date": "08/13/24",
-    "time": "7:10 PM PT",
+    "date": "08/12/25",
+    "time": "6:38 PM PT",
     "home": false,
-    "opponent": "Milwaukee Brewers",
-    "score": "7-2",
-    "win": true
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 121,
-    "date": "08/14/24",
-    "time": "7:10 PM PT",
+    "date": "08/13/25",
+    "time": "6:38 PM PT",
     "home": false,
-    "opponent": "Milwaukee Brewers",
-    "score": "4-5",
-    "win": false
+    "opponent": "Los Angeles Angels",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 122,
-    "date": "08/15/24",
-    "time": "6:10 PM PT",
-    "home": false,
-    "opponent": "Milwaukee Brewers",
-    "score": "4-6",
-    "win": false
+    "date": "08/15/25",
+    "time": "7:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 123,
-    "date": "08/16/24",
-    "time": "1:10 PM PT",
-    "home": false,
-    "opponent": "St. Louis Cardinals",
-    "score": "7-6",
-    "win": true
+    "date": "08/16/25",
+    "time": "6:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 124,
-    "date": "08/17/24",
-    "time": "4:10 PM PT",
-    "home": false,
-    "opponent": "St. Louis Cardinals",
-    "score": "2-5",
-    "win": false
+    "date": "08/17/25",
+    "time": "1:10 PM PT",
+    "home": true,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 125,
-    "date": "08/18/24",
-    "time": "4:10 PM PT",
+    "date": "08/18/25",
+    "time": "5:40 PM PT",
     "home": false,
-    "opponent": "St. Louis Cardinals",
-    "score": "2-1",
-    "win": true
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 126,
-    "date": "08/19/24",
-    "time": "10:10 AM PT",
-    "home": true,
-    "opponent": "Seattle Mariners",
-    "score": "3-0",
-    "win": true
+    "date": "08/19/25",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 127,
-    "date": "08/20/24",
-    "time": "4:10 PM PT",
-    "home": true,
-    "opponent": "Seattle Mariners",
-    "score": "6-3",
-    "win": true
+    "date": "08/20/25",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 128,
-    "date": "08/21/24",
-    "time": "1:10 PM PT",
-    "home": true,
-    "opponent": "Seattle Mariners",
-    "score": "8-4",
-    "win": true
+    "date": "08/21/25",
+    "time": "12:10 PM PT",
+    "home": false,
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 129,
-    "date": "08/23/24",
-    "time": "TBD",
-    "home": true,
-    "opponent": "Tampa Bay Rays",
-    "score": "7-3",
-    "win": true
+    "date": "08/22/25",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 130,
-    "date": "08/24/24",
-    "time": "7:10 PM PT",
-    "home": true,
-    "opponent": "Tampa Bay Rays",
-    "score": "8-9 F/10",
-    "win": false
+    "date": "08/23/25",
+    "time": "5:40 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 131,
-    "date": "08/25/24",
-    "time": "7:10 PM PT",
-    "home": true,
-    "opponent": "Tampa Bay Rays",
-    "score": "3-1",
-    "win": true
+    "date": "08/24/25",
+    "time": "1:10 PM PT",
+    "home": false,
+    "opponent": "San Diego Padres",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 132,
-    "date": "8/27/24",
+    "date": "8/25/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Baltimore Orioles",
-    "score": "2-3",
-    "win": false
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 133,
-    "date": "08/28/24",
+    "date": "08/26/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Baltimore Orioles",
-    "score": "6-4",
-    "win": true
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 134,
-    "date": "08/29/24",
-    "time": "7:10 PM PT",
+    "date": "08/27/25",
+    "time": "5:40 PM PT",
     "home": true,
-    "opponent": "Baltimore Orioles",
-    "score": "6-3",
-    "win": true
+    "opponent": "Cincinnati Reds",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 135,
-    "date": "08/30/24",
-    "time": "6:10 PM PT",
-    "home": false,
+    "date": "08/29/25",
+    "time": "7:10 PM PT",
+    "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "10-9",
-    "win": true
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 136,
-    "date": "08/31/24",
-    "time": "1:10 PM PT",
-    "home": false,
+    "date": "08/30/25",
+    "time": "6:10 PM PT",
+    "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "8-6",
-    "win": true
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 137,
-    "date": "09/01/24",
-    "time": "3:40 PM PT",
-    "home": false,
+    "date": "08/31/25",
+    "time": "1:10 PM PT",
+    "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "3-14",
-    "win": false
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 138,
-    "date": "09/02/24",
+    "date": "09/02/25",
     "time": "3:40 PM PT",
     "home": false,
-    "opponent": "Arizona Diamondbacks",
-    "score": "11-6",
-    "win": true
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 139,
-    "date": "09/03/24",
+    "date": "09/03/25",
     "time": "3:40 PM PT",
     "home": false,
-    "opponent": "Los Angeles Angels",
-    "score": "6-2 F/10",
-    "win": true
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 140,
-    "date": "09/04/24",
-    "time": "4:05 PM PT",
+    "date": "09/04/25",
+    "time": "3:40 PM PT",
     "home": false,
-    "opponent": "Los Angeles Angels",
-    "score": "1-10",
-    "win": false
+    "opponent": "Pittsburgh Pirates",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 141,
-    "date": "09/06/24",
-    "time": "1:05 PM PT",
-    "home": true,
-    "opponent": "Cleveland Guardians",
-    "score": "1-3",
-    "win": false
+    "date": "09/05/25",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Baltimore Orioles",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 142,
-    "date": "09/07/24",
-    "time": "10:35 AM PT",
-    "home": true,
-    "opponent": "Cleveland Guardians",
-    "score": "7-2",
-    "win": true
+    "date": "09/06/25",
+    "time": "4:05 PM PT",
+    "home": false,
+    "opponent": "Baltimore Orioles",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 143,
-    "date": "09/08/24",
-    "time": "7:10 PM PT",
-    "home": true,
-    "opponent": "Cleveland Guardians",
-    "score": "4-0",
-    "win": true
+    "date": "09/07/25",
+    "time": "10:35 AM PT",
+    "home": false,
+    "opponent": "Baltimore Orioles",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 144,
-    "date": "09/09/24",
+    "date": "09/08/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Chicago Cubs",
-    "score": "4-10",
-    "win": false
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 145,
-    "date": "09/10/24",
+    "date": "09/09/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Chicago Cubs",
-    "score": "3-6",
-    "win": false
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 146,
-    "date": "09/11/24",
+    "date": "09/10/25",
     "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Chicago Cubs",
-    "score": "10-8",
-    "win": true
+    "opponent": "Colorado Rockies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 147,
-    "date": "09/13/24",
-    "time": "6:40 PM PT",
+    "date": "09/12/25",
+    "time": "7:15 PM PT",
     "home": false,
-    "opponent": "Atlanta Braves",
-    "score": "2-6",
-    "win": false
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 148,
-    "date": "09/14/24",
-    "time": "1:10 PM PT",
+    "date": "09/13/25",
+    "time": "6:05 PM PT",
     "home": false,
-    "opponent": "Atlanta Braves",
-    "score": "1-10",
-    "win": false
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 149,
-    "date": "09/15/24",
-    "time": "7:10 PM PT",
+    "date": "09/14/25",
+    "time": "1:05 PM PT",
     "home": false,
-    "opponent": "Atlanta Braves",
-    "score": "9-2",
-    "win": true
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 150,
-    "date": "09/16/24",
+    "date": "09/15/25",
     "time": "7:10 PM PT",
-    "home": false,
-    "opponent": "Atlanta Braves",
-    "score": "9-0",
-    "win": true
+    "home": true,
+    "opponent": "Philadephia Phillies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 151,
-    "date": "09/17/24",
+    "date": "09/16/25",
     "time": "7:10 PM PT",
-    "home": false,
-    "opponent": "Miami Marlins",
-    "score": "9-11",
-    "win": false
+    "home": true,
+    "opponent": "Philadephia Phillies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 152,
-    "date": "09/18/24",
+    "date": "09/17/25",
     "time": "7:10 PM PT",
-    "home": false,
-    "opponent": "Miami Marlins",
-    "score": "8-4",
-    "win": true
+    "home": true,
+    "opponent": "Philadephia Phillies",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 153,
-    "date": "09/19/24",
+    "date": "09/18/25",
     "time": "7:10 PM PT",
-    "home": false,
-    "opponent": "Miami Marlins",
-    "score": "20-4",
-    "win": true
+    "home": true,
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 154,
-    "date": "09/20/24",
-    "time": "6:10 PM PT",
+    "date": "09/19/25",
+    "time": "7:10 PM PT",
     "home": true,
-    "opponent": "Colorado Rockies",
-    "score": "6-4",
-    "win": true
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 155,
-    "date": "09/21/24",
-    "time": "1:10 PM PT",
+    "date": "09/20/25",
+    "time": "6:10 PM PT",
     "home": true,
-    "opponent": "Colorado Rockies",
-    "score": "3-6",
-    "win": false
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 156,
-    "date": "09/22/24",
-    "time": "12:10 PM PT",
+    "date": "09/21/25",
+    "time": "1:10 PM PT",
     "home": true,
-    "opponent": "Colorado Rockies",
-    "score": "6-5",
-    "win": true
+    "opponent": "San Francisco Giants",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 157,
-    "date": "09/24/24",
-    "time": "5:40 PM PT",
-    "home": true,
-    "opponent": "San Diego Padres",
-    "score": "2-4",
-    "win": false
+    "date": "09/23/25",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 158,
-    "date": "09/25/24",
-    "time": "5:40 PM PT",
-    "home": true,
-    "opponent": "San Diego Padres",
-    "score": "4-3",
-    "win": true
+    "date": "09/24/25",
+    "time": "6:40 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 159,
-    "date": "09/26/24",
-    "time": "5:40 PM PT",
-    "home": true,
-    "opponent": "San Diego Padres",
-    "score": "7-2",
-    "win": true
+    "date": "09/25/25",
+    "time": "12:40 PM PT",
+    "home": false,
+    "opponent": "Arizona Diamondbacks",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 160,
-    "date": "09/27/24",
-    "time": "7:15 PM PT",
+    "date": "09/26/25",
+    "time": "6:40 PM PT",
     "home": false,
-    "opponent": "Colorado Rockies",
-    "score": "11-4",
-    "win": true
+    "opponent": "Seattle Mariners",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 161,
-    "date": "09/28/24",
-    "time": "6:05 PM PT",
+    "date": "09/27/25",
+    "time": "6:40 PM PT",
     "home": false,
-    "opponent": "Colorado Rockies",
-    "score": "13-2",
-    "win": true
+    "opponent": "Seattle Mariners",
+    "score": "N/A",
+    "win": null
   },
   {
     "id": 162,
-    "date": "09/29/24",
-    "time": "12:05 PM PT",
+    "date": "09/28/25",
+    "time": "12:10 PM PT",
     "home": false,
-    "opponent": "Colorado Rockies",
-    "score": "2-1",
-    "win": true
-  },
-  {
-    "id": 163,
-    "date": "10/05/24",
-    "time": "12:05 PM PT",
-    "home": true,
-    "opponent": "San Diego Padres - Game 1",
-    "score": "NLDS: 7-5",
-    "win": true
-  },
-  {
-    "id": 164,
-    "date": "10/06/24",
-    "time": "12:05 PM PT",
-    "home": true,
-    "opponent": "San Diego Padres - Game 2",
-    "score": "NLDS: 2-10",
-    "win": false
-  },
-  {
-    "id": 165,
-    "date": "10/08/24",
-    "time": "12:05 PM PT",
-    "home": false,
-    "opponent": "San Diego Padres - Game 3",
-    "score": "NLDS: 5-6",
-    "win": false
-  },
-  {
-    "id": 166,
-    "date": "10/09/24",
-    "time": "12:05 PM PT",
-    "home": false,
-    "opponent": "San Diego Padres - Game 4",
-    "score": "NLDS: 8-0",
-    "win": true
-  },
-  {
-    "id": 167,
-    "date": "10/11/24",
-    "time": "12:05 PM PT",
-    "home": true,
-    "opponent": "San Diego Padres - Game 5",
-    "score": "NLDS: 2-0",
-    "win": true
-  },
-  {
-    "id": 168,
-    "date": "10/13/24",
-    "time": "12:05 PM PT",
-    "home": true,
-    "opponent": "New York Mets - Game 1",
-    "score": "NLCS: 9-0",
-    "win": true
-  },
-  {
-    "id": 169,
-    "date": "10/14/24",
-    "time": "12:05 PM PT",
-    "home": true,
-    "opponent": "New York Mets - Game 2",
-    "score": "NLDS: 3-7",
-    "win": false
-  },
-  {
-    "id": 170,
-    "date": "10/16/24",
-    "time": "12:05 PM PT",
-    "home": false,
-    "opponent": "New York Mets - Game 3",
-    "score": "NLCS: 8-0",
-    "win": true
-  },
-  {
-    "id": 171,
-    "date": "10/17/24",
-    "time": "12:05 PM PT",
-    "home": false,
-    "opponent": "New York Mets - Game 4",
-    "score": "NLCS: 10-2",
-    "win": true
-  },
-  {
-    "id": 172,
-    "date": "10/18/24",
-    "time": "12:05 PM PT",
-    "home": false,
-    "opponent": "New York Mets - Game 5",
-    "score": "NLCS: 6-12",
-    "win": false
-  },
-  {
-    "id": 173,
-    "date": "10/20/24",
-    "time": "12:05 PM PT",
-    "home": true,
-    "opponent": "New York Mets - Game 6",
-    "score": "NLCS: 10-5",
-    "win": true
-  },
-  {
-    "id": 174,
-    "date": "10/25/24",
-    "time": "12:05 PM PT",
-    "home": true,
-    "opponent": "New York Yankees - Game 1",
-    "score": "WS: 6-3 F/10",
-    "win": true
-  },
-  {
-    "id": 175,
-    "date": "10/26/24",
-    "time": "12:05 PM PT",
-    "home": true,
-    "opponent": "New York Yankees - Game 2",
-    "score": "WS: 4-2",
-    "win": true
-  },
-  {
-    "id": 176,
-    "date": "10/28/24",
-    "time": "12:05 PM PT",
-    "home": false,
-    "opponent": "New York Yankees - Game 3",
-    "score": "WS: 4-2",
-    "win": true
-  },
-  {
-    "id": 177,
-    "date": "10/29/24",
-    "time": "12:05 PM PT",
-    "home": false,
-    "opponent": "New York Yankees - Game 4",
-    "score": "WS: 4-11",
-    "win": false
-  },
-  {
-    "id": 178,
-    "date": "10/30/24",
-    "time": "12:05 PM PT",
-    "home": false,
-    "opponent": "New York Yankees - Game 5",
-    "score": "WS: 7-6",
-    "win": true
+    "opponent": "Seattle Mariners",
+    "score": "N/A",
+    "win": null
   }
 ]
