@@ -5,29 +5,30 @@
     <app-banner class="sLogo"></app-banner>
     <div class="sLose">L - <span class="red">{{loss}}</span></div>
   </div>
-  <div class="sNextBox">
-    <div class="sHeader">Next Game</div>
-    <div *ngIf="showNext && home">
-      <div>{{nextGame.date}}</div>
-      <div>{{nextGame.time}}</div>
-      <div>Dodgers vs. {{nextGame.opponent}} </div>
-    </div>
-    <div *ngIf="showNext && !home">
-      <div>{{nextGame.date}}</div>
-      <div>{{nextGame.time}}</div>
-      <div>Dodgers &#64; {{nextGame.opponent}}</div>
-    </div>
-    <!-- <div *ngIf="!showNext" class="sNA">
-      <div class="sWS">2024 World Series Champions!!!</div>
-    </div> -->
-  </div>
 
-  <div class="sButtonBox">
-    <div class="rBtn" (click)="whatToShow('upcoming')">Schedule</div>
-    <div class="rBtn" (click)="whatToShow('scores')">Scores</div>
-  </div>
-  
   <div *ngIf="showUpcoming">
+    <div class="sNextBox">
+      <div class="sHeader">Next Game</div>
+      <div *ngIf="showNext && home">
+        <div>{{nextGame.date}}</div>
+        <div>Dodgers vs. {{nextGame.opponent}} </div>
+        <div>{{nextGame.time}}</div>
+      </div>
+      <div *ngIf="showNext && !home">
+        <div>{{nextGame.date}}</div>
+        <div>Dodgers &#64; {{nextGame.opponent}}</div>
+        <div>{{nextGame.time}}</div>
+      </div>
+      <!-- <div *ngIf="!showNext" class="sNA">
+        <div class="sWS">2024 World Series Champions!!!</div>
+      </div> -->
+    </div>
+
+    <div class="sButtonBox">
+      <div class="rBtn" (click)="whatToShow('upcoming')">Schedule</div>
+      <div class="rBtn" (click)="whatToShow('scores')">Scores</div>
+    </div>
+  
     <div class="sHeader">Upcoming</div>
     <!-- <div class="sNextSeason">See you in the 2025 Season</div> -->
     <div class="sUpcoming">
@@ -49,6 +50,31 @@
   </div>
   
   <div *ngIf="showScores">
+    <div class="sNextBox">
+      <div class="sHeader">Last Game</div>
+      <div>{{lastGame.date}}</div>
+      <div *ngIf="lastGame && lastGame.home">
+        <div>Dodgers vs. {{lastGame.opponent}}</div>
+      </div>
+      <div *ngIf="lastGame && !lastGame.home">
+        <div>Dodgers &#64; {{lastGame.opponent}}</div>
+      </div>
+      <div *ngIf="lastGame && lastGame.win">
+        <div>Dodgers Win - {{lastGame.score}}</div>
+      </div>
+      <div *ngIf="lastGame && !lastGame.win">
+        <div>Dodgers Lose - {{lastGame.score}}</div>
+      </div>
+      <!-- <div *ngIf="!showNext" class="sNA">
+        <div class="sWS">2024 World Series Champions!!!</div>
+      </div> -->
+    </div>
+
+    <div class="sButtonBox">
+      <div class="rBtn" (click)="whatToShow('upcoming')">Schedule</div>
+      <div class="rBtn" (click)="whatToShow('scores')">Scores</div>
+    </div>
+
     <div class="sHeader">Scores</div>
     <div class="sPlayed">
       <div *ngFor="let game of played">

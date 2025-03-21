@@ -16,10 +16,10 @@
           <div class="rBtn" (click)="selectedTable('outfielders')">OUTFIELDERS</div>
         </div>
         <app-roster-table
-        *ngIf="showTwoWay"
-        class="rTable"
-        [roster] = "roster"
-        [position] = "twoWay"
+          *ngIf="showTwoWay"
+          class="rTable"
+          [roster] = "roster"
+          [position] = "twoWay"
         ></app-roster-table>
         <app-roster-table
           *ngIf="showPitcher"

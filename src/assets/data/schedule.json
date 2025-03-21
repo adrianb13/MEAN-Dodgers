@@ -1456,5 +1456,14 @@
     "opponent": "Seattle Mariners",
     "score": "N/A",
     "win": null
+  },
+  {
+    "id": 163,
+    "date": "10/01/25",
+    "time": "12:10 PM PT",
+    "home": false,
+    "opponent": "Test",
+    "score": "N/A",
+    "win": null
   }
 ]

@@ -11,13 +11,14 @@ export class ScheduleComponent implements OnInit {
   upcoming = [];
   played = [];
   nextGame = {};
+  lastGame = {};
   win = 0;
   loss = 0;
   
   home = null;
   showNext = false;
-  showUpcoming = true;
-  showScores = false;
+  showUpcoming = false;
+  showScores = true;
 
   constructor(
     private DataList: DataLoadService
@@ -29,23 +30,28 @@ export class ScheduleComponent implements OnInit {
 
   //Get Schedule
   getScheduleData(){
-    /* this.DataList.getSchedule().subscribe(res => {
-      if(res){
-        this.schedule.push(res);
-        this.schedule = this.schedule[0];
-
-        this.sortSchedule();
-      }
-    }) */
+    
 
     this.DataList.getScheduleDB().subscribe(res => {
       if(res){
         this.schedule.push(res);
         this.schedule = this.schedule[0];
         this.sortSchedule();
-        console.log(this.schedule)
+        console.log("Database");
+      } else {
+        
       }
     })
+    if (this.schedule.length < 1){
+      this.DataList.getSchedule().subscribe(res => {
+        if(res){
+          this.schedule.push(res);
+          this.schedule = this.schedule[0];
+          this.sortSchedule();
+          console.log("Assets");
+        }
+      }) 
+    }  
   }
 
   //Sort By Date (Mongo does not provide data in chronological order)
@@ -67,6 +73,9 @@ export class ScheduleComponent implements OnInit {
     let schedule = this.schedule.sort(this.sortData)
     for(let game of schedule){
       if(game.score !== "N/A" && !game.score.includes("Playoffs") && !game.score.includes("NLDS") && !game.score.includes("NLCS") && !game.score.includes("WS")){
+        if(game.date !== null && game.date !== "" && game.date.indexOf("0") === 0){
+          game.date = game.date.substring(1);
+        }
         this.played.push(game);
         if(game.win === true){
           this.win = this.win + 1;
@@ -83,7 +92,10 @@ export class ScheduleComponent implements OnInit {
       this.nextGame = this.upcoming[0];
       this.showNext = true;
     }
-    this.played = this.played.reverse();
+    if(this.played.length > 0 && this.played[0]){
+      this.played = this.played.reverse();
+      this.lastGame = this.played[0];
+    }
   }
 
   whatToShow(show){
