@@ -246,7 +246,7 @@
       }
   },
   {
-    "id": 105,
+    "id": 73,
     "player_id": "693308",
     "fName": "Nick",
     "lName": "Frasso",
@@ -2894,7 +2894,7 @@
     "fName": "Shohei",
     "lName": "Ohtani",
     "number": 17,
-    "position": "Infielder",
+    "position": "2-Way",
     "bt": "L/R",
     "height": "6'4\"",
     "weight": 210,
@@ -2958,6 +2958,75 @@
           "onBase": ".371",
           "slugging": ".575",
           "ops": ".946"
+        }
+      },
+    "pitching":
+      {
+        "postseason": 
+        {
+          "win": 0,
+          "loss": 0,
+          "era": 0,
+          "game": 0,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 0,
+          "hits": 0,
+          "runs": 0,
+          "er": 0,
+          "hr": 0,
+          "hb": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "whip": 0,
+          "avg": ".000"
+        },
+        "regular":
+        {
+          "win": 0,
+          "loss": 0,
+          "era": 0.00,
+          "game": 0,
+          "started": 0,
+          "complete": 0,
+          "shutouts": 0,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 0,
+          "hits": 0,
+          "runs": 0,
+          "er": 0,
+          "hr": 0,
+          "hb": 0,
+          "walks": 0,
+          "strikeouts": 0,
+          "whip": 0.00,
+          "avg": ".000"
+        },
+        "career":
+        {
+          "win": 38,
+          "loss": 19,
+          "era": 3.01,
+          "game": 86,
+          "started": 86,
+          "complete": 1,
+          "shutouts": 1,
+          "saves": 0,
+          "saveOpp": 0,
+          "ip": 481.2,
+          "hits": 348,
+          "runs": 169,
+          "er": 161,
+          "hr": 53,
+          "hb": 24,
+          "walks": 173,
+          "strikeouts": 608,
+          "whip": 1.08,
+          "avg": ".200"
         }
       }
   },

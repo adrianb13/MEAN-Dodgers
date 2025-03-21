@@ -26,6 +26,7 @@ export class PlayerComponent implements OnInit {
   playerHittingPostseason = [];
 
   playerData = false;
+  is2Way = false;
   isPitcher = true;
 
   dataLength = null;
@@ -50,7 +51,17 @@ export class PlayerComponent implements OnInit {
         
         this.player = this.roster.find(player => player.player_id === this.id);
         if(this.player){
-          if(this.player.position === "Pitcher"){
+          console.log(this.player);
+          if(this.player.position === "2-Way"){
+            this.pitchingSeason = this.player.pitching.regular;
+            this.pitchingCareer = this.player.pitching.career;
+            this.pitchingPost = this.player.pitching.postseason;
+            this.fielderSeason = this.player.hitting.regular;
+            this.fielderCareer = this.player.hitting.career;
+            this.fielderPost = this.player.hitting.postseason;
+            this.is2Way = true;
+            this.isPitcher = false;
+          } else if(this.player.position === "Pitcher"){
             /* this.DataList.getPlayerPitchingSeason(this.id).subscribe(res => {
               if(res){
                 this.playerPitchingSeason.push(res);
@@ -78,6 +89,7 @@ export class PlayerComponent implements OnInit {
             this.pitchingSeason = this.player.pitching.regular;
             this.pitchingCareer = this.player.pitching.career;
             this.pitchingPost = this.player.pitching.postseason;
+            this.is2Way = false;
             this.isPitcher = true;
           } else {
             /* this.DataList.getPlayerHittingSeason(this.id).subscribe(res => {
@@ -109,6 +121,7 @@ export class PlayerComponent implements OnInit {
             this.fielderSeason = this.player.hitting.regular;
             this.fielderCareer = this.player.hitting.career;
             this.fielderPost = this.player.hitting.postseason;
+            this.is2Way = false;
             this.isPitcher = false; 
           }
         }

@@ -9,11 +9,18 @@
       <div class="rBox1" *ngIf="rosterData; else elseBlock2">
         <div class="rHeader">40-Man Roster</div>
         <div class="rButtons">
+          <div class="rBtn" (click)="selectedTable('twoWays')">2-WAY</div>
           <div class="rBtn" (click)="selectedTable('pitchers')">PITCHERS</div>
           <div class="rBtn" (click)="selectedTable('catchers')">CATCHERS</div>
           <div class="rBtn" (click)="selectedTable('infielders')">INFIELDERS</div>
           <div class="rBtn" (click)="selectedTable('outfielders')">OUTFIELDERS</div>
         </div>
+        <app-roster-table
+        *ngIf="showTwoWay"
+        class="rTable"
+        [roster] = "roster"
+        [position] = "twoWay"
+        ></app-roster-table>
         <app-roster-table
           *ngIf="showPitcher"
           class="rTable"

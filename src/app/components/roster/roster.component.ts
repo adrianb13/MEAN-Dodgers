@@ -10,11 +10,13 @@ import { DataLoadService } from "src/app/service/data-load.service";
 export class RosterComponent implements OnInit, OnDestroy {
   baseball = true;
   rosterData = false;
+  showTwoWay = false;
   showPitcher = true;
   showCatcher = false;
   showInfielder = false;
   showOutfielder = false;
 
+  twoWay = "2-Way"
   pitcher = "Pitcher";
   catcher = "Catcher";
   infielder = "Infielder";
@@ -61,26 +63,36 @@ export class RosterComponent implements OnInit, OnDestroy {
   }
 
   selectedTable(info){
-    if(info === "pitchers"){
+    if (info === "twoWays") {
+      this.showPitcher = false;
+      this.showCatcher = false;
+      this.showInfielder = false;
+      this.showOutfielder = false;
+      this.showTwoWay = true;
+    } else if(info === "pitchers"){
       this.showPitcher = true;
       this.showCatcher = false;
       this.showInfielder = false;
       this.showOutfielder = false;
+      this.showTwoWay = false;
     } else if (info === "catchers"){
       this.showPitcher = false;
       this.showCatcher = true;
       this.showInfielder = false;
       this.showOutfielder = false;
+      this.showTwoWay = false;
     } else if (info === "infielders"){
       this.showPitcher = false;
       this.showCatcher = false;
       this.showInfielder = true;
       this.showOutfielder = false;
+      this.showTwoWay = false;
     } else if (info === "outfielders"){
       this.showPitcher = false;
       this.showCatcher = false;
       this.showInfielder = false;
       this.showOutfielder = true;
+      this.showTwoWay = false;
     }
   }
 }
