@@ -30,7 +30,6 @@ export class ScheduleComponent implements OnInit {
 
   //Get Schedule
   getScheduleData(){
-    
 
     this.DataList.getScheduleDB().subscribe(res => {
       if(res){
