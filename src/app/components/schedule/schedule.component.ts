@@ -71,8 +71,8 @@ export class ScheduleComponent implements OnInit {
   }
 
   sortSchedule(){
-    let schedule = this.schedule.sort(this.sortData)
-    for(let game of schedule){
+    let theSchedule = this.schedule.sort(this.sortData)
+    for(let game of theSchedule){
       if(game.date !== null && game.date !== "" && game.date.indexOf("0") === 0){
         game.date = game.date.substring(1);
       }
