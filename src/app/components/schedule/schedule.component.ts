@@ -43,6 +43,7 @@ export class ScheduleComponent implements OnInit {
         
       }
     })
+    console.log("DB Schedule: " + this.schedule)
     if (this.schedule.length < 1){
       this.DataList.getSchedule().subscribe(res => {
         if(res){
