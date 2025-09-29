@@ -11,7 +11,7 @@
       <div class="sHeader">Next Game</div>
       <div *ngIf="showNext && home">
         <div>{{nextGame.date}}</div>
-        <div>Dodgers vs. {{nextGame.opponent}} </div>
+        <div>Dodgers vs {{nextGame.opponent}} </div>
         <div>{{nextGame.time}}</div>
       </div>
       <div *ngIf="showNext && !home">
@@ -30,7 +30,7 @@
       <div class="sHeader">Last Game</div>
       <div>{{lastGame.date}}</div>
       <div *ngIf="lastGame && lastGame.home">
-        <div>Dodgers vs. {{lastGame.opponent}}</div>
+        <div>Dodgers vs {{lastGame.opponent}}</div>
       </div>
       <div *ngIf="lastGame && !lastGame.home">
         <div>Dodgers &#64; {{lastGame.opponent}}</div>
@@ -62,7 +62,7 @@
             <div>{{game.date}}</div>
             <div>{{game.time}}</div>
             <div *ngIf="game && game.home">
-              <div>Dodgers vs. {{game.opponent}}</div>
+              <div>Dodgers vs {{game.opponent}}</div>
             </div>
             <div *ngIf="game && !game.home">
               <div>Dodgers &#64; {{game.opponent}}</div>
@@ -81,7 +81,7 @@
           <div class="sGame">
             <div>{{game.date}}</div>
             <div *ngIf="game && game.home">
-              <div>Dodgers vs. {{game.opponent}}</div>
+              <div>Dodgers vs {{game.opponent}}</div>
             </div>
             <div *ngIf="game && !game.home">
               <div>Dodgers &#64; {{game.opponent}}</div>

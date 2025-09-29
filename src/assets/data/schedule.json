@@ -23,8 +23,8 @@
     "time": "4:10 PM PT",
     "home": true,
     "opponent": "Detroit Tigers",
-    "score": "N/A",
-    "win": null
+    "score": "5-4",
+    "win": true
   },
   {
     "id": 4,
@@ -32,8 +32,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Detroit Tigers",
-    "score": "N/A",
-    "win": null
+    "score": "8-5",
+    "win": true
   },
   {
     "id": 5,
@@ -41,8 +41,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Detroit Tigers",
-    "score": "N/A",
-    "win": null
+    "score": "7-3",
+    "win": true
   },
   {
     "id": 6,
@@ -50,8 +50,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Atlanta Braves",
-    "score": "N/A",
-    "win": null
+    "score": "6-1",
+    "win": true
   },
   {
     "id": 7,
@@ -59,8 +59,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Atlanta Braves",
-    "score": "N/A",
-    "win": null
+    "score": "3-1",
+    "win": true
   },
   {
     "id": 8,
@@ -68,8 +68,8 @@
     "time": "5:38 PM PT",
     "home": true,
     "opponent": "Atlanta Braves",
-    "score": "N/A",
-    "win": null
+    "score": "6-5",
+    "win": true
   },
   {
     "id": 9,
@@ -77,8 +77,8 @@
     "time": "3:45 PM PT",
     "home": false,
     "opponent": "Philadephia Phillies",
-    "score": "N/A",
-    "win": null
+    "score": "2-3",
+    "win": false
   },
   {
     "id": 10,
@@ -86,8 +86,8 @@
     "time": "1:05 PM PT",
     "home": false,
     "opponent": "Philadephia Phillies",
-    "score": "N/A",
-    "win": null
+    "score": "3-1",
+    "win": true
   },
   {
     "id": 11,
@@ -95,8 +95,8 @@
     "time": "10:35 AM PT",
     "home": false,
     "opponent": "Philadephia Phillies",
-    "score": "N/A",
-    "win": null
+    "score": "7-8",
+    "win": false
   },
   {
     "id": 12,
@@ -104,8 +104,8 @@
     "time": "3:45 PM PT",
     "home": false,
     "opponent": "Washington Nationals",
-    "score": "N/A",
-    "win": null
+    "score": "4-6",
+    "win": false
   },
   {
     "id": 13,
@@ -113,8 +113,8 @@
     "time": "3:45 PM PT",
     "home": false,
     "opponent": "Washington Nationals",
-    "score": "N/A",
-    "win": null
+    "score": "2-8",
+    "win": false
   },
   {
     "id": 14,
@@ -122,8 +122,8 @@
     "time": "1:05 PM PT",
     "home": false,
     "opponent": "Washington Nationals",
-    "score": "N/A",
-    "win": null
+    "score": "6-5",
+    "win": true
   },
   {
     "id": 15,
@@ -131,8 +131,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Chicago Cubs",
-    "score": "N/A",
-    "win": null
+    "score": "3-0",
+    "win": true
   },
   {
     "id": 16,
@@ -140,8 +140,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Chicago Cubs",
-    "score": "N/A",
-    "win": null
+    "score": "0-16",
+    "win": false
   },
   {
     "id": 17,
@@ -149,8 +149,8 @@
     "time": "4:10 PM PT",
     "home": true,
     "opponent": "Chicago Cubs",
-    "score": "N/A",
-    "win": null
+    "score": "2-4",
+    "win": false
   },
   {
     "id": 18,
@@ -158,8 +158,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "5-3",
+    "win": true
   },
   {
     "id": 19,
@@ -167,8 +167,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "6-2",
+    "win": true
   },
   {
     "id": 20,
@@ -176,8 +176,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "8-7",
+    "win": true
   },
   {
     "id": 21,
@@ -185,8 +185,8 @@
     "time": "5:05 PM PT",
     "home": false,
     "opponent": "Texas Rangers",
-    "score": "N/A",
-    "win": null
+    "score": "3-0",
+    "win": true
   },
   {
     "id": 22,
@@ -194,8 +194,8 @@
     "time": "1:05 PM PT",
     "home": false,
     "opponent": "Texas Rangers",
-    "score": "N/A",
-    "win": null
+    "score": "3-4",
+    "win": false
   },
   {
     "id": 23,
@@ -203,8 +203,8 @@
     "time": "11:35 AM PT",
     "home": false,
     "opponent": "Texas Rangers",
-    "score": "N/A",
-    "win": null
+    "score": "1-0",
+    "win": true
   },
   {
     "id": 24,
@@ -212,8 +212,8 @@
     "time": "4:40 PM PT",
     "home": false,
     "opponent": "Chicago Cubs",
-    "score": "N/A",
-    "win": null
+    "score": "10-11",
+    "win": false
   },
   {
     "id": 25,
@@ -221,8 +221,8 @@
     "time": "4:00 PM PT",
     "home": false,
     "opponent": "Chicago Cubs",
-    "score": "N/A",
-    "win": null
+    "score": "6-7",
+    "win": false
   },
   {
     "id": 26,
@@ -230,8 +230,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "0-3",
+    "win": false
   },
   {
     "id": 27,
@@ -239,8 +239,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "8-4",
+    "win": true
   },
   {
     "id": 28,
@@ -248,8 +248,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "9-2",
+    "win": true
   },
   {
     "id": 29,
@@ -257,8 +257,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Miami Marlins",
-    "score": "N/A",
-    "win": null
+    "score": "7-6",
+    "win": true
   },
   {
     "id": 30,
@@ -266,8 +266,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Miami Marlins",
-    "score": "N/A",
-    "win": null
+    "score": "15-2",
+    "win": true
   },
   {
     "id": 31,
@@ -275,8 +275,8 @@
     "time": "12:10 PM PT",
     "home": true,
     "opponent": "Miami Marlins",
-    "score": "N/A",
-    "win": null
+    "score": "12-7",
+    "win": true
   },
   {
     "id": 32,
@@ -284,8 +284,8 @@
     "time": "4:15 PM PT",
     "home": false,
     "opponent": "Atlanta Braves",
-    "score": "N/A",
-    "win": null
+    "score": "2-1",
+    "win": true
   },
   {
     "id": 33,
@@ -293,8 +293,8 @@
     "time": "4:15 PM PT",
     "home": false,
     "opponent": "Atlanta Braves",
-    "score": "N/A",
-    "win": null
+    "score": "10-3",
+    "win": true
   },
   {
     "id": 34,
@@ -302,8 +302,8 @@
     "time": "4:10 PM PT",
     "home": false,
     "opponent": "Atlanta Braves",
-    "score": "N/A",
-    "win": null
+    "score": "3-4",
+    "win": false
   },
   {
     "id": 35,
@@ -311,8 +311,8 @@
     "time": "3:40 PM PT",
     "home": false,
     "opponent": "Miami Marlins",
-    "score": "N/A",
-    "win": null
+    "score": "7-4",
+    "win": true
   },
   {
     "id": 36,
@@ -320,8 +320,8 @@
     "time": "1:40 PM PT",
     "home": false,
     "opponent": "Miami Marlins",
-    "score": "N/A",
-    "win": null
+    "score": "4-5",
+    "win": false
   },
   {
     "id": 37,
@@ -329,8 +329,8 @@
     "time": "1:40 PM PT",
     "home": false,
     "opponent": "Miami Marlins",
-    "score": "N/A",
-    "win": null
+    "score": "10-1",
+    "win": true
   },
   {
     "id": 38,
@@ -338,8 +338,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "3-5",
+    "win": false
   },
   {
     "id": 39,
@@ -347,8 +347,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "14-11",
+    "win": true
   },
   {
     "id": 40,
@@ -356,8 +356,8 @@
     "time": "5:10 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "0-3",
+    "win": false
   },
   {
     "id": 41,
@@ -365,8 +365,8 @@
     "time": "1:10 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "8-1",
+    "win": true
   },
   {
     "id": 42,
@@ -374,8 +374,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Oakland A's",
-    "score": "N/A",
-    "win": null
+    "score": "1-11",
+    "win": false
   },
   {
     "id": 43,
@@ -383,8 +383,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Oakland A's",
-    "score": "N/A",
-    "win": null
+    "score": "9-3",
+    "win": true
   },
   {
     "id": 44,
@@ -392,8 +392,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Oakland A's",
-    "score": "N/A",
-    "win": null
+    "score": "19-2",
+    "win": true
   },
   {
     "id": 45,
@@ -401,8 +401,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Los Angeles Angels",
-    "score": "N/A",
-    "win": null
+    "score": "2-6",
+    "win": false
   },
   {
     "id": 46,
@@ -410,8 +410,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Los Angeles Angels",
-    "score": "N/A",
-    "win": null
+    "score": "9-11",
+    "win": false
   },
   {
     "id": 47,
@@ -419,8 +419,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Los Angeles Angels",
-    "score": "N/A",
-    "win": null
+    "score": "4-6",
+    "win": false
   },
   {
     "id": 48,
@@ -428,8 +428,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "5-9",
+    "win": false
   },
   {
     "id": 49,
@@ -437,8 +437,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "4-3",
+    "win": true
   },
   {
     "id": 50,
@@ -446,8 +446,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "3-1",
+    "win": true
   },
   {
     "id": 51,
@@ -455,8 +455,8 @@
     "time": "4:10 PM PT",
     "home": false,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "7-5",
+    "win": true
   },
   {
     "id": 52,
@@ -464,8 +464,8 @@
     "time": "4:15 PM PT",
     "home": false,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "2-5",
+    "win": false
   },
   {
     "id": 53,
@@ -473,8 +473,8 @@
     "time": "4:10 PM PT",
     "home": false,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "1-3",
+    "win": false
   },
   {
     "id": 54,
@@ -482,8 +482,8 @@
     "time": "3:10 PM PT",
     "home": false,
     "opponent": "Cleveland Guardians",
-    "score": "N/A",
-    "win": null
+    "score": "7-2",
+    "win": true
   },
   {
     "id": 55,
@@ -491,8 +491,8 @@
     "time": "3:10 PM PT",
     "home": false,
     "opponent": "Cleveland Guardians",
-    "score": "N/A",
-    "win": null
+    "score": "9-5",
+    "win": true
   },
   {
     "id": 56,
@@ -500,8 +500,8 @@
     "time": "10:10 AM PT",
     "home": false,
     "opponent": "Cleveland Guardians",
-    "score": "N/A",
-    "win": null
+    "score": "4-7",
+    "win": false
   },
   {
     "id": 57,
@@ -509,8 +509,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "New York Yankees",
-    "score": "N/A",
-    "win": null
+    "score": "8-5",
+    "win": true
   },
   {
     "id": 58,
@@ -518,8 +518,8 @@
     "time": "4:15 PM PT",
     "home": true,
     "opponent": "New York Yankees",
-    "score": "N/A",
-    "win": null
+    "score": "18-2",
+    "win": true
   },
   {
     "id": 59,
@@ -527,8 +527,8 @@
     "time": "4:10 PM PT",
     "home": true,
     "opponent": "New York Yankees",
-    "score": "N/A",
-    "win": null
+    "score": "3-7",
+    "win": false
   },
   {
     "id": 60,
@@ -536,8 +536,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "3-4",
+    "win": false
   },
   {
     "id": 61,
@@ -545,8 +545,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "6-5",
+    "win": true
   },
   {
     "id": 62,
@@ -554,8 +554,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "1-6",
+    "win": false
   },
   {
     "id": 63,
@@ -563,8 +563,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "New York Mets",
-    "score": "N/A",
-    "win": null
+    "score": "6-5",
+    "win": true
   },
   {
     "id": 64,
@@ -572,8 +572,8 @@
     "time": "5:15 PM PT",
     "home": false,
     "opponent": "St. Louis Cardinals",
-    "score": "N/A",
-    "win": null
+    "score": "0-5",
+    "win": false
   },
   {
     "id": 65,
@@ -581,8 +581,8 @@
     "time": "11:15 AM PT",
     "home": false,
     "opponent": "St. Louis Cardinals",
-    "score": "N/A",
-    "win": null
+    "score": "1-2",
+    "win": false
   },
   {
     "id": 66,
@@ -590,8 +590,8 @@
     "time": "11:15 AM PT",
     "home": false,
     "opponent": "St. Louis Cardinals",
-    "score": "N/A",
-    "win": null
+    "score": "7-3",
+    "win": true
   },
   {
     "id": 67,
@@ -599,8 +599,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "8-7",
+    "win": true
   },
   {
     "id": 68,
@@ -608,8 +608,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "1-11",
+    "win": false
   },
   {
     "id": 69,
@@ -617,8 +617,8 @@
     "time": "1:10 PM PT",
     "home": false,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "5-2",
+    "win": true
   },
   {
     "id": 70,
@@ -626,8 +626,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "2-6",
+    "win": false
   },
   {
     "id": 71,
@@ -635,8 +635,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "11-5",
+    "win": true
   },
   {
     "id": 72,
@@ -644,8 +644,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "5-4",
+    "win": true
   },
   {
     "id": 73,
@@ -653,8 +653,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "6-3",
+    "win": true
   },
   {
     "id": 74,
@@ -662,8 +662,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "8-6",
+    "win": true
   },
   {
     "id": 75,
@@ -671,8 +671,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "4-3",
+    "win": true
   },
   {
     "id": 76,
@@ -680,8 +680,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "3-5",
+    "win": false
   },
   {
     "id": 77,
@@ -689,8 +689,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Washington Nationals",
-    "score": "N/A",
-    "win": null
+    "score": "6-5",
+    "win": true
   },
   {
     "id": 78,
@@ -698,8 +698,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Washington Nationals",
-    "score": "N/A",
-    "win": null
+    "score": "3-7",
+    "win": false
   },
   {
     "id": 79,
@@ -707,8 +707,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Washington Nationals",
-    "score": "N/A",
-    "win": null
+    "score": "13-7",
+    "win": true
   },
   {
     "id": 80,
@@ -716,8 +716,8 @@
     "time": "5:40 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "9-7",
+    "win": true
   },
   {
     "id": 81,
@@ -725,8 +725,8 @@
     "time": "5:40 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "8-1",
+    "win": true
   },
   {
     "id": 82,
@@ -734,8 +734,8 @@
     "time": "12:10 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "3-1",
+    "win": true
   },
   {
     "id": 83,
@@ -743,8 +743,8 @@
     "time": "5:10 PM PT",
     "home": false,
     "opponent": "Kansas City Royals",
-    "score": "N/A",
-    "win": null
+    "score": "5-4",
+    "win": true
   },
   {
     "id": 84,
@@ -752,8 +752,8 @@
     "time": "1:10 PM PT",
     "home": false,
     "opponent": "Kansas City Royals",
-    "score": "N/A",
-    "win": null
+    "score": "5-9",
+    "win": false
   },
   {
     "id": 85,
@@ -761,8 +761,8 @@
     "time": "11:10 AM PT",
     "home": false,
     "opponent": "Kansas City Royals",
-    "score": "N/A",
-    "win": null
+    "score": "5-1",
+    "win": true
   },
   {
     "id": 86,
@@ -770,8 +770,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Chicago White Sox",
-    "score": "N/A",
-    "win": null
+    "score": "6-1",
+    "win": true
   },
   {
     "id": 87,
@@ -779,8 +779,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Chicago White Sox",
-    "score": "N/A",
-    "win": null
+    "score": "5-4",
+    "win": true
   },
   {
     "id": 88,
@@ -788,8 +788,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Chicago White Sox",
-    "score": "N/A",
-    "win": null
+    "score": "6-2",
+    "win": true
   },
   {
     "id": 89,
@@ -797,8 +797,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Houston Astros",
-    "score": "N/A",
-    "win": null
+    "score": "1-18",
+    "win": false
   },
   {
     "id": 90,
@@ -806,8 +806,8 @@
     "time": "4:15 PM PT",
     "home": true,
     "opponent": "Houston Astros",
-    "score": "N/A",
-    "win": null
+    "score": "4-6",
+    "win": false
   },
   {
     "id": 91,
@@ -815,8 +815,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Houston Astros",
-    "score": "N/A",
-    "win": null
+    "score": "1-5",
+    "win": false
   },
   {
     "id": 92,
@@ -824,8 +824,8 @@
     "time": "4:40 PM PT",
     "home": false,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "1-9",
+    "win": false
   },
   {
     "id": 93,
@@ -833,8 +833,8 @@
     "time": "4:40 PM PT",
     "home": false,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "1-3",
+    "win": false
   },
   {
     "id": 94,
@@ -842,8 +842,8 @@
     "time": "11:10 AM PT",
     "home": false,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "2-3",
+    "win": false
   },
   {
     "id": 95,
@@ -851,8 +851,8 @@
     "time": "7:15 PM PT",
     "home": false,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "7-8",
+    "win": false
   },
   {
     "id": 96,
@@ -860,8 +860,8 @@
     "time": "1:05 PM PT",
     "home": false,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "2-1",
+    "win": true
   },
   {
     "id": 97,
@@ -869,8 +869,8 @@
     "time": "1:05 PM PT",
     "home": false,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "5-2",
+    "win": true
   },
   {
     "id": 98,
@@ -878,8 +878,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "0-2",
+    "win": false
   },
   {
     "id": 99,
@@ -887,8 +887,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "7-8",
+    "win": false
   },
   {
     "id": 100,
@@ -896,8 +896,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Milwaukee Brewers",
-    "score": "N/A",
-    "win": null
+    "score": "5-6",
+    "win": false
   },
   {
     "id": 101,
@@ -905,8 +905,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Minnesota Twins",
-    "score": "N/A",
-    "win": null
+    "score": "5-2",
+    "win": true
   },
   {
     "id": 102,
@@ -914,8 +914,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Minnesota Twins",
-    "score": "N/A",
-    "win": null
+    "score": "7-10",
+    "win": false
   },
   {
     "id": 103,
@@ -923,8 +923,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Minnesota Twins",
-    "score": "N/A",
-    "win": null
+    "score": "4-3",
+    "win": true
   },
   {
     "id": 104,
@@ -932,8 +932,8 @@
     "time": "4:10 PM PT",
     "home": false,
     "opponent": "Boston Red Sox",
-    "score": "N/A",
-    "win": null
+    "score": "5-2",
+    "win": true
   },
   {
     "id": 105,
@@ -941,8 +941,8 @@
     "time": "4:15 PM PT",
     "home": false,
     "opponent": "Boston Red Sox",
-    "score": "N/A",
-    "win": null
+    "score": "2-4",
+    "win": false
   },
   {
     "id": 106,
@@ -950,8 +950,8 @@
     "time": "10:35 AM PT",
     "home": false,
     "opponent": "Boston Red Sox",
-    "score": "N/A",
-    "win": null
+    "score": "3-4",
+    "win": false
   },
   {
     "id": 107,
@@ -959,8 +959,8 @@
     "time": "4:10 PM PT",
     "home": false,
     "opponent": "Cincinnati Reds",
-    "score": "N/A",
-    "win": null
+    "score": "5-2",
+    "win": true
   },
   {
     "id": 108,
@@ -968,8 +968,8 @@
     "time": "4:10 PM PT",
     "home": false,
     "opponent": "Cincinnati Reds",
-    "score": "N/A",
-    "win": null
+    "score": "5-4",
+    "win": true
   },
   {
     "id": 109,
@@ -977,8 +977,8 @@
     "time": "4:10 PM PT",
     "home": false,
     "opponent": "Cincinnati Reds",
-    "score": "N/A",
-    "win": null
+    "score": "2-5",
+    "win": false
   },
   {
     "id": 110,
@@ -986,8 +986,8 @@
     "time": "4:35 PM PT",
     "home": false,
     "opponent": "Tampa Bay Rays",
-    "score": "N/A",
-    "win": null
+    "score": "5-0",
+    "win": true
   },
   {
     "id": 111,
@@ -995,8 +995,8 @@
     "time": "10:10 AM PT",
     "home": false,
     "opponent": "Tampa Bay Rays",
-    "score": "N/A",
-    "win": null
+    "score": "0-4",
+    "win": false
   },
   {
     "id": 112,
@@ -1004,8 +1004,8 @@
     "time": "9:10 AM PT",
     "home": false,
     "opponent": "Tampa Bay Rays",
-    "score": "N/A",
-    "win": null
+    "score": "3-0",
+    "win": true
   },
   {
     "id": 113,
@@ -1013,8 +1013,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "St. Louis Cardinals",
-    "score": "N/A",
-    "win": null
+    "score": "2-3",
+    "win": false
   },
   {
     "id": 114,
@@ -1022,8 +1022,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "St. Louis Cardinals",
-    "score": "N/A",
-    "win": null
+    "score": "12-6",
+    "win": true
   },
   {
     "id": 115,
@@ -1031,8 +1031,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "St. Louis Cardinals",
-    "score": "N/A",
-    "win": null
+    "score": "3-5",
+    "win": false
   },
   {
     "id": 116,
@@ -1040,8 +1040,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Toronto Blue Jays",
-    "score": "N/A",
-    "win": null
+    "score": "5-1",
+    "win": true
   },
   {
     "id": 117,
@@ -1049,8 +1049,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Toronto Blue Jays",
-    "score": "N/A",
-    "win": null
+    "score": "9-1",
+    "win": true
   },
   {
     "id": 118,
@@ -1058,8 +1058,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Toronto Blue Jays",
-    "score": "N/A",
-    "win": null
+    "score": "4-5",
+    "win": false
   },
   {
     "id": 119,
@@ -1067,8 +1067,8 @@
     "time": "6:38 PM PT",
     "home": false,
     "opponent": "Los Angeles Angels",
-    "score": "N/A",
-    "win": null
+    "score": "4-7",
+    "win": false
   },
   {
     "id": 120,
@@ -1076,8 +1076,8 @@
     "time": "6:38 PM PT",
     "home": false,
     "opponent": "Los Angeles Angels",
-    "score": "N/A",
-    "win": null
+    "score": "6-7",
+    "win": false
   },
   {
     "id": 121,
@@ -1085,8 +1085,8 @@
     "time": "6:38 PM PT",
     "home": false,
     "opponent": "Los Angeles Angels",
-    "score": "N/A",
-    "win": null
+    "score": "5-6",
+    "win": false
   },
   {
     "id": 122,
@@ -1094,8 +1094,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "3-2",
+    "win": true
   },
   {
     "id": 123,
@@ -1103,8 +1103,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "6-0",
+    "win": true
   },
   {
     "id": 124,
@@ -1112,8 +1112,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "5-4",
+    "win": true
   },
   {
     "id": 125,
@@ -1121,8 +1121,8 @@
     "time": "5:40 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "3-4",
+    "win": false
   },
   {
     "id": 126,
@@ -1130,8 +1130,8 @@
     "time": "5:40 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "11-4",
+    "win": true
   },
   {
     "id": 127,
@@ -1139,8 +1139,8 @@
     "time": "5:40 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "3-8",
+    "win": false
   },
   {
     "id": 128,
@@ -1148,8 +1148,8 @@
     "time": "12:10 PM PT",
     "home": false,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "9-5",
+    "win": true
   },
   {
     "id": 129,
@@ -1157,8 +1157,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "1-2",
+    "win": false
   },
   {
     "id": 130,
@@ -1166,8 +1166,8 @@
     "time": "5:40 PM PT",
     "home": false,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "1-5",
+    "win": false
   },
   {
     "id": 131,
@@ -1175,17 +1175,17 @@
     "time": "1:10 PM PT",
     "home": false,
     "opponent": "San Diego Padres",
-    "score": "N/A",
-    "win": null
+    "score": "8-2",
+    "win": true
   },
   {
     "id": 132,
-    "date": "8/25/25",
+    "date": "08/25/25",
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Cincinnati Reds",
-    "score": "N/A",
-    "win": null
+    "score": "7-0",
+    "win": true
   },
   {
     "id": 133,
@@ -1193,8 +1193,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Cincinnati Reds",
-    "score": "N/A",
-    "win": null
+    "score": "6-3",
+    "win": true
   },
   {
     "id": 134,
@@ -1202,8 +1202,8 @@
     "time": "5:40 PM PT",
     "home": true,
     "opponent": "Cincinnati Reds",
-    "score": "N/A",
-    "win": null
+    "score": "5-1",
+    "win": true
   },
   {
     "id": 135,
@@ -1211,8 +1211,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "0-3",
+    "win": false
   },
   {
     "id": 136,
@@ -1220,8 +1220,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "1-6",
+    "win": false
   },
   {
     "id": 137,
@@ -1229,8 +1229,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "5-4",
+    "win": true
   },
   {
     "id": 138,
@@ -1238,8 +1238,8 @@
     "time": "3:40 PM PT",
     "home": false,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "7-9",
+    "win": false
   },
   {
     "id": 139,
@@ -1247,8 +1247,8 @@
     "time": "3:40 PM PT",
     "home": false,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "0-3",
+    "win": false
   },
   {
     "id": 140,
@@ -1256,8 +1256,8 @@
     "time": "3:40 PM PT",
     "home": false,
     "opponent": "Pittsburgh Pirates",
-    "score": "N/A",
-    "win": null
+    "score": "3-5",
+    "win": false
   },
   {
     "id": 141,
@@ -1265,8 +1265,8 @@
     "time": "4:05 PM PT",
     "home": false,
     "opponent": "Baltimore Orioles",
-    "score": "N/A",
-    "win": null
+    "score": "1-2",
+    "win": false
   },
   {
     "id": 142,
@@ -1274,8 +1274,8 @@
     "time": "4:05 PM PT",
     "home": false,
     "opponent": "Baltimore Orioles",
-    "score": "N/A",
-    "win": null
+    "score": "3-4",
+    "win": false
   },
   {
     "id": 143,
@@ -1283,8 +1283,8 @@
     "time": "10:35 AM PT",
     "home": false,
     "opponent": "Baltimore Orioles",
-    "score": "N/A",
-    "win": null
+    "score": "5-2",
+    "win": true
   },
   {
     "id": 144,
@@ -1292,8 +1292,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "3-1",
+    "win": true
   },
   {
     "id": 145,
@@ -1301,8 +1301,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "7-2",
+    "win": true
   },
   {
     "id": 146,
@@ -1310,8 +1310,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Colorado Rockies",
-    "score": "N/A",
-    "win": null
+    "score": "9-0",
+    "win": true
   },
   {
     "id": 147,
@@ -1319,8 +1319,8 @@
     "time": "7:15 PM PT",
     "home": false,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "1-5",
+    "win": false
   },
   {
     "id": 148,
@@ -1328,8 +1328,8 @@
     "time": "6:05 PM PT",
     "home": false,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "13-7",
+    "win": true
   },
   {
     "id": 149,
@@ -1337,8 +1337,8 @@
     "time": "1:05 PM PT",
     "home": false,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "10-2",
+    "win": true
   },
   {
     "id": 150,
@@ -1346,8 +1346,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Philadephia Phillies",
-    "score": "N/A",
-    "win": null
+    "score": "5-6",
+    "win": false
   },
   {
     "id": 151,
@@ -1355,8 +1355,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Philadephia Phillies",
-    "score": "N/A",
-    "win": null
+    "score": "6-9",
+    "win": false
   },
   {
     "id": 152,
@@ -1364,8 +1364,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "Philadephia Phillies",
-    "score": "N/A",
-    "win": null
+    "score": "5-0",
+    "win": true
   },
   {
     "id": 153,
@@ -1373,8 +1373,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "2-1",
+    "win": true
   },
   {
     "id": 154,
@@ -1382,8 +1382,8 @@
     "time": "7:10 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "6-3",
+    "win": true
   },
   {
     "id": 155,
@@ -1391,8 +1391,8 @@
     "time": "6:10 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "7-5",
+    "win": true
   },
   {
     "id": 156,
@@ -1400,8 +1400,8 @@
     "time": "1:10 PM PT",
     "home": true,
     "opponent": "San Francisco Giants",
-    "score": "N/A",
-    "win": null
+    "score": "1-3",
+    "win": false
   },
   {
     "id": 157,
@@ -1409,8 +1409,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "4-5",
+    "win": false
   },
   {
     "id": 158,
@@ -1418,8 +1418,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "5-4",
+    "win": true
   },
   {
     "id": 159,
@@ -1427,8 +1427,8 @@
     "time": "12:40 PM PT",
     "home": false,
     "opponent": "Arizona Diamondbacks",
-    "score": "N/A",
-    "win": null
+    "score": "8-0",
+    "win": true
   },
   {
     "id": 160,
@@ -1436,8 +1436,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "Seattle Mariners",
-    "score": "N/A",
-    "win": null
+    "score": "3-2",
+    "win": true
   },
   {
     "id": 161,
@@ -1445,8 +1445,8 @@
     "time": "6:40 PM PT",
     "home": false,
     "opponent": "Seattle Mariners",
-    "score": "N/A",
-    "win": null
+    "score": "5-3",
+    "win": true
   },
   {
     "id": 162,
@@ -1454,15 +1454,33 @@
     "time": "12:10 PM PT",
     "home": false,
     "opponent": "Seattle Mariners",
-    "score": "N/A",
-    "win": null
+    "score": "5-3",
+    "win": true
   },
   {
     "id": 163,
+    "date": "09/30/25",
+    "time": "6:00 PM PT",
+    "home": true,
+    "opponent": "Cincinnati Reds - Playoffs Game 1",
+    "score": "N/A",
+    "win": null
+  },
+    {
+    "id": 164,
     "date": "10/01/25",
-    "time": "12:10 PM PT",
-    "home": false,
-    "opponent": "Test",
+    "time": "6:00 PM PT",
+    "home": true,
+    "opponent": "Cincinnati Reds - Playoffs Game 2",
+    "score": "N/A",
+    "win": null
+  },
+    {
+    "id": 165,
+    "date": "10/02/25",
+    "time": "6:00 PM PT",
+    "home": true,
+    "opponent": "Cincinnati Reds - Playoffs Game 3",
     "score": "N/A",
     "win": null
   }
