@@ -36,14 +36,15 @@ export class ScheduleComponent implements OnInit {
       console.log(res)
       if(res){
         this.schedule.push(res);
+        console.log("this.schedule: " + this.schedule)
         this.schedule = this.schedule[0];
+        console.log("DB Schedule: " + this.schedule)
         this.sortSchedule();
         console.log("Database");
       } else {
         
       }
     })
-    console.log("DB Schedule: " + this.schedule)
     if (this.schedule.length < 1){
       this.DataList.getSchedule().subscribe(res => {
         if(res){
