@@ -32,9 +32,9 @@ export class ScheduleComponent implements OnInit {
   getScheduleData(){
 
     this.DataList.getScheduleDB().subscribe(res => {
-      console.log("DB Res")
-      console.log(res)
+      console.log("DB Res: " + res)
       if(res){
+        console.log("Has db schedule")
         this.schedule.push(res);
         console.log("this.schedule: " + this.schedule)
         this.schedule = this.schedule[0];
