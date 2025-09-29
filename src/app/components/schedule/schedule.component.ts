@@ -32,13 +32,13 @@ export class ScheduleComponent implements OnInit {
   getScheduleData(){
 
     this.DataList.getScheduleDB().subscribe(res => {
-      console.log("DB Res: " + res)
+      console.log("DB Res: ", res)
       if(res){
         console.log("Has db schedule")
         this.schedule.push(res);
-        console.log("this.schedule: " + this.schedule)
+        console.log("this.schedule: ", this.schedule)
         this.schedule = this.schedule[0];
-        console.log("DB Schedule: " + this.schedule)
+        console.log("DB Schedule: ", this.schedule)
         this.sortSchedule();
         console.log("Database");
       } else {
@@ -47,6 +47,7 @@ export class ScheduleComponent implements OnInit {
     })
     if (this.schedule.length < 1){
       this.DataList.getSchedule().subscribe(res => {
+        console.log("Asset Res: ", res)
         if(res){
           this.schedule.push(res);
           this.schedule = this.schedule[0];
