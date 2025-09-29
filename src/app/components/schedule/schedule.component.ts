@@ -42,20 +42,20 @@ export class ScheduleComponent implements OnInit {
         this.sortSchedule();
         console.log("Database");
       } else {
-        
-      }
+        if (this.schedule.length < 1){
+          this.DataList.getSchedule().subscribe(res => {
+          console.log("Asset Res: ", res)
+          if(res){
+            this.schedule.push(res);
+            this.schedule = this.schedule[0];
+            this.sortSchedule();
+            console.log("Assets");
+          }
+          })
+        } 
+      }  
     })
-    if (this.schedule.length < 1){
-      this.DataList.getSchedule().subscribe(res => {
-        console.log("Asset Res: ", res)
-        if(res){
-          this.schedule.push(res);
-          this.schedule = this.schedule[0];
-          this.sortSchedule();
-          console.log("Assets");
-        }
-      }) 
-    }  
+     
   }
 
   //Sort By Date (Mongo does not provide data in chronological order)
