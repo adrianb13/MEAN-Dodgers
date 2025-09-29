@@ -32,6 +32,7 @@ export class ScheduleComponent implements OnInit {
   getScheduleData(){
 
     this.DataList.getScheduleDB().subscribe(res => {
+      console.log("DB Res")
       console.log(res)
       if(res){
         this.schedule.push(res);

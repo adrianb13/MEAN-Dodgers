@@ -5,9 +5,7 @@ module.exports = {
   getSchedule: (req, res) => {
     db.Schedule
       .find({})
-      .then(schedule => {
-        console.log("schedule: " + schedule)
-        res.json(schedule)})
+      .then(schedule => {res.json(schedule)})
       .catch(err => {res.status(422).json(err)})
   },
   addGame: (req, res) => {
