@@ -81,7 +81,7 @@ export class ScheduleComponent implements OnInit {
         } else {
           this.loss = this.loss + 1;
         }
-      } else if (game.score !== "N/A" && ((game.score.includes("Playoffs") || !game.score.includes("WC") || game.score.includes("NLDS") || game.score.includes("NLCS") || game.score.includes("WS")))) {
+      } else if (game.score !== "N/A" && ((game.score.includes("Playoffs") || game.score.includes("WC") || game.score.includes("NLDS") || game.score.includes("NLCS") || game.score.includes("WS")))) {
         this.played.push(game);
       } else {
         this.upcoming.push(game);
