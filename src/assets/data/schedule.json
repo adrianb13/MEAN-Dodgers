@@ -1462,25 +1462,34 @@
     "date": "09/30/25",
     "time": "6:00 PM PT",
     "home": true,
-    "opponent": "Cincinnati Reds - Playoffs Game 1",
-    "score": "N/A",
+    "opponent": "Cincinnati Reds - Wild Card Game 1",
+    "score": "10-5 - WC Game 1",
     "win": null
   },
-    {
+  {
     "id": 164,
     "date": "10/01/25",
     "time": "6:00 PM PT",
     "home": true,
-    "opponent": "Cincinnati Reds - Playoffs Game 2",
-    "score": "N/A",
+    "opponent": "Cincinnati Reds - Wild Card Game 2",
+    "score": "8-4 - WC Game 2",
     "win": null
   },
-    {
+  {
     "id": 165,
-    "date": "10/02/25",
+    "date": "10/04/25",
     "time": "6:00 PM PT",
-    "home": true,
-    "opponent": "Cincinnati Reds - Playoffs Game 3",
+    "home": false,
+    "opponent": "Philadephia Phillies - NLDS Game 1",
+    "score": "5-3 - NLDS Game 1",
+    "win": true
+  },
+  {
+    "id": 165,
+    "date": "10/06/25",
+    "time": "6:08 PM PT",
+    "home": false,
+    "opponent": "Philadephia Phillies - NLDS Game 2",
     "score": "N/A",
     "win": null
   }

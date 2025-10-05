@@ -74,14 +74,14 @@ export class ScheduleComponent implements OnInit {
       if(game.date !== null && game.date !== "" && game.date.indexOf("0") === 0){
         game.date = game.date.substring(1);
       }
-      if(game.score !== "N/A" && !game.score.includes("Playoffs") && !game.score.includes("NLDS") && !game.score.includes("NLCS") && !game.score.includes("WS")){ 
+      if(game.score !== "N/A" && !game.score.includes("Playoffs") && !game.score.includes("WC") && !game.score.includes("NLDS") && !game.score.includes("NLCS") && !game.score.includes("WS")){ 
         this.played.push(game);
         if(game.win === true){
           this.win = this.win + 1;
         } else {
           this.loss = this.loss + 1;
         }
-      } else if (game.score !== "N/A" && (game.score.includes("Playoffs") || game.score.includes("NLDS") || game.score.includes("NLCS") || game.score.includes("WS"))) {
+      } else if (game.score !== "N/A" && (game.score.includes("Playoffs") || !game.score.includes("WC") || game.score.includes("NLDS") || game.score.includes("NLCS") || game.score.includes("WS"))) {
         this.played.push(game);
       } else {
         this.upcoming.push(game);
