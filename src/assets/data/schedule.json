@@ -1462,7 +1462,7 @@
     "date": "09/30/25",
     "time": "6:00 PM PT",
     "home": true,
-    "opponent": "Cincinnati Reds - Wild Card Game 1",
+    "opponent": "Cincinnati Reds",
     "score": "10-5 - WC Game 1",
     "win": true
   },
@@ -1471,7 +1471,7 @@
     "date": "10/01/25",
     "time": "6:00 PM PT",
     "home": true,
-    "opponent": "Cincinnati Reds - Wild Card Game 2",
+    "opponent": "Cincinnati Reds",
     "score": "8-4 - WC Game 2",
     "win": true
   },
@@ -1480,7 +1480,7 @@
     "date": "10/04/25",
     "time": "6:00 PM PT",
     "home": false,
-    "opponent": "Philadephia Phillies - NLDS Game 1",
+    "opponent": "Philadephia Phillies",
     "score": "5-3 - NLDS Game 1",
     "win": true
   },
