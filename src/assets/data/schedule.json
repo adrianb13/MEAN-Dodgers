@@ -1490,7 +1490,7 @@
     "time": "6:08 PM PT",
     "home": false,
     "opponent": "Philadephia Phillies",
-    "score": "4-3  - NLDS Game 2",
+    "score": "4-3 - NLDS Game 2",
     "win": true
   },
   {
@@ -1499,7 +1499,7 @@
     "time": "9:08 PM PT",
     "home": true,
     "opponent": "Philadephia Phillies",
-    "score": "2-8  - NLDS Game 3",
+    "score": "2-8 - NLDS Game 3",
     "win": false
   },
   {
@@ -1508,8 +1508,8 @@
     "time": "6:08 PM PT",
     "home": true,
     "opponent": "Philadephia Phillies",
-    "score": "2-1  - NLDS Game 4",
-    "win": null
+    "score": "2-1 - NLDS Game 4",
+    "win": true
   },
   {
     "id": 169,
@@ -1548,7 +1548,7 @@
     "win": null
   },
   {
-    "id": 172,
+    "id": 173,
     "date": "10/18/25",
     "time": "8:08 PM PT",
     "home": true,
@@ -1557,7 +1557,7 @@
     "win": null
   },
   {
-    "id": 173,
+    "id": 174,
     "date": "10/20/25",
     "time": "5:08 PM PT",
     "home": false,
@@ -1566,7 +1566,7 @@
     "win": null
   },
   {
-    "id": 174,
+    "id": 175,
     "date": "10/21/25",
     "time": "8:08 PM PT",
     "home": false,
