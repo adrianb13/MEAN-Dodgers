@@ -1489,34 +1489,88 @@
     "date": "10/06/25",
     "time": "6:08 PM PT",
     "home": false,
-    "opponent": "Philadephia Phillies - NLDS Game 2",
-    "score": "N/A",
-    "win": null
+    "opponent": "Philadephia Phillies",
+    "score": "4-3  - NLDS Game 2",
+    "win": true
   },
   {
     "id": 167,
     "date": "10/08/25",
     "time": "9:08 PM PT",
     "home": true,
-    "opponent": "Philadephia Phillies - NLDS Game 3",
-    "score": "N/A",
-    "win": null
+    "opponent": "Philadephia Phillies",
+    "score": "2-8  - NLDS Game 3",
+    "win": false
   },
   {
     "id": 168,
     "date": "10/09/25",
     "time": "6:08 PM PT",
     "home": true,
-    "opponent": "Philadephia Phillies - NLDS Game 4",
-    "score": "N/A",
+    "opponent": "Philadephia Phillies",
+    "score": "2-1  - NLDS Game 4",
     "win": null
   },
   {
     "id": 169,
-    "date": "10/11/25",
+    "date": "10/13/25",
     "time": "8:08 PM PT",
     "home": false,
-    "opponent": "Philadephia Phillies - NLDS Game 5",
+    "opponent": "Milwaukee Brewers - NLCS Game 1",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 170,
+    "date": "10/14/25",
+    "time": "8:08 PM PT",
+    "home": false,
+    "opponent": "Milwaukee Brewers - NLCS Game 2",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 171,
+    "date": "10/16/25",
+    "time": "6:08 PM PT",
+    "home": true,
+    "opponent": "Milwaukee Brewers - NLCS Game 3",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 172,
+    "date": "10/17/25",
+    "time": "8:38 PM PT",
+    "home": true,
+    "opponent": "Milwaukee Brewers - NLCS Game 4",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 172,
+    "date": "10/18/25",
+    "time": "8:08 PM PT",
+    "home": true,
+    "opponent": "Milwaukee Brewers - NLCS Game 5",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 173,
+    "date": "10/20/25",
+    "time": "5:08 PM PT",
+    "home": false,
+    "opponent": "Milwaukee Brewers - NLCS Game 6",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 174,
+    "date": "10/21/25",
+    "time": "8:08 PM PT",
+    "home": false,
+    "opponent": "Milwaukee Brewers - NLCS Game 7",
     "score": "N/A",
     "win": null
   }
