@@ -1516,61 +1516,43 @@
     "date": "10/13/25",
     "time": "8:08 PM PT",
     "home": false,
-    "opponent": "Milwaukee Brewers - NLCS Game 1",
-    "score": "N/A",
-    "win": null
+    "opponent": "Milwaukee Brewers",
+    "score": "2-1 - NLCS Game 1",
+    "win": true
   },
   {
     "id": 170,
     "date": "10/14/25",
     "time": "8:08 PM PT",
     "home": false,
-    "opponent": "Milwaukee Brewers - NLCS Game 2",
-    "score": "N/A",
-    "win": null
+    "opponent": "Milwaukee Brewers",
+    "score": "5-1 - NLCS Game 2",
+    "win": true
   },
   {
     "id": 171,
     "date": "10/16/25",
     "time": "6:08 PM PT",
     "home": true,
-    "opponent": "Milwaukee Brewers - NLCS Game 3",
-    "score": "N/A",
-    "win": null
+    "opponent": "Milwaukee Brewers",
+    "score": "3-1 - NLCS Game 3",
+    "win": true
   },
   {
     "id": 172,
     "date": "10/17/25",
     "time": "8:38 PM PT",
     "home": true,
-    "opponent": "Milwaukee Brewers - NLCS Game 4",
-    "score": "N/A",
-    "win": null
+    "opponent": "Milwaukee Brewers",
+    "score": "5-1 - NLCS Game 4",
+    "win": true
   },
   {
     "id": 173,
-    "date": "10/18/25",
-    "time": "8:08 PM PT",
+    "date": "10/24/25",
+    "time": "TBD",
     "home": true,
-    "opponent": "Milwaukee Brewers - NLCS Game 5",
-    "score": "N/A",
-    "win": null
-  },
-  {
-    "id": 174,
-    "date": "10/20/25",
-    "time": "5:08 PM PT",
-    "home": false,
-    "opponent": "Milwaukee Brewers - NLCS Game 6",
-    "score": "N/A",
-    "win": null
-  },
-  {
-    "id": 175,
-    "date": "10/21/25",
-    "time": "8:08 PM PT",
-    "home": false,
-    "opponent": "Milwaukee Brewers - NLCS Game 7",
+    "opponent": "TBD - WS Game 1",
     "score": "N/A",
     "win": null
   }
