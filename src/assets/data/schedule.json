@@ -1550,9 +1550,62 @@
   {
     "id": 173,
     "date": "10/24/25",
-    "time": "TBD",
+    "time": "8:00 PM PT",
+    "home": false,
+    "opponent": "Toronto Blue Jays - WS Game 1",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 174,
+    "date": "10/25/25",
+    "time": "8:00 PM PT",
+    "home": false,
+    "opponent": "Toronto Blue Jays - WS Game 2",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 175,
+    "date": "10/27/25",
+    "time": "8:00 PM PT",
     "home": true,
-    "opponent": "TBD - WS Game 1",
+    "opponent": "Toronto Blue Jays - WS Game 3",
+    "score": "N/A",
+    "win": null
+  },{
+    "id": 176,
+    "date": "10/28/25",
+    "time": "8:00 PM PT",
+    "home": true,
+    "opponent": "Toronto Blue Jays - WS Game 4",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 177,
+    "date": "10/29/25",
+    "time": "8:00 PM PT",
+    "home": true,
+    "opponent": "Toronto Blue Jays - WS Game 5",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 178,
+    "date": "10/31/25",
+    "time": "8:00 PM PT",
+    "home": false,
+    "opponent": "Toronto Blue Jays - WS Game 6",
+    "score": "N/A",
+    "win": null
+  },
+  {
+    "id": 179,
+    "date": "11/01/25",
+    "time": "8:00 PM PT",
+    "home": false,
+    "opponent": "Toronto Blue Jays - WS Game 7",
     "score": "N/A",
     "win": null
   }
