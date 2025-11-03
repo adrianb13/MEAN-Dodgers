@@ -18,6 +18,7 @@ import { RosterTableComponent } from './components/roster-table/roster-table.com
 import { ScheduleComponent } from './components/schedule/schedule.component';
 import { ChampsComponent } from './components/champs/champs.component';
 import { PlayerComponent } from './components/player/player.component';
+import { Champs2025Component } from './components/champs2025/champs2025.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import { PlayerComponent } from './components/player/player.component';
     RosterTableComponent,
     ScheduleComponent,
     ChampsComponent,
-    PlayerComponent
+    PlayerComponent,
+    Champs2025Component
   ],
   imports: [
     BrowserModule,
@@ -52,8 +54,12 @@ import { PlayerComponent } from './components/player/player.component';
         component: ScheduleComponent
       },
       {
-        path: "champs",
+        path: "champs2024",
         component: ChampsComponent
+      },
+      {
+        path: "champs2025",
+        component: Champs2025Component
       },
       {
         path: "player/:id",
