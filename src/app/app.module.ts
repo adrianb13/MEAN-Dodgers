@@ -16,7 +16,7 @@ import { TopNavComponent } from './components/top-nav/top-nav.component';
 import { RosterComponent } from './components/roster/roster.component';
 import { RosterTableComponent } from './components/roster-table/roster-table.component';
 import { ScheduleComponent } from './components/schedule/schedule.component';
-import { ChampsComponent } from './components/champs/champs.component';
+import { Champs2024Component } from './components/champs2024/champs2024.component';
 import { PlayerComponent } from './components/player/player.component';
 import { Champs2025Component } from './components/champs2025/champs2025.component';
 
@@ -32,7 +32,7 @@ import { Champs2025Component } from './components/champs2025/champs2025.componen
     RosterComponent,
     RosterTableComponent,
     ScheduleComponent,
-    ChampsComponent,
+    Champs2024Component,
     PlayerComponent,
     Champs2025Component
   ],
@@ -55,7 +55,7 @@ import { Champs2025Component } from './components/champs2025/champs2025.componen
       },
       {
         path: "champs2024",
-        component: ChampsComponent
+        component: Champs2024Component
       },
       {
         path: "champs2025",
