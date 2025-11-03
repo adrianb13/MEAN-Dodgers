@@ -20,7 +20,7 @@
         <div>{{nextGame.time}}</div>
       </div>
       <div *ngIf="!showNext" class="sNA">
-        <div class="sWS">2024 & 2025<br /> World Series Champions!!!</div>
+        <div class="sWS">2024 & 2025<br /> World Series Champions!!! </div>
       </div>
     </div>
   </div>
@@ -43,7 +43,7 @@
       </div>
       <br />
       <div *ngIf="!showNext" class="sNA">
-        <div class="sWS">2024 & 2025 World Series Champions!!!</div>
+        <div class="sWS">2024 & 2025<br /> World Series Champions!!! </div>
       </div>
     </div>
   </div>
@@ -55,7 +55,10 @@
   
   <div *ngIf="showUpcoming">
     <div class="sHeader">Upcoming</div>
-    <div class="sNextSeason">See you in the 2026 Season as Back-To-Back Champions</div>
+    <div class="sNextSeason">
+      <div>World Series Parade Nov 3, 2025</div>
+      <div>See you in the 2026 Season as Back-To-Back Champions</div>
+    </div>
     <div class="sUpcoming">
       <div *ngFor="let game of upcoming">
         <div class="sBall">
